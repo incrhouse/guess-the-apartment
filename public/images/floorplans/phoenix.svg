@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+<rect width="600" height="300" fill="#1a0808"/>
+<!-- Desert sunset glow -->
+<rect width="600" height="300" fill="#2a0a05" opacity="0.5"/>
+<circle cx="300" cy="80" r="60" fill="#E8442A" opacity="0.15"/>
+<circle cx="300" cy="80" r="35" fill="#ff6633" opacity="0.12"/>
+<circle cx="300" cy="80" r="18" fill="#ffaa44" opacity="0.2"/>
+<circle cx="80" cy="22" r="1" fill="white" opacity="0.4"/>
+<circle cx="480" cy="30" r="1.2" fill="white" opacity="0.3"/>
+<!-- Saguaro cacti -->
+<rect x="25" y="145" width="8" height="65" fill="#1a3a1a"/>
+<rect x="15" y="162" width="12" height="6" fill="#1a3a1a"/>
+<rect x="27" y="155" width="6" height="12" fill="#1a3a1a" transform="rotate(-15 30 162)"/>
+<rect x="28" y="155" width="6" height="20" fill="#1a3a1a" transform="rotate(20 31 162)"/>
+<rect x="555" y="148" width="8" height="62" fill="#1a3a1a"/>
+<rect x="543" y="165" width="12" height="6" fill="#1a3a1a"/>
+<rect x="557" y="158" width="6" height="22" fill="#1a3a1a" transform="rotate(-20 560 165)"/>
+<rect x="557" y="158" width="6" height="18" fill="#1a3a1a" transform="rotate(15 560 165)"/>
+<!-- Small saguaro -->
+<rect x="70" y="168" width="6" height="42" fill="#1a3a1a"/>
+<rect x="524" y="170" width="6" height="40" fill="#1a3a1a"/>
+<!-- Desert hills -->
+<path d="M 0 185 Q 150 150 300 168 Q 450 150 600 185 L 600 210 L 0 210 Z" fill="#2a1a0a"/>
+<!-- Phoenix buildings -->
+<rect x="100" y="125" width="22" height="85" fill="#111827"/>
+<rect x="128" y="112" width="26" height="98" fill="#0f172a"/>
+<rect x="160" y="122" width="22" height="88" fill="#111827"/>
+<rect x="188" y="108" width="28" height="102" fill="#0f172a"/>
+<rect x="222" y="118" width="22" height="92" fill="#111827"/>
+<rect x="250" y="105" width="28" height="105" fill="#0f172a"/>
+<rect x="284" y="115" width="24" height="95" fill="#111827"/>
+<rect x="314" y="108" width="26" height="102" fill="#0f172a"/>
+<rect x="346" y="118" width="22" height="92" fill="#111827"/>
+<rect x="374" y="108" width="28" height="102" fill="#0f172a"/>
+<rect x="408" y="120" width="22" height="90" fill="#111827"/>
+<rect x="436" y="110" width="26" height="100" fill="#0f172a"/>
+<rect x="468" y="122" width="22" height="88" fill="#111827"/>
+<!-- Windows -->
+<rect x="132" y="122" width="4" height="5" fill="#E8442A" opacity="0.5"/>
+<rect x="192" y="118" width="4" height="5" fill="#E8442A" opacity="0.4"/>
+<rect x="254" y="115" width="4" height="5" fill="#E8442A" opacity="0.5"/>
+<rect x="318" y="118" width="4" height="5" fill="#E8442A" opacity="0.4"/>
+<rect x="378" y="118" width="4" height="5" fill="#E8442A" opacity="0.5"/>
+<rect x="440" y="120" width="4" height="5" fill="#E8442A" opacity="0.4"/>
+<rect x="0" y="210" width="600" height="90" fill="#050508"/>
+<line x1="0" y1="210" x2="600" y2="210" stroke="#E8442A" stroke-width="1" opacity="0.5"/>
+<rect x="0" y="118" width="600" height="62" fill="black" opacity="0.65"/>
+<line x1="40" y1="121" x2="560" y2="121" stroke="#E8442A" stroke-width="1" opacity="0.8"/>
+<text x="300" y="160" font-family="monospace" font-size="26" font-weight="700" fill="white" text-anchor="middle" letter-spacing="6">PHOENIX</text>
+<line x1="40" y1="177" x2="560" y2="177" stroke="#E8442A" stroke-width="1" opacity="0.8"/>
+</svg>

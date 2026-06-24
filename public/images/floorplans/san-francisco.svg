@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+<rect width="600" height="300" fill="#080818"/>
+<circle cx="100" cy="22" r="1" fill="white" opacity="0.5"/>
+<circle cx="220" cy="38" r="1.2" fill="white" opacity="0.4"/>
+<circle cx="380" cy="15" r="1" fill="white" opacity="0.6"/>
+<circle cx="500" cy="28" r="1.5" fill="white" opacity="0.3"/>
+<circle cx="560" cy="40" r="18" fill="#2D5BE3" opacity="0.08"/>
+<circle cx="560" cy="40" r="10" fill="white" opacity="0.7"/>
+<!-- Water/Bay -->
+<rect x="0" y="195" width="600" height="15" fill="#0a1a3a" opacity="0.8"/>
+<!-- Golden Gate Bridge -->
+<rect x="60" y="160" width="8" height="50" fill="#c0392b"/>
+<rect x="60" y="148" width="8" height="16" fill="#c0392b"/>
+<rect x="60" y="140" width="8" height="10" fill="#e74c3c"/>
+<rect x="200" y="155" width="8" height="55" fill="#c0392b"/>
+<rect x="200" y="143" width="8" height="16" fill="#c0392b"/>
+<rect x="200" y="135" width="8" height="10" fill="#e74c3c"/>
+<!-- Cables -->
+<path d="M64 148 Q132 165 204 143" fill="none" stroke="#e74c3c" stroke-width="2"/>
+<path d="M64 148 Q132 180 204 155" fill="none" stroke="#e74c3c" stroke-width="1.5"/>
+<!-- Vertical cable lines -->
+<line x1="90" y1="168" x2="90" y2="178" stroke="#e74c3c" stroke-width="1"/>
+<line x1="110" y1="166" x2="110" y2="178" stroke="#e74c3c" stroke-width="1"/>
+<line x1="130" y1="165" x2="130" y2="178" stroke="#e74c3c" stroke-width="1"/>
+<line x1="150" y1="165" x2="150" y2="178" stroke="#e74c3c" stroke-width="1"/>
+<line x1="170" y1="166" x2="170" y2="178" stroke="#e74c3c" stroke-width="1"/>
+<line x1="190" y1="168" x2="190" y2="178" stroke="#e74c3c" stroke-width="1"/>
+<!-- Road deck -->
+<rect x="60" y="175" width="148" height="5" fill="#555566"/>
+<!-- SF Buildings -->
+<rect x="270" y="105" width="20" height="105" fill="#111827"/>
+<rect x="296" y="90" width="24" height="120" fill="#0f172a"/>
+<rect x="326" y="80" width="28" height="130" fill="#111827"/>
+<!-- Transamerica Pyramid -->
+<polygon points="380,60 365,210 395,210" fill="#0f172a"/>
+<rect x="377" y="55" width="6" height="8" fill="#8899aa"/>
+<rect x="340" y="110" width="20" height="100" fill="#111827"/>
+<rect x="406" y="95" width="24" height="115" fill="#0f172a"/>
+<rect x="436" y="108" width="20" height="102" fill="#111827"/>
+<rect x="462" y="90" width="26" height="120" fill="#0f172a"/>
+<rect x="494" y="105" width="22" height="105" fill="#111827"/>
+<rect x="522" y="95" width="24" height="115" fill="#0f172a"/>
+<rect x="552" y="110" width="22" height="100" fill="#111827"/>
+<!-- Windows -->
+<rect x="300" y="100" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="308" y="100" width="4" height="5" fill="#2D5BE3" opacity="0.4"/>
+<rect x="330" y="90" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="338" y="90" width="4" height="5" fill="#2D5BE3" opacity="0.3"/>
+<rect x="410" y="105" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="466" y="100" width="4" height="5" fill="#2D5BE3" opacity="0.4"/>
+<rect x="474" y="100" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="0" y="210" width="600" height="90" fill="#050508"/>
+<line x1="0" y1="210" x2="600" y2="210" stroke="#2D5BE3" stroke-width="1" opacity="0.4"/>
+<rect x="0" y="118" width="600" height="62" fill="black" opacity="0.65"/>
+<line x1="40" y1="121" x2="560" y2="121" stroke="#2D5BE3" stroke-width="1" opacity="0.8"/>
+<text x="300" y="160" font-family="monospace" font-size="24" font-weight="700" fill="white" text-anchor="middle" letter-spacing="5">SAN FRANCISCO</text>
+<line x1="40" y1="177" x2="560" y2="177" stroke="#2D5BE3" stroke-width="1" opacity="0.8"/>
+</svg>

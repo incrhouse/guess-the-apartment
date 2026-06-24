@@ -1,0 +1,621 @@
+[
+  {
+    "id": "GTA-001",
+    "slug": "studio-nyc-bathroom-through-bedroom",
+    "city": "New York City",
+    "apartment_type": "Studio",
+    "question": "What is the biggest layout flaw in this NYC studio apartment?",
+    "options": [
+      "The kitchen lacks counter space",
+      "The only bathroom access is through the sleeping area",
+      "The living area faces north with no direct sunlight",
+      "The front door opens directly into the kitchen"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The only bathroom access is through the sleeping area",
+    "explanation": "In this studio, the bathroom is tucked behind the sleeping zone \u2014 meaning any guest must walk through your bed area to use it. This is one of the most common and frustrating layout flaws in pre-war NYC studios, making the apartment functionally unusable for entertaining or having roommates.",
+    "flaw_category": "traffic_flow",
+    "flaw_tags": [
+      "bathroom_access",
+      "privacy",
+      "pre-war",
+      "studio"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: NYC Studio Bathroom Access Problem",
+      "description": "Can you spot the layout flaw in this New York City studio apartment? The bathroom placement makes this unit a nightmare for guests. Play now."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, NYC studio apartment, 400 square feet, bathroom only accessible through sleeping alcove, galley kitchen along one wall, no entryway, clean minimal line drawing style, white background, black lines, labeled rooms, architectural blueprint aesthetic",
+    "image": "/images/floorplans/studio-nyc-bathroom-through-bedroom.svg",
+    "city_image": "/images/floorplans/new-york-city.svg"
+  },
+  {
+    "id": "GTA-002",
+    "slug": "1bed-chicago-no-closet-bedroom",
+    "city": "Chicago",
+    "apartment_type": "1 Bedroom",
+    "question": "A renter just moved into this Chicago 1-bedroom and immediately regrets it. Why?",
+    "options": [
+      "The bedroom has no closet whatsoever",
+      "The living room is smaller than the bedroom",
+      "The kitchen is separated from the living area by a long hallway",
+      "The bathroom has no window or ventilation"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The bedroom has no closet whatsoever",
+    "explanation": "Pre-1920s Chicago courtyard apartments frequently omitted bedroom closets entirely \u2014 closets were taxed as rooms in some eras, so developers skipped them. Without a closet, renters are forced to buy wardrobes that eat into already tight square footage. Always check for closet square footage before signing a lease.",
+    "flaw_category": "storage",
+    "flaw_tags": [
+      "no_closet",
+      "storage",
+      "pre-war",
+      "chicago",
+      "courtyard_building"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Chicago 1-Bedroom With No Closet",
+      "description": "This Chicago apartment has a sneaky flaw that renters only discover after moving in. Can you spot it from the floor plan?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Chicago courtyard apartment, 1 bedroom, no closet in bedroom, bathroom off hallway, galley kitchen, small living room, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, circa 1920s building layout",
+    "image": "/images/floorplans/1bed-chicago-no-closet-bedroom.svg",
+    "city_image": "/images/floorplans/chicago.svg"
+  },
+  {
+    "id": "GTA-003",
+    "slug": "2bed-austin-front-door-into-bedroom",
+    "city": "Austin",
+    "apartment_type": "2 Bedroom",
+    "question": "What makes this Austin 2-bedroom immediately uncomfortable to live in?",
+    "options": [
+      "The second bedroom has no exterior window",
+      "The front door opens directly into the master bedroom",
+      "The kitchen and bathroom share a wall with no ventilation",
+      "The living room cannot fit a standard sofa"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The front door opens directly into the master bedroom",
+    "explanation": "When a front door opens directly into a bedroom rather than a living area or entryway, there is zero transition space between the public and private zones of the apartment. Every visitor, delivery, or knock immediately exposes the most personal room in the home. This flaw is common in cheaply converted single-family homes split into multi-unit rentals.",
+    "flaw_category": "privacy",
+    "flaw_tags": [
+      "no_entryway",
+      "privacy",
+      "converted_rental",
+      "austin",
+      "door_placement"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Austin 2-Bedroom Front Door Into Bedroom",
+      "description": "This Austin apartment has a layout flaw that destroys all privacy. Can you identify it from the floor plan before a renter makes a costly mistake?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Austin Texas 2 bedroom apartment, converted house unit, front door opening directly into master bedroom, no entryway buffer, second bedroom off hallway, small kitchen at rear, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2bed-austin-front-door-into-bedroom.svg",
+    "city_image": "/images/floorplans/austin.svg"
+  },
+  {
+    "id": "GTA-004",
+    "slug": "studio-sf-kitchen-no-ventilation",
+    "city": "San Francisco",
+    "apartment_type": "Studio",
+    "question": "This San Francisco studio rents for $2,400/month. What critical feature is missing from the kitchen?",
+    "options": [
+      "There is no dishwasher",
+      "The kitchen has no window, vent, or exhaust fan",
+      "The refrigerator placement blocks the only walkway",
+      "The kitchen counters face away from the living area"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The kitchen has no window, vent, or exhaust fan",
+    "explanation": "A kitchen with no ventilation means every meal fills the entire studio with smoke, grease, and odors that have nowhere to escape. In San Francisco's dense Victorian and Edwardian stock, interior kitchens with zero airflow are surprisingly common. Cooking anything more complex than toast becomes a smoke alarm event.",
+    "flaw_category": "ventilation",
+    "flaw_tags": [
+      "no_ventilation",
+      "kitchen",
+      "interior_room",
+      "san_francisco",
+      "victorian"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: SF Studio Kitchen With No Ventilation",
+      "description": "This $2,400/month San Francisco studio has a hidden flaw in the kitchen. Can you spot what's missing from the floor plan?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, San Francisco Victorian studio apartment, interior kitchen with no exterior wall access, no window in kitchen, bathroom off main room, sleeping alcove, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, narrow lot building",
+    "image": "/images/floorplans/studio-sf-kitchen-no-ventilation.svg",
+    "city_image": "/images/floorplans/san-francisco.svg"
+  },
+  {
+    "id": "GTA-005",
+    "slug": "1bed-brooklyn-railroad-layout",
+    "city": "Brooklyn",
+    "apartment_type": "1 Bedroom",
+    "question": "What is the defining problem with this classic Brooklyn railroad apartment?",
+    "options": [
+      "The bathroom is inside the bedroom",
+      "Every room connects in a straight line with no hallway, so all rooms must be walked through to reach the back",
+      "The living room has no windows",
+      "The kitchen is at the front of the apartment with no separation from the entryway"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "Every room connects in a straight line with no hallway, so all rooms must be walked through to reach the back",
+    "explanation": "Railroad apartments \u2014 named because rooms line up like train cars \u2014 have zero hallways. To reach the bedroom, you walk through the living room and kitchen. To reach the bathroom, you walk through the bedroom. This completely eliminates privacy between roommates and makes every room a thoroughfare rather than a destination.",
+    "flaw_category": "traffic_flow",
+    "flaw_tags": [
+      "railroad_layout",
+      "no_hallway",
+      "brooklyn",
+      "privacy",
+      "roommate_incompatible"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Brooklyn Railroad Apartment Layout Problem",
+      "description": "The classic Brooklyn railroad apartment has one layout flaw that makes roommate living nearly impossible. Can you identify it?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Brooklyn railroad apartment, rooms in straight line sequence, no hallway, living room connects to kitchen connects to bedroom connects to bathroom, narrow building footprint, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, pre-war building",
+    "image": "/images/floorplans/1bed-brooklyn-railroad-layout.svg",
+    "city_image": "/images/floorplans/brooklyn.svg"
+  },
+  {
+    "id": "GTA-006",
+    "slug": "2bed-miami-second-bedroom-no-window",
+    "city": "Miami",
+    "apartment_type": "2 Bedroom",
+    "question": "You're apartment hunting in Miami and something is legally questionable about this 2-bedroom. What is it?",
+    "options": [
+      "The balcony is too small to use",
+      "The second bedroom has no window, meaning it may not legally qualify as a bedroom",
+      "The kitchen opens directly onto the balcony",
+      "The master bathroom has no bathtub"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The second bedroom has no window, meaning it may not legally qualify as a bedroom",
+    "explanation": "Most building codes require a bedroom to have at least one window for emergency egress and natural light. A room without a window is technically a den, office, or storage room \u2014 not a bedroom. Landlords who list windowless rooms as bedrooms are often violating local housing codes. In Miami's condo-conversion market, this is a frequent issue in units carved from larger floor plates.",
+    "flaw_category": "legal",
+    "flaw_tags": [
+      "no_window",
+      "illegal_bedroom",
+      "building_code",
+      "miami",
+      "condo_conversion"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Miami 2-Bedroom With Illegal Second Bedroom",
+      "description": "This Miami apartment is advertising something that may not be legal. Can you spot the floor plan flaw that could void your lease protections?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Miami condo apartment, 2 bedroom, second bedroom interior with no exterior wall or window, master bedroom with balcony access, open plan kitchen living area, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, modern high-rise building",
+    "image": "/images/floorplans/2bed-miami-second-bedroom-no-window.svg",
+    "city_image": "/images/floorplans/miami.svg"
+  },
+  {
+    "id": "GTA-007",
+    "slug": "studio-seattle-bedroom-facing-alley",
+    "city": "Seattle",
+    "apartment_type": "Studio",
+    "question": "This Seattle studio has a noise problem baked into its layout. What causes it?",
+    "options": [
+      "The studio is on the ground floor with windows at sidewalk level",
+      "The only windows face a commercial loading alley used 24 hours a day",
+      "The bathroom shares a wall with the neighbor's bedroom",
+      "The heating unit is positioned in the center of the sleeping area"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The only windows face a commercial loading alley used 24 hours a day",
+    "explanation": "Window orientation matters as much as window size. A studio where the only natural light and ventilation comes from an alley facing a restaurant loading dock means constant noise from deliveries, dumpsters, and exhaust fans at all hours. Always check what your windows face \u2014 not just whether they exist.",
+    "flaw_category": "orientation",
+    "flaw_tags": [
+      "alley_facing",
+      "noise",
+      "light",
+      "seattle",
+      "commercial_adjacent"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Seattle Studio With Alley-Facing Windows",
+      "description": "This Seattle studio has a layout flaw you can't fix with furniture. Can you spot why the window orientation makes this apartment unlivable?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Seattle studio apartment, all windows facing interior alley, no street-facing windows, kitchen along interior wall, sleeping area with alley exposure, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, mixed-use building",
+    "image": "/images/floorplans/studio-seattle-bedroom-facing-alley.svg",
+    "city_image": "/images/floorplans/seattle.svg"
+  },
+  {
+    "id": "GTA-008",
+    "slug": "1bed-denver-washer-dryer-in-kitchen",
+    "city": "Denver",
+    "apartment_type": "1 Bedroom",
+    "question": "This Denver 1-bedroom advertises in-unit laundry. What is wrong with where it is located?",
+    "options": [
+      "The washer and dryer are stacked in the kitchen next to the refrigerator",
+      "The laundry closet is inside the bedroom with no soundproofing",
+      "The washer hookup requires access through the bathroom",
+      "The dryer vents directly into the living room"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The washer and dryer are stacked in the kitchen next to the refrigerator",
+    "explanation": "In-unit laundry is a premium feature \u2014 until the washer is wedged between your stove and refrigerator. Kitchen-placed laundry units create humidity, vibration, and noise directly in your food prep area. They also typically occupy the space where a pantry or additional counter would go. This is a common workaround in older Denver buildings retrofitted for laundry without proper utility closets.",
+    "flaw_category": "layout_logic",
+    "flaw_tags": [
+      "laundry_in_kitchen",
+      "appliance_placement",
+      "denver",
+      "retrofit",
+      "humidity"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Denver 1-Bedroom With Laundry in Kitchen",
+      "description": "This Denver apartment has in-unit laundry \u2014 but the location is a major problem. Can you spot it in the floor plan?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Denver 1 bedroom apartment, stacked washer dryer unit positioned in kitchen area beside refrigerator, no utility closet, bathroom off hallway, bedroom at rear, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, 1970s building conversion",
+    "image": "/images/floorplans/1bed-denver-washer-dryer-in-kitchen.svg",
+    "city_image": "/images/floorplans/denver.svg"
+  },
+  {
+    "id": "GTA-009",
+    "slug": "2bed-boston-bedroom-converted-living-room",
+    "city": "Boston",
+    "apartment_type": "2 Bedroom",
+    "question": "This Boston 2-bedroom was originally a 1-bedroom. What gives away the illegal conversion?",
+    "options": [
+      "One bedroom has two doors but no closet and shares a wall with the living room",
+      "The kitchen is larger than both bedrooms combined",
+      "The bathroom can only be accessed from outside the apartment",
+      "The second bedroom is accessible only via the fire escape"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "One bedroom has two doors but no closet and shares a wall with the living room",
+    "explanation": "When landlords convert a large living room into a 'second bedroom' by adding a partition wall, the result is a room with two doors, no closet, and paper-thin walls shared with the common area. In Boston's tight rental market, these conversions are widespread. The giveaway on a floor plan is a bedroom that has no logical placement, multiple entry points, and shares every wall with a common room.",
+    "flaw_category": "illegal_conversion",
+    "flaw_tags": [
+      "illegal_conversion",
+      "no_closet",
+      "boston",
+      "partition_wall",
+      "shared_wall"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Boston Illegally Converted 2-Bedroom",
+      "description": "This Boston 2-bedroom used to be a 1-bedroom. Can you spot the floor plan clues that reveal the illegal conversion?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Boston brownstone apartment, second bedroom created by partition wall dividing original living room, second bedroom has two doors and no closet, shares wall with remaining living area, original bedroom at rear, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2bed-boston-bedroom-converted-living-room.svg",
+    "city_image": "/images/floorplans/boston.svg"
+  },
+  {
+    "id": "GTA-010",
+    "slug": "studio-la-murphy-bed-blocks-window",
+    "city": "Los Angeles",
+    "apartment_type": "Studio",
+    "question": "This Los Angeles studio markets itself as 'cleverly designed.' What does the floor plan reveal?",
+    "options": [
+      "The Murphy bed, when folded down, completely blocks the only window in the apartment",
+      "The kitchen counter doubles as the bathroom vanity",
+      "The closet is located outside the apartment in a shared hallway",
+      "The living area is separated from the sleeping area by a structural column"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The Murphy bed, when folded down, completely blocks the only window in the apartment",
+    "explanation": "Murphy beds are sold as space-saving solutions, but poor placement can create new problems. When a fold-down bed is positioned on the same wall as the unit's only window, using your bed means losing all natural light and ventilation. In LA's micro-unit market, this compromise is common in sub-350 square foot studios where every wall is spoken for.",
+    "flaw_category": "furniture_conflict",
+    "flaw_tags": [
+      "murphy_bed",
+      "window_blocked",
+      "micro_unit",
+      "los_angeles",
+      "natural_light"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: LA Studio Where Murphy Bed Blocks the Only Window",
+      "description": "This LA studio calls itself cleverly designed. The floor plan tells a different story. Can you spot the flaw?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Los Angeles micro studio apartment, murphy bed mounted on same wall as only window, kitchen along opposite wall, bathroom at entry, clean minimal line drawing, white background, black lines, labeled rooms with murphy bed shown in folded down position blocking window, architectural blueprint style",
+    "image": "/images/floorplans/studio-la-murphy-bed-blocks-window.svg",
+    "city_image": "/images/floorplans/los-angeles.svg"
+  },
+  {
+    "id": "GTA-011",
+    "slug": "1bed-portland-bathroom-off-kitchen",
+    "city": "Portland",
+    "apartment_type": "1 Bedroom",
+    "question": "Something about this Portland 1-bedroom's layout would fail a basic sanitation inspection today. What is it?",
+    "options": [
+      "The bathroom door opens directly into the kitchen",
+      "The bedroom has no door separating it from the living room",
+      "The kitchen sink and bathroom sink share the same drain line visibly",
+      "The only toilet is located on the building's exterior wall"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The bathroom door opens directly into the kitchen",
+    "explanation": "Building codes in most US cities prohibit a bathroom from opening directly into a food preparation area for sanitation reasons. This layout \u2014 common in early 1900s Portland bungalow conversions \u2014 predates modern codes. While existing units are often grandfathered in, it remains a genuine hygiene and resale concern. The fix requires a hallway buffer or a complete bathroom relocation.",
+    "flaw_category": "sanitation",
+    "flaw_tags": [
+      "bathroom_into_kitchen",
+      "sanitation_code",
+      "portland",
+      "bungalow_conversion",
+      "grandfathered"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Portland 1-Bedroom With Bathroom Opening Into Kitchen",
+      "description": "This Portland apartment has a layout that would fail modern building codes. Can you spot the sanitation flaw in the floor plan?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Portland Oregon bungalow conversion apartment, bathroom door opening directly into kitchen with no hallway buffer, bedroom at rear of unit, living room at front, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, early 1900s building",
+    "image": "/images/floorplans/1bed-portland-bathroom-off-kitchen.svg",
+    "city_image": "/images/floorplans/portland.svg"
+  },
+  {
+    "id": "GTA-012",
+    "slug": "2bed-atlanta-bedrooms-share-one-wall-paper-thin",
+    "city": "Atlanta",
+    "apartment_type": "2 Bedroom",
+    "question": "Two roommates moved into this Atlanta 2-bedroom and immediately had problems. What does the floor plan predict?",
+    "options": [
+      "The two bedrooms share a single wall with no buffer space, making sound transmission extreme",
+      "The living room is located between the two bedrooms with no sound separation",
+      "The master bedroom has no door",
+      "Both bedrooms share a single closet accessible from the hallway"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The two bedrooms share a single wall with no buffer space, making sound transmission extreme",
+    "explanation": "When two bedrooms share a direct wall with nothing between them \u2014 no closet, no hallway, no bathroom \u2014 every sound transfers between units. Conversations, alarms, music, and movement are all audible. Well-designed apartments buffer bedrooms with closets, bathrooms, or hallways on shared walls. This is one of the most overlooked floor plan details when apartment hunting.",
+    "flaw_category": "acoustics",
+    "flaw_tags": [
+      "shared_wall",
+      "sound_transmission",
+      "roommate",
+      "atlanta",
+      "no_buffer"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Atlanta 2-Bedroom With Direct Shared Bedroom Wall",
+      "description": "Two roommates in this Atlanta apartment can hear everything. Can you spot the acoustic flaw in the floor plan before you sign a lease?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Atlanta 2 bedroom apartment, two bedrooms sharing direct wall with no closet or bathroom buffer between them, living room and kitchen in open plan at front, single bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2bed-atlanta-bedrooms-share-one-wall-paper-thin.svg",
+    "city_image": "/images/floorplans/atlanta.svg"
+  },
+  {
+    "id": "GTA-013",
+    "slug": "studio-dc-no-separation-sleeping-living",
+    "city": "Washington DC",
+    "apartment_type": "Studio",
+    "question": "This Washington DC studio rents for $1,900/month. What makes it functionally difficult to work from home in?",
+    "options": [
+      "There is no desk space anywhere in the floor plan",
+      "The sleeping area has zero visual or physical separation from the front door entry",
+      "The kitchen is located in a windowless alcove",
+      "The bathroom is accessible only through a shared hallway outside the unit"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The sleeping area has zero visual or physical separation from the front door entry",
+    "explanation": "In studios without any transition zone, your bed is the first thing visible when the front door opens. For remote workers hosting video calls, there is nowhere to escape the visual of an unmade bed or personal items. A good studio design places the sleeping area furthest from the entry and uses at least a partial wall or built-in storage to create separation.",
+    "flaw_category": "zoning",
+    "flaw_tags": [
+      "no_separation",
+      "work_from_home",
+      "sleeping_area",
+      "washington_dc",
+      "entry_exposure"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: DC Studio With No Sleeping Area Separation",
+      "description": "This Washington DC studio is terrible for working from home. Can you see why from the floor plan?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Washington DC studio apartment, front door opens with direct sight line to bed with no visual buffer, kitchen along side wall, bathroom off entry, sleeping area at far end but fully visible from door, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-dc-no-separation-sleeping-living.svg",
+    "city_image": "/images/floorplans/washington-dc.svg"
+  },
+  {
+    "id": "GTA-014",
+    "slug": "1bed-nashville-closet-bigger-than-bedroom",
+    "city": "Nashville",
+    "apartment_type": "1 Bedroom",
+    "question": "Something is disproportionate about this Nashville 1-bedroom. What does the floor plan reveal?",
+    "options": [
+      "The walk-in closet is larger than the bedroom it serves",
+      "The kitchen is twice the size of the living room",
+      "The bathroom footprint takes up 40% of the total apartment",
+      "The hallway between rooms is wider than a standard door"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The walk-in closet is larger than the bedroom it serves",
+    "explanation": "In Nashville's new construction apartment boom, developers sometimes allocate oversized closet space to market units as 'luxury' while shrinking the actual bedroom to compensate. The result is a bedroom that cannot fit a queen bed with nightstands, while the adjacent closet could fit a twin bed. Always check bedroom dimensions independently, not just total square footage.",
+    "flaw_category": "proportion",
+    "flaw_tags": [
+      "closet_oversized",
+      "bedroom_undersized",
+      "nashville",
+      "new_construction",
+      "marketing_flaw"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Nashville 1-Bedroom Where Closet Is Bigger Than Bedroom",
+      "description": "This Nashville luxury apartment has a proportion problem. Can you spot the floor plan flaw that new construction developers hope you miss?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Nashville new construction 1 bedroom apartment, walk-in closet visibly larger than the bedroom it is attached to, open plan kitchen living area, bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms with square footage annotations, architectural blueprint style, modern building",
+    "image": "/images/floorplans/1bed-nashville-closet-bigger-than-bedroom.svg",
+    "city_image": "/images/floorplans/nashville.svg"
+  },
+  {
+    "id": "GTA-015",
+    "slug": "2bed-phoenix-no-shade-west-facing-windows",
+    "city": "Phoenix",
+    "apartment_type": "2 Bedroom",
+    "question": "This Phoenix 2-bedroom will have brutal utility bills. What does the floor plan tell you about why?",
+    "options": [
+      "All living area and bedroom windows face due west with no overhang or shade structure",
+      "The kitchen has an electric stove in a non-ventilated space",
+      "The unit is on the top floor with a flat roof and no insulation buffer",
+      "The HVAC unit is positioned inside the master bedroom"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "All living area and bedroom windows face due west with no overhang or shade structure",
+    "explanation": "In Phoenix, west-facing windows receive direct afternoon sun from 1pm until sunset \u2014 the hottest hours of the day. Without exterior shading, these windows act as solar heaters, dramatically increasing cooling costs from May through October. In Arizona's climate, window orientation is as important as square footage when evaluating an apartment's true cost of living.",
+    "flaw_category": "climate",
+    "flaw_tags": [
+      "west_facing",
+      "solar_gain",
+      "phoenix",
+      "utility_costs",
+      "orientation"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Phoenix 2-Bedroom With West-Facing Windows",
+      "description": "This Phoenix apartment will cost you hundreds extra in summer cooling bills. Can you spot the orientation flaw in the floor plan?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan with compass orientation shown, Phoenix Arizona 2 bedroom apartment, all primary windows on west-facing wall, living room and both bedrooms facing west, no shade overhangs indicated, kitchen and bathroom on east interior side, clean minimal line drawing, white background, black lines, labeled rooms, north arrow indicator, architectural blueprint style",
+    "image": "/images/floorplans/2bed-phoenix-no-shade-west-facing-windows.svg",
+    "city_image": "/images/floorplans/phoenix.svg"
+  },
+  {
+    "id": "GTA-016",
+    "slug": "studio-minneapolis-radiator-blocks-only-outlet",
+    "city": "Minneapolis",
+    "apartment_type": "Studio",
+    "question": "This Minneapolis studio has a heating system that creates an unexpected secondary problem. What is it?",
+    "options": [
+      "The cast iron radiator is positioned directly in front of the unit's only electrical outlet wall",
+      "The boiler access panel is located inside the bathroom",
+      "The radiator pipes run visibly across the middle of the ceiling",
+      "The heating unit is positioned to blow directly onto the bed"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The cast iron radiator is positioned directly in front of the unit's only electrical outlet wall",
+    "explanation": "In Minneapolis's older steam-heated apartments, cast iron radiators are fixed and immovable. When a radiator is positioned against the only wall with electrical outlets, it creates a permanent obstacle. You cannot safely place furniture or electronics directly against a hot radiator, effectively eliminating the most logical desk and entertainment setup wall in the apartment.",
+    "flaw_category": "utility_conflict",
+    "flaw_tags": [
+      "radiator",
+      "outlet_blocked",
+      "minneapolis",
+      "steam_heat",
+      "older_building"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Minneapolis Studio Where Radiator Blocks Only Outlet Wall",
+      "description": "This Minneapolis apartment has an old-building problem that makes furniture layout nearly impossible. Can you spot it in the floor plan?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Minneapolis older apartment building studio, cast iron radiator unit shown positioned against primary electrical outlet wall, kitchen alcove, bathroom at entry, sleeping and living area as one room, clean minimal line drawing, white background, black lines, labeled rooms with radiator and outlet symbols marked, architectural blueprint style, pre-1950 building",
+    "image": "/images/floorplans/studio-minneapolis-radiator-blocks-only-outlet.svg",
+    "city_image": "/images/floorplans/minneapolis.svg"
+  },
+  {
+    "id": "GTA-017",
+    "slug": "1bed-new-orleans-shotgun-no-cross-ventilation",
+    "city": "New Orleans",
+    "apartment_type": "1 Bedroom",
+    "question": "This New Orleans shotgun apartment was built before air conditioning. What layout flaw makes it unbearable in summer today?",
+    "options": [
+      "Windows exist only on the front and rear walls with no side ventilation, making cross breeze impossible in interior rooms",
+      "The kitchen is at the front of the apartment facing the street",
+      "The bathroom was added as an exterior attachment with no interior access",
+      "The bedroom ceiling height is lower than the rest of the apartment"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "Windows exist only on the front and rear walls with no side ventilation, making cross breeze impossible in interior rooms",
+    "explanation": "New Orleans shotgun houses were originally designed for cross ventilation \u2014 front to back airflow through open doors. When these are converted to apartments with closed interior layouts and no side windows, the middle rooms become dead air zones. Without AC, they are unlivable in summer. With AC, they require more units and higher bills than a comparable apartment with better orientation.",
+    "flaw_category": "ventilation",
+    "flaw_tags": [
+      "no_cross_ventilation",
+      "shotgun_house",
+      "new_orleans",
+      "heat",
+      "historic_conversion"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: New Orleans Shotgun Apartment With No Cross Ventilation",
+      "description": "This New Orleans historic apartment was designed for a different era. Can you spot the ventilation flaw that makes it a summer nightmare?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, New Orleans shotgun house apartment conversion, rooms in single file front to back, windows only on front facade and rear wall, no side windows on either long wall, kitchen middle of unit, bedroom at rear, bathroom added at back, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, narrow lot",
+    "image": "/images/floorplans/1bed-new-orleans-shotgun-no-cross-ventilation.svg",
+    "city_image": "/images/floorplans/new-orleans.svg"
+  },
+  {
+    "id": "GTA-018",
+    "slug": "2bed-seattle-bedroom-below-grade",
+    "city": "Seattle",
+    "apartment_type": "2 Bedroom",
+    "question": "This Seattle 2-bedroom is priced below market. The floor plan shows exactly why. What is the issue?",
+    "options": [
+      "One bedroom is fully below grade with window wells instead of standard windows",
+      "The second bedroom is accessible only via an outdoor staircase",
+      "The master bedroom shares a floor with a commercial kitchen in the unit below",
+      "Both bedrooms face an interior light well shared with twelve other units"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "One bedroom is fully below grade with window wells instead of standard windows",
+    "explanation": "Below-grade bedrooms \u2014 common in Seattle's hillside buildings \u2014 sit partially or fully underground, with small window wells at ground level as the only light source. These windows provide minimal natural light, near-zero ventilation, and a direct view of a concrete retaining wall. In Seattle's rainy climate, below-grade rooms are also at high risk for moisture intrusion and mold.",
+    "flaw_category": "below_grade",
+    "flaw_tags": [
+      "below_grade",
+      "window_well",
+      "moisture",
+      "seattle",
+      "hillside_building"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Seattle 2-Bedroom With Below-Grade Bedroom",
+      "description": "This Seattle apartment is suspiciously cheap. The floor plan reveals a bedroom that barely qualifies as habitable. Can you spot it?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan with section elevation indicator, Seattle hillside apartment building, 2 bedroom unit, one bedroom shown below grade level with window well openings instead of standard windows, main living areas at grade level, bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms with grade level indicator, architectural blueprint style",
+    "image": "/images/floorplans/2bed-seattle-bedroom-below-grade.svg",
+    "city_image": "/images/floorplans/seattle.svg"
+  },
+  {
+    "id": "GTA-019",
+    "slug": "studio-nyc-loft-no-bedroom-separation",
+    "city": "New York City",
+    "apartment_type": "Loft Studio",
+    "question": "This NYC loft is marketed as an 'open concept luxury studio.' What does the floor plan tell you that the listing photos hide?",
+    "options": [
+      "The sleeping loft has a ceiling height of under 5 feet, making it impossible to stand up in",
+      "The open concept means there is no door anywhere in the apartment including the bathroom",
+      "The kitchen island is the only room divider in the entire 600 square foot space",
+      "The loft level bedroom is accessible only by a fixed vertical ladder"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The loft level bedroom is accessible only by a fixed vertical ladder",
+    "explanation": "Loft bedrooms accessed by vertical ladders rather than stairs are a common space-saving technique in NYC conversions \u2014 and a significant daily inconvenience. Carrying anything to bed requires two free hands and athletic agility. Getting up at night is a safety risk. Moving furniture in or out is nearly impossible. Listing photos always show the ladder as charming. Floor plans reveal it is the only option.",
+    "flaw_category": "accessibility",
+    "flaw_tags": [
+      "loft_ladder",
+      "accessibility",
+      "nyc",
+      "vertical_access",
+      "loft_conversion"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: NYC Loft Studio With Ladder-Only Bedroom Access",
+      "description": "This NYC loft calls it luxury living. The floor plan shows a bedroom you can only reach by climbing a ladder. Can you spot it?"
+    },
+    "midjourney_prompt": "top-down and section architectural floor plan, NYC loft studio apartment, upper sleeping loft level accessible only by fixed vertical ladder shown in section view, main floor with open kitchen living area, bathroom at entry level, loft platform visible in section, clean minimal line drawing, white background, black lines, labeled rooms and levels, architectural blueprint style, converted industrial building",
+    "image": "/images/floorplans/studio-nyc-loft-no-bedroom-separation.svg",
+    "city_image": "/images/floorplans/new-york-city.svg"
+  },
+  {
+    "id": "GTA-020",
+    "slug": "1bed-chicago-kitchen-in-hallway",
+    "city": "Chicago",
+    "apartment_type": "1 Bedroom",
+    "question": "This Chicago 1-bedroom has a kitchen placement that makes cooking feel like a fire hazard. Why?",
+    "options": [
+      "The kitchen is positioned in the main hallway, meaning all foot traffic passes within inches of the stove",
+      "The kitchen stove faces the bedroom door with no separation",
+      "The kitchen exhaust vents into the bedroom rather than outside",
+      "The kitchen is positioned directly below the building's electrical panel"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The kitchen is positioned in the main hallway, meaning all foot traffic passes within inches of the stove",
+    "explanation": "Hallway kitchens \u2014 sometimes called 'Pullman kitchens' \u2014 are a Chicago specialty from the era of small worker apartments. The entire kitchen runs along one wall of the main corridor, meaning anyone moving through the apartment passes directly behind someone cooking. Hot pans, open flames, and pedestrian traffic in a 36-inch wide hallway is a genuine safety concern and makes cooking feel chaotic.",
+    "flaw_category": "safety",
+    "flaw_tags": [
+      "hallway_kitchen",
+      "pullman_kitchen",
+      "chicago",
+      "safety",
+      "traffic_conflict"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Chicago 1-Bedroom With Hallway Kitchen",
+      "description": "This Chicago apartment has a kitchen placement that makes cooking dangerous. Can you identify the classic Pullman kitchen flaw from the floor plan?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Chicago worker apartment 1 bedroom, Pullman kitchen running along one wall of main hallway corridor, stove and counter in traffic path, bedroom at rear, living room at front, bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, early 1900s dense urban building",
+    "image": "/images/floorplans/1bed-chicago-kitchen-in-hallway.svg",
+    "city_image": "/images/floorplans/chicago.svg"
+  }
+]

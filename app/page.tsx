@@ -1,113 +1,107 @@
-import Image from "next/image";
+import { getAllEntries, getRandomEntry } from '@/lib/data'
 
-export default function Home() {
+export default function HomePage() {
+  const featured = getAllEntries().slice(0, 6)
+  const randomEntry = getRandomEntry()
+  const cities = [...new Set(getAllEntries().map((e) => e.city))].sort()
+  const categories = [...new Set(getAllEntries().map((e) => e.flaw_category))].sort()
+
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
-        <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Get started by editing&nbsp;
-          <code className="font-mono font-bold">app/page.tsx</code>
-        </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
-          <a
-            className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
+    <div className="min-h-screen bg-paper font-body">
+      <header className="border-b-2 border-ink px-6 py-4">
+        <div className="max-w-6xl mx-auto flex items-center justify-between">
+          <a href="/" className="font-display text-xl font-bold text-ink tracking-tight">
+            Guess The Apartment
+          </a>
+          <span className="font-mono text-xs text-muted hidden md:block">
+            {getAllEntries().length} floor plans
+          </span>
+        </div>
+      </header>
+
+      <section className="border-b-2 border-ink">
+        <div className="max-w-6xl mx-auto px-6 py-16">
+          <p className="font-mono text-xs text-authority uppercase tracking-widest mb-4">
+            Free apartment quiz game
+          </p>
+          <h1 className="font-display text-4xl lg:text-6xl font-bold text-ink leading-none mb-6 max-w-2xl">
+            Can you spot what is wrong with this apartment?
+          </h1>
+          <p className="font-body text-lg text-muted max-w-xl mb-10 leading-relaxed">
+            Every floor plan hides a flaw. Test your eye.
+          </p>
+          <a href={"/play/" + randomEntry.slug} className="inline-block bg-ink text-paper font-bold text-sm uppercase tracking-widest py-4 px-10 hover:bg-authority transition-colors">
+            Start Playing
           </a>
         </div>
-      </div>
+      </section>
 
-      <div className="relative z-[-1] flex place-items-center before:absolute before:h-[300px] before:w-full before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 sm:before:w-[480px] sm:after:w-[240px] before:lg:h-[360px]">
-        <Image
-          className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
+      <section className="border-b-2 border-ink">
+        <div className="max-w-6xl mx-auto px-6 py-12">
+          <p className="font-mono text-xs text-muted uppercase tracking-widest mb-8">Recent floor plans</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {featured.map((entry) => (
+              <a key={entry.slug} href={"/play/" + entry.slug} className="block p-6 border-2 border-ink bg-paper hover:bg-blue-50 transition-colors group" style={{ textDecoration: 'none' }}>
+                <div className="aspect-video bg-white border border-ink mb-4 overflow-hidden">
+  {(entry as any).city_image ? (
+    <img
+      src={(entry as any).city_image}
+      alt={entry.city}
+      className="w-full h-full object-cover"
+    />
+  ) : (
+    <div className="w-full h-full floor-plan-placeholder flex items-center justify-center">
+      <span className="font-mono text-xs text-muted uppercase tracking-widest">
+        {entry.city}
+      </span>
+    </div>
+  )}
+</div>
+                <p className="font-mono text-xs text-authority uppercase tracking-wider mb-2">
+                  {entry.apartment_type} · {entry.flaw_category.replace(/_/g, ' ')}
+                </p>
+                <p className="font-display text-sm font-semibold text-ink leading-snug group-hover:text-authority transition-colors">
+                  {entry.question}
+                </p>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
 
-      <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Docs{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Find in-depth information about Next.js features and API.
+      <section className="border-b-2 border-ink">
+        <div className="max-w-6xl mx-auto px-6 py-12">
+          <p className="font-mono text-xs text-muted uppercase tracking-widest mb-6">Browse by city</p>
+          <div className="flex flex-wrap gap-3">
+            {cities.map((city) => (
+              <a key={city} href={"/play/" + getAllEntries().find((e) => e.city === city)?.slug} className="font-mono text-xs border border-ink px-3 py-2 uppercase tracking-wider hover:bg-ink hover:text-paper transition-colors" style={{ textDecoration: 'none' }}>
+                {city}
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="border-b-2 border-ink">
+        <div className="max-w-6xl mx-auto px-6 py-12">
+          <p className="font-mono text-xs text-muted uppercase tracking-widest mb-6">Browse by flaw type</p>
+          <div className="flex flex-wrap gap-3">
+            {categories.map((cat) => (
+              <a key={cat} href={"/play/" + getAllEntries().find((e) => e.flaw_category === cat)?.slug} className="font-mono text-xs border border-muted px-3 py-2 uppercase tracking-wider text-muted hover:border-ink hover:text-ink transition-colors" style={{ textDecoration: 'none' }}>
+                {cat.replace(/_/g, ' ')}
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <footer className="px-6 py-8">
+        <div className="max-w-6xl mx-auto">
+          <p className="font-mono text-xs text-muted">
+            {new Date().getFullYear()} Guess The Apartment
           </p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Learn{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Templates{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Explore starter templates for Next.js.
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Deploy{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
-  );
+        </div>
+      </footer>
+    </div>
+  )
 }

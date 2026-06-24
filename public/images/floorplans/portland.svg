@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+<rect width="600" height="300" fill="#080818"/>
+<circle cx="80" cy="22" r="1" fill="white" opacity="0.5"/>
+<circle cx="300" cy="18" r="1.2" fill="white" opacity="0.4"/>
+<circle cx="500" cy="30" r="1" fill="white" opacity="0.6"/>
+<circle cx="560" cy="40" r="18" fill="#2D5BE3" opacity="0.08"/>
+<circle cx="560" cy="40" r="10" fill="white" opacity="0.7"/>
+<!-- Mount Hood (iconic) -->
+<path d="M 200 115 L 300 30 L 400 115" fill="#1a1a2e"/>
+<!-- Snow cap -->
+<path d="M 275 58 L 300 30 L 325 58 L 315 65 L 285 65 Z" fill="white" opacity="0.3"/>
+<!-- Glaciers -->
+<path d="M 285 65 L 278 80 L 270 78 Z" fill="white" opacity="0.15"/>
+<path d="M 315 65 L 322 80 L 330 78 Z" fill="white" opacity="0.15"/>
+<!-- Willamette River -->
+<rect x="0" y="192" width="600" height="18" fill="#0a1a3a" opacity="0.6"/>
+<!-- Portland bridges hint -->
+<rect x="150" y="175" width="120" height="5" fill="#445566"/>
+<rect x="155" y="160" width="6" height="20" fill="#556677"/>
+<rect x="258" y="160" width="6" height="20" fill="#556677"/>
+<!-- Steel cables -->
+<line x1="158" y1="160" x2="210" y2="175" stroke="#8899aa" stroke-width="1" opacity="0.5"/>
+<line x1="261" y1="160" x2="210" y2="175" stroke="#8899aa" stroke-width="1" opacity="0.5"/>
+<!-- Portland buildings -->
+<rect x="40" y="125" width="22" height="85" fill="#111827"/>
+<rect x="68" y="112" width="26" height="98" fill="#0f172a"/>
+<rect x="100" y="122" width="22" height="88" fill="#111827"/>
+<rect x="128" y="110" width="26" height="100" fill="#0f172a"/>
+<rect x="160" y="122" width="20" height="88" fill="#111827"/>
+<rect x="380" y="122" width="22" height="88" fill="#111827"/>
+<rect x="408" y="110" width="26" height="100" fill="#0f172a"/>
+<rect x="440" y="122" width="22" height="88" fill="#111827"/>
+<rect x="468" y="112" width="26" height="98" fill="#0f172a"/>
+<rect x="500" y="122" width="22" height="88" fill="#111827"/>
+<rect x="528" y="112" width="26" height="98" fill="#0f172a"/>
+<rect x="560" y="122" width="22" height="88" fill="#111827"/>
+<!-- Windows -->
+<rect x="72" y="122" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="132" y="120" width="4" height="5" fill="#2D5BE3" opacity="0.4"/>
+<rect x="412" y="120" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="472" y="122" width="4" height="5" fill="#2D5BE3" opacity="0.4"/>
+<rect x="532" y="122" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="0" y="210" width="600" height="90" fill="#050508"/>
+<line x1="0" y1="210" x2="600" y2="210" stroke="#2D5BE3" stroke-width="1" opacity="0.4"/>
+<rect x="0" y="118" width="600" height="62" fill="black" opacity="0.65"/>
+<line x1="40" y1="121" x2="560" y2="121" stroke="#2D5BE3" stroke-width="1" opacity="0.8"/>
+<text x="300" y="160" font-family="monospace" font-size="26" font-weight="700" fill="white" text-anchor="middle" letter-spacing="6">PORTLAND</text>
+<line x1="40" y1="177" x2="560" y2="177" stroke="#2D5BE3" stroke-width="1" opacity="0.8"/>
+</svg>

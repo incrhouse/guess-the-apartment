@@ -1,33 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --paper: #F7F5F0;
+  --ink: #1A1A1A;
+  --flaw: #E8442A;
+  --authority: #2D5BE3;
+  --muted: #8C8C8C;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: var(--paper);
+  color: var(--ink);
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  font-family: 'Inter', sans-serif;
+  background-color: var(--paper);
+  min-height: 100vh;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+@keyframes stamp {
+  0% {
+    transform: scale(2.5) rotate(-12deg);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(0.95) rotate(-12deg);
+    opacity: 1;
+  }
+  80% {
+    transform: scale(1.05) rotate(-12deg);
+  }
+  100% {
+    transform: scale(1) rotate(-12deg);
+    opacity: 1;
+  }
+}
+
+.stamp-animate {
+  animation: stamp 0.35s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+}
+
+.answer-option {
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+  cursor: pointer;
+  border: 2px solid #1A1A1A;
+  background: var(--paper);
+}
+
+.answer-option:hover:not(.answered) {
+  border-color: var(--authority);
+  background: rgba(45, 91, 227, 0.04);
+}
+
+.answer-option.correct {
+  border-color: #16a34a;
+  background: rgba(22, 163, 74, 0.08);
+}
+
+.answer-option.wrong {
+  border-color: var(--flaw);
+  background: rgba(232, 68, 42, 0.08);
+}
+
+.answer-option.revealed-correct {
+  border-color: #16a34a;
+  background: rgba(22, 163, 74, 0.08);
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.floor-plan-placeholder {
+  background: linear-gradient(
+    90deg,
+    #e8e6e1 25%,
+    #f0ede8 50%,
+    #e8e6e1 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stamp-animate,
+  .floor-plan-placeholder {
+    animation: none;
   }
 }

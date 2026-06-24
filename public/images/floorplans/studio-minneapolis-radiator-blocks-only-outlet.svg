@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<rect x="0" y="0" width="600" height="600" fill="#FFFFFF"/>
+<style><![CDATA[
+.room{fill:#F5F5F5;stroke:#1A1A1A;stroke-width:8;}
+.wall{stroke:#1A1A1A;stroke-width:8;stroke-linecap:square;fill:none;}
+.thin{stroke:#1A1A1A;stroke-width:2;fill:none;}
+.dash{stroke:#1A1A1A;stroke-width:2;fill:none;stroke-dasharray:7 6;}
+.door{stroke:#1A1A1A;stroke-width:2;fill:none;}
+.label{font-family:monospace;font-size:11px;fill:#1A1A1A;text-anchor:middle;dominant-baseline:middle;letter-spacing:.8px;}
+.small{font-family:monospace;font-size:10px;fill:#1A1A1A;}
+.tiny{font-family:monospace;font-size:8px;fill:#1A1A1A;text-anchor:middle;dominant-baseline:middle;}
+.flaw{fill:none;stroke:#D00000;stroke-width:1.5;stroke-dasharray:6 5;}
+]]></style>
+<rect x="90" y="90" width="225" height="190" class="room"/>
+<text x="202.5" y="185.0" class="label">LIVING ROOM</text>
+<rect x="315" y="90" width="140" height="190" class="room"/>
+<text x="385.0" y="185.0" class="label">KITCHEN</text>
+<rect x="90" y="280" width="225" height="120" class="room"/>
+<text x="202.5" y="340.0" class="label">BEDROOM</text>
+<rect x="315" y="280" width="140" height="120" class="room"/>
+<text x="385.0" y="340.0" class="label">BATHROOM</text>
+<text x="100" y="392" class="small">FRONT DOOR</text>
+<line x1="120" y1="400" x2="154" y2="400" class="thin"/>
+<path d="M154 400 A34 34 0 0 1 120 366" class="door"/>
+<line x1="315" y1="185" x2="315" y2="213" class="thin"/>
+<path d="M315 213 A28 28 0 0 1 343 185" class="door"/>
+<line x1="315" y1="340" x2="343" y2="340" class="thin"/>
+<path d="M343 340 A28 28 0 0 1 315 312" class="door"/>
+<rect x="335" y="125" width="26" height="34" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<text x="348" y="145" class="tiny" text-anchor="middle">SINK</text>
+<rect x="335" y="165" width="26" height="34" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<text x="348" y="185" class="tiny" text-anchor="middle">STV</text>
+<rect x="335" y="205" width="26" height="34" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<text x="348" y="225" class="tiny" text-anchor="middle">FRG</text>
+<rect x="165" y="326" width="68" height="42" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<line x1="165" y1="339" x2="233" y2="339" class="thin"/>
+<text x="199.0" y="351.0" class="tiny" text-anchor="middle">BED</text>
+<rect x="145" y="190" width="70" height="26" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<text x="180" y="207" class="tiny" text-anchor="middle">SOFA</text>
+<line x1="135" y1="90" x2="220" y2="90" stroke="#FFFFFF" stroke-width="12" stroke-linecap="square"/>
+<line x1="135" y1="90" x2="220" y2="90" stroke="#1A1A1A" stroke-width="2" stroke-linecap="square"/>
+<rect x="116" y="94" width="110" height="20" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<line x1="124" y1="97" x2="124" y2="111" class="thin"/>
+<line x1="139" y1="97" x2="139" y2="111" class="thin"/>
+<line x1="154" y1="97" x2="154" y2="111" class="thin"/>
+<line x1="169" y1="97" x2="169" y2="111" class="thin"/>
+<line x1="184" y1="97" x2="184" y2="111" class="thin"/>
+<line x1="199" y1="97" x2="199" y2="111" class="thin"/>
+<line x1="214" y1="97" x2="214" y2="111" class="thin"/>
+<text x="171" y="86" class="tiny" text-anchor="middle">RADIATOR</text>
+<text x="236" y="112" class="tiny" text-anchor="middle">OUTLETS</text>
+<text x="165" y="68" class="small" text-anchor="middle">RADIATOR BLOCKS OUTLET WALL</text>
+<rect x="108" y="82" width="138" height="42" class="flaw"/>
+<g transform="translate(520,58)">
+<circle cx="0" cy="0" r="22" class="thin"/>
+<line x1="0" y1="-28" x2="0" y2="28" class="thin"/>
+<line x1="-28" y1="0" x2="28" y2="0" class="thin"/>
+<path d="M0 -32 L5 -20 L0 -24 L-5 -20 Z" fill="#1A1A1A"/>
+<text x="0" y="-37" class="tiny">N</text>
+<text x="34" y="3" class="tiny">E</text>
+<text x="0" y="38" class="tiny">S</text>
+<text x="-34" y="3" class="tiny">W</text>
+</g>
+<g transform="translate(405,548)">
+<line x1="0" y1="0" x2="120" y2="0" class="thin"/>
+<line x1="0" y1="-5" x2="0" y2="5" class="thin"/>
+<line x1="120" y1="-5" x2="120" y2="5" class="thin"/>
+<text x="60" y="18" class="tiny">NOT TO SCALE</text>
+</g>
+<text x="40" y="560" class="small">MINNEAPOLIS / STUDIO</text>
+</svg>

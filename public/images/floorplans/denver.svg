@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+<rect width="600" height="300" fill="#080818"/>
+<circle cx="80" cy="22" r="1" fill="white" opacity="0.5"/>
+<circle cx="220" cy="35" r="1.2" fill="white" opacity="0.4"/>
+<circle cx="420" cy="18" r="1" fill="white" opacity="0.6"/>
+<circle cx="560" cy="40" r="18" fill="#E8442A" opacity="0.08"/>
+<circle cx="560" cy="40" r="10" fill="white" opacity="0.7"/>
+<!-- Rocky Mountains -->
+<path d="M 0 155 L 80 80 L 140 115 L 200 65 L 260 100 L 320 70 L 380 105 L 440 75 L 500 110 L 560 85 L 600 110 L 600 210 L 0 210 Z" fill="#1a1a2e"/>
+<!-- Snow caps -->
+<path d="M 80 80 L 68 95 L 92 95 Z" fill="white" opacity="0.2"/>
+<path d="M 200 65 L 188 82 L 212 82 Z" fill="white" opacity="0.25"/>
+<path d="M 320 70 L 308 87 L 332 87 Z" fill="white" opacity="0.2"/>
+<path d="M 440 75 L 428 92 L 452 92 Z" fill="white" opacity="0.22"/>
+<!-- Denver skyline in front -->
+<rect x="100" y="140" width="22" height="70" fill="#111827"/>
+<rect x="128" y="128" width="26" height="82" fill="#0f172a"/>
+<rect x="160" y="138" width="20" height="72" fill="#111827"/>
+<rect x="186" y="125" width="28" height="85" fill="#0f172a"/>
+<rect x="220" y="135" width="22" height="75" fill="#111827"/>
+<rect x="248" y="122" width="26" height="88" fill="#0f172a"/>
+<rect x="280" y="132" width="22" height="78" fill="#111827"/>
+<rect x="308" y="120" width="28" height="90" fill="#0f172a"/>
+<rect x="342" y="130" width="22" height="80" fill="#111827"/>
+<rect x="370" y="122" width="26" height="88" fill="#0f172a"/>
+<rect x="402" y="135" width="22" height="75" fill="#111827"/>
+<rect x="430" y="125" width="26" height="85" fill="#0f172a"/>
+<rect x="462" y="138" width="20" height="72" fill="#111827"/>
+<rect x="488" y="128" width="24" height="82" fill="#0f172a"/>
+<!-- Windows -->
+<rect x="132" y="138" width="4" height="5" fill="#E8442A" opacity="0.5"/>
+<rect x="190" y="135" width="4" height="5" fill="#E8442A" opacity="0.4"/>
+<rect x="252" y="132" width="4" height="5" fill="#E8442A" opacity="0.5"/>
+<rect x="312" y="130" width="4" height="5" fill="#E8442A" opacity="0.4"/>
+<rect x="374" y="132" width="4" height="5" fill="#E8442A" opacity="0.5"/>
+<rect x="434" y="135" width="4" height="5" fill="#E8442A" opacity="0.4"/>
+<rect x="0" y="210" width="600" height="90" fill="#050508"/>
+<line x1="0" y1="210" x2="600" y2="210" stroke="#E8442A" stroke-width="1" opacity="0.4"/>
+<rect x="0" y="118" width="600" height="62" fill="black" opacity="0.65"/>
+<line x1="40" y1="121" x2="560" y2="121" stroke="#E8442A" stroke-width="1" opacity="0.8"/>
+<text x="300" y="160" font-family="monospace" font-size="26" font-weight="700" fill="white" text-anchor="middle" letter-spacing="6">DENVER</text>
+<line x1="40" y1="177" x2="560" y2="177" stroke="#E8442A" stroke-width="1" opacity="0.8"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+<rect width="600" height="300" fill="#080818"/>
+<circle cx="80" cy="22" r="1" fill="white" opacity="0.5"/>
+<circle cx="220" cy="35" r="1.2" fill="white" opacity="0.4"/>
+<circle cx="420" cy="18" r="1" fill="white" opacity="0.6"/>
+<circle cx="540" cy="30" r="1.5" fill="white" opacity="0.3"/>
+<circle cx="560" cy="40" r="18" fill="#1A1A1A" opacity="0.3"/>
+<circle cx="560" cy="40" r="10" fill="white" opacity="0.7"/>
+<!-- Washington Monument -->
+<polygon points="295,48 305,48 310,210 290,210" fill="#c8d0d8"/>
+<polygon points="295,48 305,48 300,35" fill="#dde4ea"/>
+<!-- Monument reflection hint -->
+<rect x="293" y="55" width="4" height="60" fill="white" opacity="0.05"/>
+<!-- Capitol Building -->
+<rect x="160" y="155" width="120" height="55" fill="#1e2a4a"/>
+<!-- Capitol wings -->
+<rect x="130" y="165" width="35" height="40" fill="#1a2438"/>
+<rect x="275" y="165" width="35" height="40" fill="#1a2438"/>
+<!-- Capitol dome -->
+<ellipse cx="220" cy="155" rx="30" ry="20" fill="#243050"/>
+<ellipse cx="220" cy="142" rx="20" ry="14" fill="#1e2a4a"/>
+<ellipse cx="220" cy="132" rx="12" ry="9" fill="#243050"/>
+<rect x="216" y="120" width="8" height="14" fill="#1a2438"/>
+<rect x="217" y="113" width="6" height="9" fill="#243050"/>
+<text x="220" y="113" font-family="serif" font-size="8" fill="#ffcc44" text-anchor="middle" opacity="0.9">★</text>
+<!-- Lincoln Memorial -->
+<rect x="400" y="170" width="70" height="40" fill="#1a2438"/>
+<rect x="395" y="165" width="80" height="8" fill="#243050"/>
+<!-- Columns -->
+<rect x="402" y="168" width="4" height="30" fill="#8899aa" opacity="0.5"/>
+<rect x="413" y="168" width="4" height="30" fill="#8899aa" opacity="0.5"/>
+<rect x="424" y="168" width="4" height="30" fill="#8899aa" opacity="0.5"/>
+<rect x="435" y="168" width="4" height="30" fill="#8899aa" opacity="0.5"/>
+<rect x="446" y="168" width="4" height="30" fill="#8899aa" opacity="0.5"/>
+<rect x="457" y="168" width="4" height="30" fill="#8899aa" opacity="0.5"/>
+<!-- Reflecting pool -->
+<rect x="320" y="195" width="70" height="8" fill="#0a1a3a" opacity="0.7"/>
+<!-- Other buildings -->
+<rect x="40" y="130" width="22" height="80" fill="#111827"/>
+<rect x="68" y="145" width="18" height="65" fill="#0f172a"/>
+<rect x="92" y="138" width="20" height="72" fill="#111827"/>
+<rect x="490" y="135" width="22" height="75" fill="#111827"/>
+<rect x="518" y="142" width="18" height="68" fill="#0f172a"/>
+<rect x="542" y="135" width="22" height="75" fill="#111827"/>
+<rect x="570" y="145" width="18" height="65" fill="#0f172a"/>
+<rect x="0" y="210" width="600" height="90" fill="#050508"/>
+<line x1="0" y1="210" x2="600" y2="210" stroke="#8899aa" stroke-width="1" opacity="0.5"/>
+<rect x="0" y="118" width="600" height="62" fill="black" opacity="0.65"/>
+<line x1="40" y1="121" x2="560" y2="121" stroke="#8899aa" stroke-width="1" opacity="0.8"/>
+<text x="300" y="160" font-family="monospace" font-size="23" font-weight="700" fill="white" text-anchor="middle" letter-spacing="5">WASHINGTON DC</text>
+<line x1="40" y1="177" x2="560" y2="177" stroke="#8899aa" stroke-width="1" opacity="0.8"/>
+</svg>

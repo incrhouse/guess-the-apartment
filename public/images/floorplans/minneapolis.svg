@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+<rect width="600" height="300" fill="#080818"/>
+<circle cx="80" cy="22" r="1" fill="white" opacity="0.5"/>
+<circle cx="300" cy="18" r="1.2" fill="white" opacity="0.4"/>
+<circle cx="500" cy="30" r="1" fill="white" opacity="0.6"/>
+<circle cx="560" cy="40" r="18" fill="#2D5BE3" opacity="0.08"/>
+<circle cx="560" cy="40" r="10" fill="white" opacity="0.7"/>
+<!-- Mississippi River -->
+<path d="M 0 195 Q 150 188 300 195 Q 450 202 600 195 L 600 210 L 0 210 Z" fill="#0a1a3a" opacity="0.7"/>
+<!-- Stone Arch Bridge -->
+<path d="M 80 195 Q 110 175 140 195" fill="none" stroke="#8899aa" stroke-width="3"/>
+<path d="M 140 195 Q 170 175 200 195" fill="none" stroke="#8899aa" stroke-width="3"/>
+<path d="M 200 195 Q 230 175 260 195" fill="none" stroke="#8899aa" stroke-width="3"/>
+<!-- IDS Center (tallest) -->
+<rect x="280" y="68" width="34" height="142" fill="#0f172a"/>
+<rect x="283" y="60" width="28" height="12" fill="#111827"/>
+<rect x="286" y="52" width="22" height="10" fill="#0f172a"/>
+<rect x="289" y="44" width="16" height="10" fill="#111827"/>
+<rect x="292" y="36" width="10" height="10" fill="#0f172a"/>
+<rect x="295" y="28" width="4" height="10" fill="#8899aa"/>
+<!-- Minneapolis buildings -->
+<rect x="80" y="120" width="22" height="90" fill="#111827"/>
+<rect x="108" y="108" width="26" height="102" fill="#0f172a"/>
+<rect x="140" y="118" width="22" height="92" fill="#111827"/>
+<rect x="168" y="105" width="28" height="105" fill="#0f172a"/>
+<rect x="202" y="115" width="22" height="95" fill="#111827"/>
+<rect x="230" y="105" width="24" height="105" fill="#0f172a"/>
+<rect x="260" y="115" width="15" height="95" fill="#111827"/>
+<rect x="320" y="115" width="16" height="95" fill="#111827"/>
+<rect x="342" y="105" width="24" height="105" fill="#0f172a"/>
+<rect x="372" y="115" width="22" height="95" fill="#111827"/>
+<rect x="400" y="105" width="28" height="105" fill="#0f172a"/>
+<rect x="434" y="118" width="22" height="92" fill="#111827"/>
+<rect x="462" y="108" width="26" height="102" fill="#0f172a"/>
+<rect x="494" y="120" width="22" height="90" fill="#111827"/>
+<rect x="522" y="108" width="26" height="102" fill="#0f172a"/>
+<rect x="554" y="118" width="22" height="92" fill="#111827"/>
+<!-- Windows -->
+<rect x="112" y="118" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="172" y="115" width="4" height="5" fill="#2D5BE3" opacity="0.4"/>
+<rect x="284" y="78" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="292" y="78" width="4" height="5" fill="#2D5BE3" opacity="0.4"/>
+<rect x="300" y="78" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="346" y="115" width="4" height="5" fill="#2D5BE3" opacity="0.4"/>
+<rect x="404" y="115" width="4" height="5" fill="#2D5BE3" opacity="0.5"/>
+<rect x="466" y="118" width="4" height="5" fill="#2D5BE3" opacity="0.4"/>
+<rect x="0" y="210" width="600" height="90" fill="#050508"/>
+<line x1="0" y1="210" x2="600" y2="210" stroke="#2D5BE3" stroke-width="1" opacity="0.4"/>
+<rect x="0" y="118" width="600" height="62" fill="black" opacity="0.65"/>
+<line x1="40" y1="121" x2="560" y2="121" stroke="#2D5BE3" stroke-width="1" opacity="0.8"/>
+<text x="300" y="160" font-family="monospace" font-size="23" font-weight="700" fill="white" text-anchor="middle" letter-spacing="5">MINNEAPOLIS</text>
+<line x1="40" y1="177" x2="560" y2="177" stroke="#2D5BE3" stroke-width="1" opacity="0.8"/>
+</svg>

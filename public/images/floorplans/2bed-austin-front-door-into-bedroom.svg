@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<rect x="0" y="0" width="600" height="600" fill="#FFFFFF"/>
+<style><![CDATA[
+.room{fill:#F5F5F5;stroke:#1A1A1A;stroke-width:8;}
+.wall{stroke:#1A1A1A;stroke-width:8;stroke-linecap:square;fill:none;}
+.thin{stroke:#1A1A1A;stroke-width:2;fill:none;}
+.dash{stroke:#1A1A1A;stroke-width:2;fill:none;stroke-dasharray:7 6;}
+.door{stroke:#1A1A1A;stroke-width:2;fill:none;}
+.label{font-family:monospace;font-size:11px;fill:#1A1A1A;text-anchor:middle;dominant-baseline:middle;letter-spacing:.8px;}
+.small{font-family:monospace;font-size:10px;fill:#1A1A1A;}
+.tiny{font-family:monospace;font-size:8px;fill:#1A1A1A;text-anchor:middle;dominant-baseline:middle;}
+.flaw{fill:none;stroke:#D00000;stroke-width:1.5;stroke-dasharray:6 5;}
+]]></style>
+<rect x="70" y="80" width="190" height="160" class="room"/>
+<text x="165.0" y="160.0" class="label">BEDROOM 1</text>
+<rect x="260" y="80" width="160" height="160" class="room"/>
+<text x="340.0" y="160.0" class="label">LIVING ROOM</text>
+<rect x="420" y="80" width="100" height="160" class="room"/>
+<text x="470.0" y="160.0" class="label">KITCHEN</text>
+<rect x="70" y="240" width="190" height="150" class="room"/>
+<text x="165.0" y="315.0" class="label">BEDROOM 2</text>
+<rect x="260" y="240" width="130" height="110" class="room"/>
+<text x="325.0" y="295.0" class="label">BATHROOM</text>
+<rect x="390" y="240" width="130" height="110" class="room"/>
+<text x="455.0" y="295.0" class="label">HALL</text>
+<text x="94" y="72" class="small">FRONT DOOR</text>
+<line x1="114" y1="80" x2="114" y2="114" class="thin"/>
+<path d="M114 114 A34 34 0 0 1 148 80" class="door"/>
+<rect x="126" y="152" width="74" height="48" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<line x1="126" y1="165" x2="200" y2="165" class="thin"/>
+<text x="163.0" y="180.0" class="tiny" text-anchor="middle">BED</text>
+<rect x="126" y="292" width="74" height="48" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<line x1="126" y1="305" x2="200" y2="305" class="thin"/>
+<text x="163.0" y="320.0" class="tiny" text-anchor="middle">BED</text>
+<rect x="438" y="110" width="26" height="34" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<text x="451" y="130" class="tiny" text-anchor="middle">SINK</text>
+<rect x="438" y="150" width="26" height="34" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<text x="451" y="170" class="tiny" text-anchor="middle">STV</text>
+<rect x="438" y="190" width="26" height="34" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<text x="451" y="210" class="tiny" text-anchor="middle">FRG</text>
+<rect x="303" y="172" width="70" height="26" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<text x="338" y="189" class="tiny" text-anchor="middle">SOFA</text>
+<line x1="260" y1="160" x2="260" y2="190" class="thin"/>
+<path d="M260 190 A30 30 0 0 1 290 160" class="door"/>
+<line x1="260" y1="300" x2="260" y2="330" class="thin"/>
+<path d="M260 330 A30 30 0 0 1 290 300" class="door"/>
+<line x1="390" y1="280" x2="390" y2="308" class="thin"/>
+<path d="M390 308 A28 28 0 0 1 418 280" class="door"/>
+<line x1="146" y1="80" x2="220" y2="80" stroke="#FFFFFF" stroke-width="12" stroke-linecap="square"/>
+<line x1="146" y1="80" x2="220" y2="80" stroke="#1A1A1A" stroke-width="2" stroke-linecap="square"/>
+<line x1="116" y1="390" x2="210" y2="390" stroke="#FFFFFF" stroke-width="12" stroke-linecap="square"/>
+<line x1="116" y1="390" x2="210" y2="390" stroke="#1A1A1A" stroke-width="2" stroke-linecap="square"/>
+<text x="148" y="65" class="small" text-anchor="middle">ENTRY OPENS INTO PRIVATE ROOM</text>
+<rect x="76" y="86" width="178" height="146" class="flaw"/>
+<g transform="translate(520,58)">
+<circle cx="0" cy="0" r="22" class="thin"/>
+<line x1="0" y1="-28" x2="0" y2="28" class="thin"/>
+<line x1="-28" y1="0" x2="28" y2="0" class="thin"/>
+<path d="M0 -32 L5 -20 L0 -24 L-5 -20 Z" fill="#1A1A1A"/>
+<text x="0" y="-37" class="tiny">N</text>
+<text x="34" y="3" class="tiny">E</text>
+<text x="0" y="38" class="tiny">S</text>
+<text x="-34" y="3" class="tiny">W</text>
+</g>
+<g transform="translate(405,548)">
+<line x1="0" y1="0" x2="120" y2="0" class="thin"/>
+<line x1="0" y1="-5" x2="0" y2="5" class="thin"/>
+<line x1="120" y1="-5" x2="120" y2="5" class="thin"/>
+<text x="60" y="18" class="tiny">NOT TO SCALE</text>
+</g>
+<text x="40" y="560" class="small">AUSTIN / 2 BEDROOM</text>
+</svg>

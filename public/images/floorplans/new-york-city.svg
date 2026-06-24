@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+<rect width="600" height="300" fill="#080818"/>
+<circle cx="50" cy="30" r="1" fill="white" opacity="0.6"/>
+<circle cx="120" cy="18" r="1.5" fill="white" opacity="0.4"/>
+<circle cx="200" cy="42" r="1" fill="white" opacity="0.7"/>
+<circle cx="340" cy="15" r="1" fill="white" opacity="0.5"/>
+<circle cx="450" cy="35" r="1.5" fill="white" opacity="0.3"/>
+<circle cx="530" cy="22" r="1" fill="white" opacity="0.6"/>
+<circle cx="580" cy="48" r="1.2" fill="white" opacity="0.4"/>
+<circle cx="420" cy="12" r="1" fill="white" opacity="0.5"/>
+<circle cx="280" cy="55" r="1.2" fill="white" opacity="0.3"/>
+<!-- Moon -->
+<circle cx="560" cy="40" r="18" fill="#2D5BE3" opacity="0.08"/>
+<circle cx="560" cy="40" r="10" fill="white" opacity="0.7"/>
+<!-- Statue of Liberty (left side) -->
+<rect x="18" y="170" width="8" height="40" fill="#2a4a3a"/>
+<polygon points="22,170 18,180 26,180" fill="#2a4a3a"/>
+<rect x="20" y="155" width="4" height="15" fill="#2d5c44"/>
+<polygon points="22,145 19,158 25,158" fill="#2d5c44"/>
+<rect x="19" y="142" width="6" height="5" fill="#3a7a5a"/>
+<!-- Crown spikes -->
+<line x1="22" y1="142" x2="20" y2="134" stroke="#3a7a5a" stroke-width="1.5"/>
+<line x1="22" y1="142" x2="22" y2="133" stroke="#3a7a5a" stroke-width="1.5"/>
+<line x1="22" y1="142" x2="24" y2="134" stroke="#3a7a5a" stroke-width="1.5"/>
+<line x1="22" y1="142" x2="18" y2="137" stroke="#3a7a5a" stroke-width="1.5"/>
+<line x1="22" y1="142" x2="26" y2="137" stroke="#3a7a5a" stroke-width="1.5"/>
+<!-- Torch arm -->
+<line x1="22" y1="155" x2="28" y2="148" stroke="#2d5c44" stroke-width="2"/>
+<circle cx="28" cy="146" r="2" fill="#ffcc44" opacity="0.9"/>
+<!-- NYC Buildings -->
+<rect x="45" y="130" width="22" height="80" fill="#111827"/>
+<rect x="72" y="100" width="18" height="110" fill="#0f172a"/>
+<!-- Empire State -->
+<rect x="95" y="65" width="28" height="145" fill="#111827"/>
+<rect x="100" y="50" width="18" height="20" fill="#111827"/>
+<rect x="105" y="35" width="8" height="18" fill="#111827"/>
+<rect x="108" y="20" width="2" height="18" fill="#aaaacc"/>
+<rect x="130" y="105" width="16" height="105" fill="#0f172a"/>
+<rect x="152" y="90" width="24" height="120" fill="#111827"/>
+<rect x="182" y="110" width="18" height="100" fill="#0f172a"/>
+<rect x="206" y="80" width="26" height="130" fill="#111827"/>
+<rect x="238" y="100" width="20" height="110" fill="#0f172a"/>
+<rect x="264" y="85" width="30" height="125" fill="#111827"/>
+<rect x="300" y="110" width="18" height="100" fill="#0f172a"/>
+<rect x="324" y="95" width="24" height="115" fill="#111827"/>
+<rect x="354" y="115" width="16" height="95" fill="#0f172a"/>
+<rect x="376" y="80" width="28" height="130" fill="#111827"/>
+<rect x="410" y="100" width="20" height="110" fill="#0f172a"/>
+<rect x="436" y="90" width="24" height="120" fill="#111827"/>
+<rect x="466" y="110" width="18" height="100" fill="#0f172a"/>
+<rect x="490" y="85" width="26" height="125" fill="#111827"/>
+<rect x="522" y="105" width="20" height="105" fill="#111827"/>
+<rect x="548" y="120" width="18" height="90" fill="#0f172a"/>
+<rect x="572" y="100" width="22" height="110" fill="#111827"/>
+<!-- Windows -->
+<rect x="98" y="75" width="4" height="6" fill="#2D5BE3" opacity="0.6"/>
+<rect x="105" y="75" width="4" height="6" fill="#2D5BE3" opacity="0.4"/>
+<rect x="113" y="75" width="4" height="6" fill="#2D5BE3" opacity="0.5"/>
+<rect x="98" y="88" width="4" height="6" fill="#2D5BE3" opacity="0.3"/>
+<rect x="105" y="88" width="4" height="6" fill="#2D5BE3" opacity="0.5"/>
+<rect x="160" y="98" width="4" height="6" fill="#2D5BE3" opacity="0.4"/>
+<rect x="168" y="98" width="4" height="6" fill="#2D5BE3" opacity="0.5"/>
+<rect x="210" y="90" width="4" height="6" fill="#2D5BE3" opacity="0.4"/>
+<rect x="218" y="90" width="4" height="6" fill="#2D5BE3" opacity="0.5"/>
+<rect x="226" y="90" width="4" height="6" fill="#2D5BE3" opacity="0.3"/>
+<rect x="268" y="95" width="4" height="6" fill="#2D5BE3" opacity="0.5"/>
+<rect x="276" y="95" width="4" height="6" fill="#2D5BE3" opacity="0.4"/>
+<rect x="268" y="108" width="4" height="6" fill="#2D5BE3" opacity="0.3"/>
+<rect x="380" y="90" width="4" height="6" fill="#2D5BE3" opacity="0.5"/>
+<rect x="388" y="90" width="4" height="6" fill="#2D5BE3" opacity="0.3"/>
+<rect x="396" y="90" width="4" height="6" fill="#2D5BE3" opacity="0.4"/>
+<!-- Ground -->
+<rect x="0" y="210" width="600" height="90" fill="#050508"/>
+<line x1="0" y1="210" x2="600" y2="210" stroke="#2D5BE3" stroke-width="1" opacity="0.4"/>
+<!-- Text band -->
+<rect x="0" y="118" width="600" height="62" fill="black" opacity="0.65"/>
+<line x1="40" y1="121" x2="560" y2="121" stroke="#2D5BE3" stroke-width="1" opacity="0.8"/>
+<text x="300" y="160" font-family="monospace" font-size="26" font-weight="700" fill="white" text-anchor="middle" letter-spacing="6">NEW YORK CITY</text>
+<line x1="40" y1="177" x2="560" y2="177" stroke="#2D5BE3" stroke-width="1" opacity="0.8"/>
+</svg>
