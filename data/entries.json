@@ -617,5 +617,2805 @@
     "midjourney_prompt": "top-down architectural floor plan, Chicago worker apartment 1 bedroom, Pullman kitchen running along one wall of main hallway corridor, stove and counter in traffic path, bedroom at rear, living room at front, bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, early 1900s dense urban building",
     "image": "/images/floorplans/1bed-chicago-kitchen-in-hallway.svg",
     "city_image": "/images/floorplans/chicago.svg"
+  },
+  {
+    "id": "GTA-021",
+    "slug": "studio-new-york-city-bathroom-through-bedroom",
+    "city": "New York City",
+    "apartment_type": "Studio",
+    "question": "A renter in this New York City Studio has to think twice before inviting anyone over. What circulation flaw does the plan reveal?",
+    "options": [
+      "The only way to reach the bathroom is by walking through the bedroom",
+      "The kitchen counters face away from the living area",
+      "The living room has one too many windows",
+      "The bathroom tile pattern makes the room look smaller"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The only way to reach the bathroom is by walking through the bedroom",
+    "explanation": "This turns the bedroom into a hallway instead of a private room. Guests, roommates, or overnight visitors would have to pass through the sleeping area every time they need the bathroom, which quickly becomes uncomfortable.",
+    "flaw_category": "traffic_flow",
+    "flaw_tags": [
+      "bathroom_access",
+      "no_hallway",
+      "privacy",
+      "new-york-city"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: New York City Studio The only bathroom route runs through the bedroom",
+      "description": "Spot the hidden flaw in this New York City Studio: the only way to reach the bathroom is by walking through the bedroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, New York City studio apartment, bathroom placed behind bedroom with no alternate hallway route, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-022",
+    "slug": "1-bedroom-new-york-city-bedroom-no-closet",
+    "city": "New York City",
+    "apartment_type": "1 Bedroom",
+    "question": "This New York City 1 Bedroom looks tidy in listing photos, but move-in day exposes the real problem. What storage flaw is hidden in the plan?",
+    "options": [
+      "The front door is painted too dark",
+      "The bedroom has no closet whatsoever",
+      "The bedroom has more natural light than the living room",
+      "The balcony is too narrow for outdoor furniture"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The bedroom has no closet whatsoever",
+    "explanation": "A bedroom without a closet forces renters to add freestanding wardrobes that consume floor space. It can also signal that the room was not originally planned as a true bedroom.",
+    "flaw_category": "storage",
+    "flaw_tags": [
+      "no_closet",
+      "storage",
+      "bedroom",
+      "new-york-city"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: New York City 1 Bedroom The bedroom has no closet at all",
+      "description": "Spot the hidden flaw in this New York City 1 Bedroom: the bedroom has no closet whatsoever."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, New York City 1 bedroom apartment, bedroom shown without any closet rectangle or storage niche, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-023",
+    "slug": "2-bedroom-new-york-city-interior-kitchen-no-vent",
+    "city": "New York City",
+    "apartment_type": "2 Bedroom",
+    "question": "After one week of cooking, showering, or sleeping here, this New York City 2 Bedroom would feel stale. What ventilation flaw causes it?",
+    "options": [
+      "The hallway is slightly longer than expected",
+      "The kitchen sink is not centered under a cabinet",
+      "The kitchen has no exterior wall, window, or visible exhaust route",
+      "The apartment has no decorative entry niche"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The kitchen has no exterior wall, window, or visible exhaust route",
+    "explanation": "A landlocked kitchen traps smoke, grease, heat, and cooking odors inside the apartment. Even a small window or vented hood can make a major difference in daily livability.",
+    "flaw_category": "ventilation",
+    "flaw_tags": [
+      "kitchen_ventilation",
+      "interior_kitchen",
+      "odors",
+      "new-york-city"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: New York City 2 Bedroom The kitchen is landlocked with no exhaust path",
+      "description": "Spot the hidden flaw in this New York City 2 Bedroom: the kitchen has no exterior wall, window, or visible exhaust route."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, New York City 2 bedroom apartment, interior kitchen surrounded by rooms with no exterior wall or window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-024",
+    "slug": "3-bedroom-chicago-bedrooms-share-direct-wall",
+    "city": "Chicago",
+    "apartment_type": "3 Bedroom",
+    "question": "Roommates in this Chicago 3 Bedroom start hearing everything through the walls. What acoustic flaw does the floor plan predict?",
+    "options": [
+      "The closet doors are drawn as sliding doors",
+      "The living room wall is too plain for a television",
+      "The bedroom is closer to the bathroom than the kitchen",
+      "The bedrooms share one direct wall with no closet, hallway, or bathroom between them"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The bedrooms share one direct wall with no closet, hallway, or bathroom between them",
+    "explanation": "A direct bedroom-to-bedroom wall is a sound transmission problem. Closets, baths, and hallways act as buffers, but this plan gives roommates no acoustic separation.",
+    "flaw_category": "acoustics",
+    "flaw_tags": [
+      "shared_wall",
+      "roommate_noise",
+      "no_buffer",
+      "chicago"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Chicago 3 Bedroom Two bedrooms share a direct wall with no buffer",
+      "description": "Spot the hidden flaw in this Chicago 3 Bedroom: the bedrooms share one direct wall with no closet, hallway, or bathroom between them."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Chicago 3 bedroom apartment, two bedrooms touching along a long shared wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-025",
+    "slug": "loft-studio-chicago-second-bedroom-no-window",
+    "city": "Chicago",
+    "apartment_type": "Loft Studio",
+    "question": "This Chicago Loft Studio is advertised confidently, but the floor plan raises a bedroom-count concern. What is the legal red flag?",
+    "options": [
+      "The second bedroom has no exterior window, so it may not legally qualify as a bedroom",
+      "The refrigerator is shown on the left side of the kitchen",
+      "The plan uses too many rectangular rooms",
+      "The apartment has no separate dining room"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The second bedroom has no exterior window, so it may not legally qualify as a bedroom",
+    "explanation": "Most renters expect a bedroom to have light, ventilation, and a safe emergency opening. A windowless room may function better as a den or office than a legal sleeping room.",
+    "flaw_category": "legal",
+    "flaw_tags": [
+      "no_window",
+      "illegal_bedroom",
+      "egress",
+      "chicago"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Chicago Loft Studio A listed bedroom has no window",
+      "description": "Spot the hidden flaw in this Chicago Loft Studio: the second bedroom has no exterior window, so it may not legally qualify as a bedroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Chicago loft studio apartment, second bedroom fully interior with no window gap, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-026",
+    "slug": "studio-chicago-front-door-into-bedroom",
+    "city": "Chicago",
+    "apartment_type": "Studio",
+    "question": "A visitor knocks at this Chicago Studio and the layout immediately feels exposed. What privacy flaw causes that?",
+    "options": [
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The front door opens directly into the bedroom instead of a living or entry area",
+      "The living room is located near the front of the unit",
+      "The kitchen and living room share an open plan"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The front door opens directly into the bedroom instead of a living or entry area",
+    "explanation": "This makes the most private room the first thing anyone sees. Deliveries, guests, and maintenance visits all start inside the sleeping zone, which is uncomfortable and impractical.",
+    "flaw_category": "privacy",
+    "flaw_tags": [
+      "front_door",
+      "bedroom_entry",
+      "privacy",
+      "chicago"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Chicago Studio The front door opens into a bedroom",
+      "description": "Spot the hidden flaw in this Chicago Studio: the front door opens directly into the bedroom instead of a living or entry area."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Chicago studio apartment, front door located on bedroom exterior wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-027",
+    "slug": "1-bedroom-los-angeles-bedroom-smaller-than-closet",
+    "city": "Los Angeles",
+    "apartment_type": "1 Bedroom",
+    "question": "This Los Angeles 1 Bedroom lists decent square footage, but the room sizes feel wrong. What proportion problem does the plan reveal?",
+    "options": [
+      "The windows are grouped on one side of the unit",
+      "The bedroom door swings inward",
+      "The walk-in closet is visibly larger than the bedroom it serves",
+      "The kitchen counters face away from the living area"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The walk-in closet is visibly larger than the bedroom it serves",
+    "explanation": "This is a marketing-driven proportion problem: the plan gives prestige space to the closet while shrinking the room where the bed goes. Renters should verify bed clearances instead of being impressed by a large closet label.",
+    "flaw_category": "proportion",
+    "flaw_tags": [
+      "oversized_closet",
+      "bedroom_size",
+      "proportion",
+      "los-angeles"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Los Angeles 1 Bedroom The closet is larger than the bedroom",
+      "description": "Spot the hidden flaw in this Los Angeles 1 Bedroom: the walk-in closet is visibly larger than the bedroom it serves."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Los Angeles 1 bedroom apartment, oversized walk-in closet next to undersized bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-028",
+    "slug": "2-bedroom-los-angeles-west-windows-no-shade",
+    "city": "Los Angeles",
+    "apartment_type": "2 Bedroom",
+    "question": "The rent on this Los Angeles 2 Bedroom looks reasonable until the utility bills arrive. What climate-related flaw is shown?",
+    "options": [
+      "The living room has one too many windows",
+      "The bathroom tile pattern makes the room look smaller",
+      "The front door is painted too dark",
+      "All primary windows face west with no overhang or shade structure"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "All primary windows face west with no overhang or shade structure",
+    "explanation": "West-facing glass can bring intense late-day heat in warm climates. Renters may face higher cooling bills and uncomfortable rooms even when the apartment looks bright.",
+    "flaw_category": "climate",
+    "flaw_tags": [
+      "west_facing",
+      "solar_gain",
+      "cooling_cost",
+      "los-angeles"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Los Angeles 2 Bedroom All major windows face west with no shade",
+      "description": "Spot the hidden flaw in this Los Angeles 2 Bedroom: all primary windows face west with no overhang or shade structure."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Los Angeles 2 bedroom apartment, all windows on west wall with compass rose showing W, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-029",
+    "slug": "3-bedroom-los-angeles-radiator-blocks-outlet-wall",
+    "city": "Los Angeles",
+    "apartment_type": "3 Bedroom",
+    "question": "This Los Angeles 3 Bedroom has the right rooms, but the building systems are in the wrong place. What utility conflict stands out?",
+    "options": [
+      "The radiator is positioned directly in front of the only practical outlet wall",
+      "The bedroom has more natural light than the living room",
+      "The balcony is too narrow for outdoor furniture",
+      "The hallway is slightly longer than expected"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The radiator is positioned directly in front of the only practical outlet wall",
+    "explanation": "Fixed radiators and outlets are not easy to move. When they conflict, renters lose the best wall for a desk, television, or bed setup.",
+    "flaw_category": "utility_conflict",
+    "flaw_tags": [
+      "radiator",
+      "outlets",
+      "furniture_layout",
+      "los-angeles"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Los Angeles 3 Bedroom A radiator blocks the only outlet wall",
+      "description": "Spot the hidden flaw in this Los Angeles 3 Bedroom: the radiator is positioned directly in front of the only practical outlet wall."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Los Angeles 3 bedroom apartment, cast iron radiator drawn along wall with outlet symbols behind it, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-030",
+    "slug": "loft-studio-san-francisco-bedroom-below-grade-window-well",
+    "city": "San Francisco",
+    "apartment_type": "Loft Studio",
+    "question": "This San Francisco Loft Studio is priced below similar listings nearby. What below-grade warning does the plan show?",
+    "options": [
+      "The kitchen sink is not centered under a cabinet",
+      "One bedroom is below grade with only a small window well for light",
+      "The apartment has no decorative entry niche",
+      "The closet doors are drawn as sliding doors"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "One bedroom is below grade with only a small window well for light",
+    "explanation": "Below-grade bedrooms can feel dark, damp, and cut off from normal views. Window wells also reduce usable daylight and may raise moisture concerns.",
+    "flaw_category": "below_grade",
+    "flaw_tags": [
+      "below_grade",
+      "window_well",
+      "moisture",
+      "san-francisco"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: San Francisco Loft Studio A bedroom is below grade with a window well",
+      "description": "Spot the hidden flaw in this San Francisco Loft Studio: one bedroom is below grade with only a small window well for light."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, San Francisco loft studio apartment, bedroom labeled below grade with dashed grade line through wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-031",
+    "slug": "studio-san-francisco-bathroom-door-into-kitchen",
+    "city": "San Francisco",
+    "apartment_type": "Studio",
+    "question": "This San Francisco Studio has a layout that would make daily hygiene feel awkward. What sanitation issue is visible?",
+    "options": [
+      "The living room wall is too plain for a television",
+      "The bedroom is closer to the bathroom than the kitchen",
+      "The bathroom door opens directly into the kitchen food-prep area",
+      "The refrigerator is shown on the left side of the kitchen"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The bathroom door opens directly into the kitchen food-prep area",
+    "explanation": "Bathrooms should be buffered from kitchens for hygiene and comfort. Even when an older unit is allowed to remain this way, renters still have to live with the awkward sight, smell, and traffic conflict.",
+    "flaw_category": "sanitation",
+    "flaw_tags": [
+      "bathroom_into_kitchen",
+      "sanitation",
+      "food_prep",
+      "san-francisco"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: San Francisco Studio The bathroom opens directly into the kitchen",
+      "description": "Spot the hidden flaw in this San Francisco Studio: the bathroom door opens directly into the kitchen food-prep area."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, San Francisco studio apartment, bathroom door swinging directly into kitchen, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-032",
+    "slug": "1-bedroom-san-francisco-front-door-sightline-to-bed",
+    "city": "San Francisco",
+    "apartment_type": "1 Bedroom",
+    "question": "This San Francisco 1 Bedroom tries to be open and flexible, but the zones do not work. What zoning flaw is shown?",
+    "options": [
+      "The plan uses too many rectangular rooms",
+      "The apartment has no separate dining room",
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The front door opens with a straight sight line to the bed"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The front door opens with a straight sight line to the bed",
+    "explanation": "A studio or small apartment still needs visual zoning. When the bed is immediately visible from the entry, the unit feels less private and harder to use for guests or remote work.",
+    "flaw_category": "zoning",
+    "flaw_tags": [
+      "sight_line",
+      "sleeping_area",
+      "studio_zoning",
+      "san-francisco"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: San Francisco 1 Bedroom The front door has a direct sight line to the bed",
+      "description": "Spot the hidden flaw in this San Francisco 1 Bedroom: the front door opens with a straight sight line to the bed."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, San Francisco 1 bedroom apartment, front door aligned directly with bed with no partition, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-033",
+    "slug": "2-bedroom-brooklyn-ladder-to-loft-bed",
+    "city": "Brooklyn",
+    "apartment_type": "2 Bedroom",
+    "question": "This Brooklyn 2 Bedroom looks charming in photos, but daily access would be difficult. What accessibility flaw does the plan reveal?",
+    "options": [
+      "The loft bedroom is accessible only by a fixed vertical ladder",
+      "The living room is located near the front of the unit",
+      "The kitchen and living room share an open plan",
+      "The windows are grouped on one side of the unit"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The loft bedroom is accessible only by a fixed vertical ladder",
+    "explanation": "A ladder may look charming in listing photos, but it is inconvenient and risky for daily use. Carrying laundry, pets, or even a glass of water to bed becomes a problem.",
+    "flaw_category": "accessibility",
+    "flaw_tags": [
+      "loft_ladder",
+      "accessibility",
+      "daily_use",
+      "brooklyn"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Brooklyn 2 Bedroom The sleeping loft is reached only by ladder",
+      "description": "Spot the hidden flaw in this Brooklyn 2 Bedroom: the loft bedroom is accessible only by a fixed vertical ladder."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Brooklyn 2 bedroom apartment, loft studio with vertical ladder symbol instead of stairs, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-034",
+    "slug": "3-bedroom-brooklyn-kitchen-in-main-hallway",
+    "city": "Brooklyn",
+    "apartment_type": "3 Bedroom",
+    "question": "This Brooklyn 3 Bedroom has a layout that creates a safety issue during ordinary daily use. What is the problem?",
+    "options": [
+      "The bedroom door swings inward",
+      "The kitchen is positioned in the main hallway, so traffic passes inches from the stove",
+      "The kitchen counters face away from the living area",
+      "The living room has one too many windows"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The kitchen is positioned in the main hallway, so traffic passes inches from the stove",
+    "explanation": "Cooking needs safe clearance from through-traffic. A hallway kitchen creates conflict between hot pans, open flames, and people moving through the apartment.",
+    "flaw_category": "safety",
+    "flaw_tags": [
+      "hallway_kitchen",
+      "stove_clearance",
+      "traffic",
+      "brooklyn"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Brooklyn 3 Bedroom The kitchen runs along the main hallway",
+      "description": "Spot the hidden flaw in this Brooklyn 3 Bedroom: the kitchen is positioned in the main hallway, so traffic passes inches from the stove."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Brooklyn 3 bedroom apartment, Pullman kitchen running along narrow main corridor, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-035",
+    "slug": "loft-studio-brooklyn-washer-dryer-in-kitchen",
+    "city": "Brooklyn",
+    "apartment_type": "Loft Studio",
+    "question": "This Brooklyn Loft Studio technically includes the right features, but the placement makes little sense. What layout logic flaw is visible?",
+    "options": [
+      "The bathroom tile pattern makes the room look smaller",
+      "The front door is painted too dark",
+      "The stacked washer and dryer are placed inside the kitchen next to food storage",
+      "The bedroom has more natural light than the living room"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The stacked washer and dryer are placed inside the kitchen next to food storage",
+    "explanation": "In-unit laundry is valuable, but not when it steals pantry or prep space. It also adds humidity, vibration, and noise to the room where food is stored and prepared.",
+    "flaw_category": "layout_logic",
+    "flaw_tags": [
+      "laundry_in_kitchen",
+      "appliance_layout",
+      "retrofit",
+      "brooklyn"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Brooklyn Loft Studio Laundry is placed in the kitchen footprint",
+      "description": "Spot the hidden flaw in this Brooklyn Loft Studio: the stacked washer and dryer are placed inside the kitchen next to food storage."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Brooklyn loft studio apartment, stacked washer dryer symbols inside kitchen next to refrigerator, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-036",
+    "slug": "studio-miami-murphy-bed-blocks-window",
+    "city": "Miami",
+    "apartment_type": "Studio",
+    "question": "This Miami Studio looks efficient until you place normal furniture in it. What furniture conflict appears?",
+    "options": [
+      "The balcony is too narrow for outdoor furniture",
+      "The hallway is slightly longer than expected",
+      "The kitchen sink is not centered under a cabinet",
+      "The Murphy bed, when folded down, blocks the only window wall"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The Murphy bed, when folded down, blocks the only window wall",
+    "explanation": "Space-saving furniture only works when it preserves the room's best features. Blocking the only window removes light, ventilation, and the main visual relief in a small unit.",
+    "flaw_category": "furniture_conflict",
+    "flaw_tags": [
+      "murphy_bed",
+      "window_blocked",
+      "micro_unit",
+      "miami"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Miami Studio A Murphy bed blocks the only window",
+      "description": "Spot the hidden flaw in this Miami Studio: the murphy bed, when folded down, blocks the only window wall."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Miami studio apartment, murphy bed rectangle folded down across only window wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-037",
+    "slug": "1-bedroom-miami-partitioned-living-room-bedroom",
+    "city": "Miami",
+    "apartment_type": "1 Bedroom",
+    "question": "This Miami 1 Bedroom appears to have been carved up to increase rent. What conversion clue gives it away?",
+    "options": [
+      "A new partition wall carves a second bedroom out of the original living room",
+      "The apartment has no decorative entry niche",
+      "The closet doors are drawn as sliding doors",
+      "The living room wall is too plain for a television"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "A new partition wall carves a second bedroom out of the original living room",
+    "explanation": "Quick conversions often create rooms with poor light, no closets, and odd door placement. The giveaway is a partition that interrupts what should be one coherent living space.",
+    "flaw_category": "illegal_conversion",
+    "flaw_tags": [
+      "partition_wall",
+      "fake_bedroom",
+      "conversion",
+      "miami"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Miami 1 Bedroom A partition wall cuts a living room into a fake bedroom",
+      "description": "Spot the hidden flaw in this Miami 1 Bedroom: a new partition wall carves a second bedroom out of the original living room."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Miami 1 bedroom apartment, partition wall cutting through large original living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-038",
+    "slug": "2-bedroom-miami-all-windows-face-alley",
+    "city": "Miami",
+    "apartment_type": "2 Bedroom",
+    "question": "This Miami 2 Bedroom has windows on the plan, but their direction creates the problem. What orientation flaw is hidden here?",
+    "options": [
+      "The bedroom is closer to the bathroom than the kitchen",
+      "Every window faces a service alley instead of the street or open side",
+      "The refrigerator is shown on the left side of the kitchen",
+      "The plan uses too many rectangular rooms"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "Every window faces a service alley instead of the street or open side",
+    "explanation": "Window direction matters because it affects noise, smell, light, and privacy. An alley-facing apartment may have windows but still feel dark and exposed to deliveries or trash pickup.",
+    "flaw_category": "orientation",
+    "flaw_tags": [
+      "alley_facing",
+      "window_orientation",
+      "noise",
+      "miami"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Miami 2 Bedroom All windows face an alley",
+      "description": "Spot the hidden flaw in this Miami 2 Bedroom: every window faces a service alley instead of the street or open side."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Miami 2 bedroom apartment, all window gaps on wall labeled service alley, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-039",
+    "slug": "3-bedroom-austin-railroad-room-sequence",
+    "city": "Austin",
+    "apartment_type": "3 Bedroom",
+    "question": "A renter in this Austin 3 Bedroom has to think twice before inviting anyone over. What circulation flaw does the plan reveal?",
+    "options": [
+      "The apartment has no separate dining room",
+      "The bathroom appears to have a shower instead of a bathtub",
+      "Every room connects in a straight line with no hallway, forcing people to walk through one room to reach the next",
+      "The living room is located near the front of the unit"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "Every room connects in a straight line with no hallway, forcing people to walk through one room to reach the next",
+    "explanation": "A railroad sequence makes each room function like a corridor. It reduces privacy, limits furniture placement, and becomes especially frustrating when more than one person lives in the unit.",
+    "flaw_category": "traffic_flow",
+    "flaw_tags": [
+      "railroad_layout",
+      "forced_sequence",
+      "no_hallway",
+      "austin"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Austin 3 Bedroom Every room is arranged in a forced railroad sequence",
+      "description": "Can you spot the hidden traffic flow flaw in this Austin 3 Bedroom floor plan?"
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Austin 3 bedroom apartment, narrow railroad apartment with living room to kitchen to bedroom to bathroom sequence, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-040",
+    "slug": "loft-studio-austin-entry-no-coat-storage",
+    "city": "Austin",
+    "apartment_type": "Loft Studio",
+    "question": "This Austin Loft Studio looks tidy in listing photos, but move-in day exposes the real problem. What storage flaw is hidden in the plan?",
+    "options": [
+      "The kitchen and living room share an open plan",
+      "The windows are grouped on one side of the unit",
+      "The bedroom door swings inward",
+      "There is no entry closet or storage zone near the front door"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "There is no entry closet or storage zone near the front door",
+    "explanation": "Without entry storage, shoes, bags, coats, and cleaning supplies end up in the living area. This is a small plan detail that creates daily clutter even when the apartment has enough square footage.",
+    "flaw_category": "storage",
+    "flaw_tags": [
+      "entry_storage",
+      "coats",
+      "clutter",
+      "austin"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Austin Loft Studio There is nowhere to store coats or everyday items at the entry",
+      "description": "Spot the hidden flaw in this Austin Loft Studio: there is no entry closet or storage zone near the front door."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Austin loft studio apartment, front door opening into living room with no closet or built-in storage, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-041",
+    "slug": "studio-austin-bedroom-no-operable-window",
+    "city": "Austin",
+    "apartment_type": "Studio",
+    "question": "After one week of cooking, showering, or sleeping here, this Austin Studio would feel stale. What ventilation flaw causes it?",
+    "options": [
+      "The bedroom window faces an enclosed shaft, giving almost no usable ventilation",
+      "The kitchen counters face away from the living area",
+      "The living room has one too many windows",
+      "The bathroom tile pattern makes the room look smaller"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The bedroom window faces an enclosed shaft, giving almost no usable ventilation",
+    "explanation": "A shaft-facing opening may technically admit some light, but it often provides poor airflow and stale air. Renters should ask what the window actually opens to, not just whether a window is shown.",
+    "flaw_category": "ventilation",
+    "flaw_tags": [
+      "shaft_window",
+      "poor_airflow",
+      "bedroom",
+      "austin"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Austin Studio The bedroom has a window drawn where it cannot open",
+      "description": "Spot the hidden flaw in this Austin Studio: the bedroom window faces an enclosed shaft, giving almost no usable ventilation."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Austin studio apartment, bedroom window facing narrow enclosed air shaft, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-042",
+    "slug": "1-bedroom-boston-bedroom-backs-kitchen",
+    "city": "Boston",
+    "apartment_type": "1 Bedroom",
+    "question": "Roommates in this Boston 1 Bedroom start hearing everything through the walls. What acoustic flaw does the floor plan predict?",
+    "options": [
+      "The front door is painted too dark",
+      "The bed wall shares a direct wall with the stove and sink line",
+      "The bedroom has more natural light than the living room",
+      "The balcony is too narrow for outdoor furniture"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The bed wall shares a direct wall with the stove and sink line",
+    "explanation": "Kitchens generate clatter, plumbing noise, exhaust fan noise, and early morning activity. Putting the bed against that wall makes sleep more vulnerable to the loudest daily room in the unit.",
+    "flaw_category": "acoustics",
+    "flaw_tags": [
+      "kitchen_noise",
+      "sleep",
+      "shared_wall",
+      "boston"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Boston 1 Bedroom The bed wall backs directly onto the kitchen",
+      "description": "Spot the hidden flaw in this Boston 1 Bedroom: the bed wall shares a direct wall with the stove and sink line."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Boston 1 bedroom apartment, bedroom bed wall directly against kitchen appliance wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-043",
+    "slug": "2-bedroom-boston-bedroom-no-egress-path",
+    "city": "Boston",
+    "apartment_type": "2 Bedroom",
+    "question": "This Boston 2 Bedroom is advertised confidently, but the floor plan raises a bedroom-count concern. What is the legal red flag?",
+    "options": [
+      "The hallway is slightly longer than expected",
+      "The kitchen sink is not centered under a cabinet",
+      "The bedroom has no direct egress window or alternate emergency exit shown",
+      "The apartment has no decorative entry niche"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The bedroom has no direct egress window or alternate emergency exit shown",
+    "explanation": "Sleeping rooms need more than a door to the interior of the apartment. Without a safe escape opening, the room may create a serious life-safety and code concern.",
+    "flaw_category": "legal",
+    "flaw_tags": [
+      "egress",
+      "life_safety",
+      "bedroom",
+      "boston"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Boston 2 Bedroom The bedroom has no clear emergency exit path",
+      "description": "Spot the hidden flaw in this Boston 2 Bedroom: the bedroom has no direct egress window or alternate emergency exit shown."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Boston 2 bedroom apartment, bedroom surrounded by interior walls with no egress window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-044",
+    "slug": "3-bedroom-boston-bathroom-visible-from-entry",
+    "city": "Boston",
+    "apartment_type": "3 Bedroom",
+    "question": "A visitor knocks at this Boston 3 Bedroom and the layout immediately feels exposed. What privacy flaw causes that?",
+    "options": [
+      "The closet doors are drawn as sliding doors",
+      "The living room wall is too plain for a television",
+      "The bedroom is closer to the bathroom than the kitchen",
+      "The bathroom door and toilet line up directly with the front door"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The bathroom door and toilet line up directly with the front door",
+    "explanation": "A straight sight line from the entry to the toilet is a privacy failure. Even if the bathroom has a door, the plan creates awkward exposure whenever doors are open.",
+    "flaw_category": "privacy",
+    "flaw_tags": [
+      "sight_line",
+      "bathroom_privacy",
+      "entry",
+      "boston"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Boston 3 Bedroom The toilet is visible from the entry door",
+      "description": "Spot the hidden flaw in this Boston 3 Bedroom: the bathroom door and toilet line up directly with the front door."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Boston 3 bedroom apartment, front door sight line directly into bathroom toilet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-045",
+    "slug": "loft-studio-seattle-bathroom-bigger-than-living",
+    "city": "Seattle",
+    "apartment_type": "Loft Studio",
+    "question": "This Seattle Loft Studio lists decent square footage, but the room sizes feel wrong. What proportion problem does the plan reveal?",
+    "options": [
+      "The bathroom footprint is larger than the usable living room",
+      "The refrigerator is shown on the left side of the kitchen",
+      "The plan uses too many rectangular rooms",
+      "The apartment has no separate dining room"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The bathroom footprint is larger than the usable living room",
+    "explanation": "A large bathroom can sound luxurious, but not if it steals the space needed for daily living. The result is a unit that photographs well but cannot comfortably hold basic furniture.",
+    "flaw_category": "proportion",
+    "flaw_tags": [
+      "oversized_bathroom",
+      "living_room",
+      "space_allocation",
+      "seattle"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Seattle Loft Studio The bathroom consumes more space than the living room",
+      "description": "Spot the hidden flaw in this Seattle Loft Studio: the bathroom footprint is larger than the usable living room."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Seattle loft studio apartment, large bathroom dominating floor plan with tiny living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-046",
+    "slug": "studio-seattle-south-glass-no-overhang",
+    "city": "Seattle",
+    "apartment_type": "Studio",
+    "question": "The rent on this Seattle Studio looks reasonable until the utility bills arrive. What climate-related flaw is shown?",
+    "options": [
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The main living wall is all south-facing glass with no exterior shade",
+      "The living room is located near the front of the unit",
+      "The kitchen and living room share an open plan"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The main living wall is all south-facing glass with no exterior shade",
+    "explanation": "In sunny climates, unshaded glass can turn a room into a heat collector. Orientation affects comfort and utility costs as much as finishes do.",
+    "flaw_category": "climate",
+    "flaw_tags": [
+      "south_glass",
+      "shade",
+      "heat_gain",
+      "seattle"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Seattle Studio A long south-facing glass wall has no shading",
+      "description": "Spot the hidden flaw in this Seattle Studio: the main living wall is all south-facing glass with no exterior shade."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Seattle studio apartment, large south facing window wall with no overhang, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-047",
+    "slug": "1-bedroom-denver-electrical-panel-in-closet",
+    "city": "Denver",
+    "apartment_type": "1 Bedroom",
+    "question": "This Denver 1 Bedroom has the right rooms, but the building systems are in the wrong place. What utility conflict stands out?",
+    "options": [
+      "The windows are grouped on one side of the unit",
+      "The bedroom door swings inward",
+      "The electrical panel is inside the only closet, limiting storage and access",
+      "The kitchen counters face away from the living area"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The electrical panel is inside the only closet, limiting storage and access",
+    "explanation": "Electrical panels need clear access, so you cannot safely pack the closet full. This turns advertised storage into a restricted utility zone.",
+    "flaw_category": "utility_conflict",
+    "flaw_tags": [
+      "electrical_panel",
+      "closet",
+      "clearance",
+      "denver"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Denver 1 Bedroom The electrical panel occupies the main closet",
+      "description": "Spot the hidden flaw in this Denver 1 Bedroom: the electrical panel is inside the only closet, limiting storage and access."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Denver 1 bedroom apartment, electrical panel shown inside only closet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-048",
+    "slug": "2-bedroom-denver-living-room-half-underground",
+    "city": "Denver",
+    "apartment_type": "2 Bedroom",
+    "question": "This Denver 2 Bedroom is priced below similar listings nearby. What below-grade warning does the plan show?",
+    "options": [
+      "The living room has one too many windows",
+      "The bathroom tile pattern makes the room look smaller",
+      "The front door is painted too dark",
+      "The main living room is partially below grade, limiting light and outlook"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The main living room is partially below grade, limiting light and outlook",
+    "explanation": "A below-grade living room can make the apartment feel basement-like even if the bedrooms are acceptable. Renters should watch for dampness, low light, and poor air movement.",
+    "flaw_category": "below_grade",
+    "flaw_tags": [
+      "basement_unit",
+      "living_room",
+      "low_light",
+      "denver"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Denver 2 Bedroom The living room is half below grade",
+      "description": "Spot the hidden flaw in this Denver 2 Bedroom: the main living room is partially below grade, limiting light and outlook."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Denver 2 bedroom apartment, living room below grade line with small high windows, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-049",
+    "slug": "3-bedroom-atlanta-toilet-beside-stove-wall",
+    "city": "Atlanta",
+    "apartment_type": "3 Bedroom",
+    "question": "This Atlanta 3 Bedroom has a layout that would make daily hygiene feel awkward. What sanitation issue is visible?",
+    "options": [
+      "The toilet is placed directly behind the kitchen stove wall with no buffer",
+      "The bedroom has more natural light than the living room",
+      "The balcony is too narrow for outdoor furniture",
+      "The hallway is slightly longer than expected"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The toilet is placed directly behind the kitchen stove wall with no buffer",
+    "explanation": "Shared plumbing walls are common, but this arrangement feels especially poor when the toilet is directly behind the cooking zone. It signals a layout designed around pipes rather than people.",
+    "flaw_category": "sanitation",
+    "flaw_tags": [
+      "toilet_location",
+      "kitchen_wall",
+      "hygiene",
+      "atlanta"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Atlanta 3 Bedroom The toilet wall backs directly onto the stove line",
+      "description": "Spot the hidden flaw in this Atlanta 3 Bedroom: the toilet is placed directly behind the kitchen stove wall with no buffer."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Atlanta 3 bedroom apartment, toilet and stove back to back on thin shared wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-050",
+    "slug": "loft-studio-atlanta-work-zone-in-sleep-path",
+    "city": "Atlanta",
+    "apartment_type": "Loft Studio",
+    "question": "This Atlanta Loft Studio tries to be open and flexible, but the zones do not work. What zoning flaw is shown?",
+    "options": [
+      "The kitchen sink is not centered under a cabinet",
+      "The only desk location is in the pathway between the entry and bed",
+      "The apartment has no decorative entry niche",
+      "The closet doors are drawn as sliding doors"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The only desk location is in the pathway between the entry and bed",
+    "explanation": "Work zones need enough separation to feel functional. If the desk sits in a circulation path, the apartment becomes harder to use for remote work and everyday movement.",
+    "flaw_category": "zoning",
+    "flaw_tags": [
+      "work_from_home",
+      "desk_location",
+      "circulation",
+      "atlanta"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Atlanta Loft Studio The desk is trapped in the sleeping path",
+      "description": "Spot the hidden flaw in this Atlanta Loft Studio: the only desk location is in the pathway between the entry and bed."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Atlanta loft studio apartment, desk rectangle in direct path from entry to bed, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-051",
+    "slug": "studio-washington-dc-spiral-stair-only-bedroom",
+    "city": "Washington DC",
+    "apartment_type": "Studio",
+    "question": "This Washington DC Studio looks charming in photos, but daily access would be difficult. What accessibility flaw does the plan reveal?",
+    "options": [
+      "The living room wall is too plain for a television",
+      "The bedroom is closer to the bathroom than the kitchen",
+      "The bedroom is reached only by a narrow spiral staircase",
+      "The refrigerator is shown on the left side of the kitchen"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The bedroom is reached only by a narrow spiral staircase",
+    "explanation": "Spiral stairs save space but make moving furniture difficult and can be challenging for children, older adults, or anyone with mobility limits. They also complicate nighttime trips to the bathroom.",
+    "flaw_category": "accessibility",
+    "flaw_tags": [
+      "spiral_stair",
+      "bedroom_access",
+      "mobility",
+      "washington-dc"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Washington DC Studio The only bedroom route is a tight spiral stair",
+      "description": "Spot the hidden flaw in this Washington DC Studio: the bedroom is reached only by a narrow spiral staircase."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Washington DC studio apartment, bedroom level accessed by tight spiral stair symbol, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-052",
+    "slug": "1-bedroom-washington-dc-stove-beside-front-door",
+    "city": "Washington DC",
+    "apartment_type": "1 Bedroom",
+    "question": "This Washington DC 1 Bedroom has a layout that creates a safety issue during ordinary daily use. What is the problem?",
+    "options": [
+      "The plan uses too many rectangular rooms",
+      "The apartment has no separate dining room",
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The stove sits directly beside the front door swing"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The stove sits directly beside the front door swing",
+    "explanation": "A stove needs stable clearance and should not be in a door-swing conflict zone. Entering the apartment should not put someone next to hot burners or handles.",
+    "flaw_category": "safety",
+    "flaw_tags": [
+      "stove_location",
+      "door_swing",
+      "safety",
+      "washington-dc"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Washington DC 1 Bedroom The stove is immediately beside the front door",
+      "description": "Spot the hidden flaw in this Washington DC 1 Bedroom: the stove sits directly beside the front door swing."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Washington DC 1 bedroom apartment, front door swing overlapping kitchen stove zone, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-053",
+    "slug": "2-bedroom-nashville-fridge-across-living-room",
+    "city": "Nashville",
+    "apartment_type": "2 Bedroom",
+    "question": "This Nashville 2 Bedroom technically includes the right features, but the placement makes little sense. What layout logic flaw is visible?",
+    "options": [
+      "The refrigerator is across the living room from the rest of the kitchen",
+      "The living room is located near the front of the unit",
+      "The kitchen and living room share an open plan",
+      "The windows are grouped on one side of the unit"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The refrigerator is across the living room from the rest of the kitchen",
+    "explanation": "A kitchen should let the sink, stove, and refrigerator work together. Splitting the refrigerator across the room turns simple cooking into constant crossing traffic.",
+    "flaw_category": "layout_logic",
+    "flaw_tags": [
+      "kitchen_triangle",
+      "fridge_location",
+      "bad_logic",
+      "nashville"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Nashville 2 Bedroom The refrigerator is outside the kitchen triangle",
+      "description": "Spot the hidden flaw in this Nashville 2 Bedroom: the refrigerator is across the living room from the rest of the kitchen."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Nashville 2 bedroom apartment, refrigerator drawn across living area from stove and sink, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-054",
+    "slug": "3-bedroom-nashville-bed-blocks-closet",
+    "city": "Nashville",
+    "apartment_type": "3 Bedroom",
+    "question": "This Nashville 3 Bedroom looks efficient until you place normal furniture in it. What furniture conflict appears?",
+    "options": [
+      "The bedroom door swings inward",
+      "The only practical bed placement blocks the closet doors",
+      "The kitchen counters face away from the living area",
+      "The living room has one too many windows"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The only practical bed placement blocks the closet doors",
+    "explanation": "A bedroom is not functional if the bed and storage cannot coexist. This plan forces renters to choose between a normal bed and access to their clothes.",
+    "flaw_category": "furniture_conflict",
+    "flaw_tags": [
+      "bed_clearance",
+      "closet_blocked",
+      "furniture_fit",
+      "nashville"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Nashville 3 Bedroom The bed blocks the closet doors",
+      "description": "Spot the hidden flaw in this Nashville 3 Bedroom: the only practical bed placement blocks the closet doors."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Nashville 3 bedroom apartment, queen bed rectangle overlapping closet door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-055",
+    "slug": "loft-studio-portland-bedroom-with-two-doors-no-closet",
+    "city": "Portland",
+    "apartment_type": "Loft Studio",
+    "question": "This Portland Loft Studio appears to have been carved up to increase rent. What conversion clue gives it away?",
+    "options": [
+      "The bathroom tile pattern makes the room look smaller",
+      "The front door is painted too dark",
+      "The so-called bedroom has two doors, no closet, and no logical private wall",
+      "The bedroom has more natural light than the living room"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The so-called bedroom has two doors, no closet, and no logical private wall",
+    "explanation": "Multiple doors and no storage often reveal a room that used to be part of a common area. It may be rentable on paper, but it will live like a compromised conversion.",
+    "flaw_category": "illegal_conversion",
+    "flaw_tags": [
+      "two_doors",
+      "no_closet",
+      "illegal_conversion",
+      "portland"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Portland Loft Studio The converted bedroom has two doors and no closet",
+      "description": "Spot the hidden flaw in this Portland Loft Studio: the so-called bedroom has two doors, no closet, and no logical private wall."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Portland loft studio apartment, small bedroom carved from common area with two doors, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-056",
+    "slug": "studio-portland-only-windows-face-brick-wall",
+    "city": "Portland",
+    "apartment_type": "Studio",
+    "question": "This Portland Studio has windows on the plan, but their direction creates the problem. What orientation flaw is hidden here?",
+    "options": [
+      "The balcony is too narrow for outdoor furniture",
+      "The hallway is slightly longer than expected",
+      "The kitchen sink is not centered under a cabinet",
+      "The only windows face a neighboring brick wall just a few feet away"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The only windows face a neighboring brick wall just a few feet away",
+    "explanation": "A window is not automatically good natural light. If it faces a nearby wall, the room may stay dim all day and feel boxed in.",
+    "flaw_category": "orientation",
+    "flaw_tags": [
+      "brick_wall_view",
+      "low_light",
+      "orientation",
+      "portland"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Portland Studio The only windows face a brick wall",
+      "description": "Spot the hidden flaw in this Portland Studio: the only windows face a neighboring brick wall just a few feet away."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Portland studio apartment, windows opening to narrow gap with brick wall label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-057",
+    "slug": "1-bedroom-phoenix-bedroom-only-path-to-kitchen",
+    "city": "Phoenix",
+    "apartment_type": "1 Bedroom",
+    "question": "A renter in this Phoenix 1 Bedroom has to think twice before inviting anyone over. What circulation flaw does the plan reveal?",
+    "options": [
+      "The kitchen is only accessible by walking through the bedroom",
+      "The apartment has no decorative entry niche",
+      "The closet doors are drawn as sliding doors",
+      "The living room wall is too plain for a television"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The kitchen is only accessible by walking through the bedroom",
+    "explanation": "A kitchen should be part of the public living zone, not tucked behind the sleeping area. This setup makes everyday use awkward and makes entertaining nearly impossible without exposing the bedroom.",
+    "flaw_category": "traffic_flow",
+    "flaw_tags": [
+      "kitchen_access",
+      "privacy",
+      "bad_flow",
+      "phoenix"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Phoenix 1 Bedroom The kitchen can only be reached through the bedroom",
+      "description": "Spot the hidden flaw in this Phoenix 1 Bedroom: the kitchen is only accessible by walking through the bedroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Phoenix 1 bedroom apartment, kitchen tucked beyond bedroom with no hallway connection, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-058",
+    "slug": "2-bedroom-phoenix-tiny-bedroom-lost-to-wardrobes",
+    "city": "Phoenix",
+    "apartment_type": "2 Bedroom",
+    "question": "This Phoenix 2 Bedroom looks tidy in listing photos, but move-in day exposes the real problem. What storage flaw is hidden in the plan?",
+    "options": [
+      "The bedroom is closer to the bathroom than the kitchen",
+      "The bedroom has no built-in storage, so any wardrobe would block the bed clearance",
+      "The refrigerator is shown on the left side of the kitchen",
+      "The plan uses too many rectangular rooms"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The bedroom has no built-in storage, so any wardrobe would block the bed clearance",
+    "explanation": "A room can look large on paper but become tight once storage furniture is added. Renters should check whether a bed and storage can fit at the same time, not just whether the room has four walls.",
+    "flaw_category": "storage",
+    "flaw_tags": [
+      "wardrobe_conflict",
+      "usable_space",
+      "no_closet",
+      "phoenix"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Phoenix 2 Bedroom The bedroom depends on wardrobes that shrink the usable space",
+      "description": "Spot the hidden flaw in this Phoenix 2 Bedroom: the bedroom has no built-in storage, so any wardrobe would block the bed clearance."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Phoenix 2 bedroom apartment, small bedroom with bed clearance and no closet forcing wardrobe into pathway, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-059",
+    "slug": "3-bedroom-minneapolis-bathroom-no-fan",
+    "city": "Minneapolis",
+    "apartment_type": "3 Bedroom",
+    "question": "After one week of cooking, showering, or sleeping here, this Minneapolis 3 Bedroom would feel stale. What ventilation flaw causes it?",
+    "options": [
+      "The apartment has no separate dining room",
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The bathroom has no window or exhaust fan shown on the plan",
+      "The living room is located near the front of the unit"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The bathroom has no window or exhaust fan shown on the plan",
+    "explanation": "Bathrooms produce moisture that needs a reliable exit path. Without ventilation, humidity can lead to odors, peeling paint, and mold-prone conditions.",
+    "flaw_category": "ventilation",
+    "flaw_tags": [
+      "bathroom_ventilation",
+      "humidity",
+      "mold_risk",
+      "minneapolis"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Minneapolis 3 Bedroom The bathroom has no window or exhaust fan",
+      "description": "Spot the hidden flaw in this Minneapolis 3 Bedroom: the bathroom has no window or exhaust fan shown on the plan."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Minneapolis 3 bedroom apartment, interior bathroom with no fan symbol and no window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-060",
+    "slug": "loft-studio-minneapolis-bathroom-plumbing-at-headboard",
+    "city": "Minneapolis",
+    "apartment_type": "Loft Studio",
+    "question": "Roommates in this Minneapolis Loft Studio start hearing everything through the walls. What acoustic flaw does the floor plan predict?",
+    "options": [
+      "The kitchen and living room share an open plan",
+      "The windows are grouped on one side of the unit",
+      "The bedroom door swings inward",
+      "The bed is placed against the same wall as the toilet and shower plumbing"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The bed is placed against the same wall as the toilet and shower plumbing",
+    "explanation": "Plumbing walls can transmit flushing, shower, and pipe noise into a bedroom. This is especially disruptive when the bathroom serves guests or roommates at night.",
+    "flaw_category": "acoustics",
+    "flaw_tags": [
+      "plumbing_noise",
+      "headboard_wall",
+      "bathroom",
+      "minneapolis"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Minneapolis Loft Studio The headboard wall carries bathroom plumbing",
+      "description": "Spot the hidden flaw in this Minneapolis Loft Studio: the bed is placed against the same wall as the toilet and shower plumbing."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Minneapolis loft studio apartment, bed headboard on wall shared with toilet and shower, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-061",
+    "slug": "studio-new-orleans-closet-labeled-bedroom",
+    "city": "New Orleans",
+    "apartment_type": "Studio",
+    "question": "This New Orleans Studio is advertised confidently, but the floor plan raises a bedroom-count concern. What is the legal red flag?",
+    "options": [
+      "The room labeled bedroom is closer to a closet than a habitable sleeping room",
+      "The kitchen counters face away from the living area",
+      "The living room has one too many windows",
+      "The bathroom tile pattern makes the room look smaller"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The room labeled bedroom is closer to a closet than a habitable sleeping room",
+    "explanation": "A bedroom label does not make a room livable. Renters should compare dimensions, light, ventilation, and furniture clearance before accepting a listing's bedroom count.",
+    "flaw_category": "legal",
+    "flaw_tags": [
+      "mislabeling",
+      "room_size",
+      "renter_warning",
+      "new-orleans"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: New Orleans Studio A tiny storage room is being marketed as a bedroom",
+      "description": "Spot the hidden flaw in this New Orleans Studio: the room labeled bedroom is closer to a closet than a habitable sleeping room."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, New Orleans studio apartment, very small interior room labeled bedroom with minimal clearances, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-062",
+    "slug": "1-bedroom-new-orleans-guest-path-through-bedroom",
+    "city": "New Orleans",
+    "apartment_type": "1 Bedroom",
+    "question": "A visitor knocks at this New Orleans 1 Bedroom and the layout immediately feels exposed. What privacy flaw causes that?",
+    "options": [
+      "The front door is painted too dark",
+      "The guest path from the entry crosses the bedroom zone before reaching the living area",
+      "The bedroom has more natural light than the living room",
+      "The balcony is too narrow for outdoor furniture"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The guest path from the entry crosses the bedroom zone before reaching the living area",
+    "explanation": "Good apartment layouts separate guest circulation from sleeping areas. This plan makes ordinary visits feel invasive because the bedroom is part of the public route.",
+    "flaw_category": "privacy",
+    "flaw_tags": [
+      "guest_flow",
+      "sleeping_zone",
+      "no_buffer",
+      "new-orleans"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: New Orleans 1 Bedroom Guests must pass the bedroom to reach common rooms",
+      "description": "Spot the hidden flaw in this New Orleans 1 Bedroom: the guest path from the entry crosses the bedroom zone before reaching the living area."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, New Orleans 1 bedroom apartment, entry route crossing bedroom area to living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-063",
+    "slug": "2-bedroom-houston-hallway-wastes-square-footage",
+    "city": "Houston",
+    "apartment_type": "2 Bedroom",
+    "question": "This Houston 2 Bedroom lists decent square footage, but the room sizes feel wrong. What proportion problem does the plan reveal?",
+    "options": [
+      "The hallway is slightly longer than expected",
+      "The kitchen sink is not centered under a cabinet",
+      "A long oversized hallway consumes the space that should have gone to rooms",
+      "The apartment has no decorative entry niche"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "A long oversized hallway consumes the space that should have gone to rooms",
+    "explanation": "Renters pay for hallway square footage even though it is rarely usable. A plan with a huge circulation spine can feel much smaller than the advertised size.",
+    "flaw_category": "proportion",
+    "flaw_tags": [
+      "wasted_space",
+      "hallway",
+      "efficiency",
+      "houston"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Houston 2 Bedroom The hallway takes up too much of the apartment",
+      "description": "Spot the hidden flaw in this Houston 2 Bedroom: a long oversized hallway consumes the space that should have gone to rooms."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Houston 2 bedroom apartment, wide long hallway taking major footprint between rooms, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-064",
+    "slug": "3-bedroom-houston-bedroom-over-garage-cold",
+    "city": "Houston",
+    "apartment_type": "3 Bedroom",
+    "question": "The rent on this Houston 3 Bedroom looks reasonable until the utility bills arrive. What climate-related flaw is shown?",
+    "options": [
+      "The closet doors are drawn as sliding doors",
+      "The living room wall is too plain for a television",
+      "The bedroom is closer to the bathroom than the kitchen",
+      "The bedroom is positioned over an unconditioned garage, making temperature swings likely"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The bedroom is positioned over an unconditioned garage, making temperature swings likely",
+    "explanation": "Rooms over garages are often harder to heat and cool because they lose energy through the floor. The plan signals a comfort problem that renters may not notice during a quick tour.",
+    "flaw_category": "climate",
+    "flaw_tags": [
+      "over_garage",
+      "temperature",
+      "comfort",
+      "houston"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Houston 3 Bedroom The bedroom sits over an unconditioned garage",
+      "description": "Spot the hidden flaw in this Houston 3 Bedroom: the bedroom is positioned over an unconditioned garage, making temperature swings likely."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Houston 3 bedroom apartment, bedroom footprint above garage zone marked unconditioned, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-065",
+    "slug": "loft-studio-dallas-water-heater-in-bedroom",
+    "city": "Dallas",
+    "apartment_type": "Loft Studio",
+    "question": "This Dallas Loft Studio has the right rooms, but the building systems are in the wrong place. What utility conflict stands out?",
+    "options": [
+      "The water heater closet is located inside the bedroom",
+      "The refrigerator is shown on the left side of the kitchen",
+      "The plan uses too many rectangular rooms",
+      "The apartment has no separate dining room"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The water heater closet is located inside the bedroom",
+    "explanation": "Water heaters can create noise, heat, and maintenance interruptions. Placing one in a bedroom sacrifices quiet private space for utility access.",
+    "flaw_category": "utility_conflict",
+    "flaw_tags": [
+      "water_heater",
+      "bedroom",
+      "maintenance",
+      "dallas"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Dallas Loft Studio The water heater sits inside the bedroom",
+      "description": "Spot the hidden flaw in this Dallas Loft Studio: the water heater closet is located inside the bedroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Dallas loft studio apartment, water heater closet drawn inside bedroom wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-066",
+    "slug": "studio-dallas-kitchen-below-grade-no-drainage",
+    "city": "Dallas",
+    "apartment_type": "Studio",
+    "question": "This Dallas Studio is priced below similar listings nearby. What below-grade warning does the plan show?",
+    "options": [
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The kitchen is below exterior grade with a grade line against the wall",
+      "The living room is located near the front of the unit",
+      "The kitchen and living room share an open plan"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The kitchen is below exterior grade with a grade line against the wall",
+    "explanation": "A kitchen below grade may be more vulnerable to moisture and drainage issues. This matters because cabinets, flooring, and food storage do not handle damp conditions well.",
+    "flaw_category": "below_grade",
+    "flaw_tags": [
+      "below_grade_kitchen",
+      "drainage",
+      "moisture",
+      "dallas"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Dallas Studio The kitchen sits below exterior grade",
+      "description": "Spot the hidden flaw in this Dallas Studio: the kitchen is below exterior grade with a grade line against the wall."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Dallas studio apartment, kitchen wall cut by exterior grade line, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-067",
+    "slug": "1-bedroom-detroit-laundry-drains-through-kitchen",
+    "city": "Detroit",
+    "apartment_type": "1 Bedroom",
+    "question": "This Detroit 1 Bedroom has a layout that would make daily hygiene feel awkward. What sanitation issue is visible?",
+    "options": [
+      "The windows are grouped on one side of the unit",
+      "The bedroom door swings inward",
+      "The washer hookup is inside the kitchen prep area next to the sink and counters",
+      "The kitchen counters face away from the living area"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The washer hookup is inside the kitchen prep area next to the sink and counters",
+    "explanation": "Mixing laundry and food preparation creates humidity, lint, vibration, and cleanliness concerns. In-unit laundry is a benefit only when it has an appropriate utility location.",
+    "flaw_category": "sanitation",
+    "flaw_tags": [
+      "laundry_in_kitchen",
+      "humidity",
+      "sanitation",
+      "detroit"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Detroit 1 Bedroom Laundry is squeezed into the food-prep zone",
+      "description": "Spot the hidden flaw in this Detroit 1 Bedroom: the washer hookup is inside the kitchen prep area next to the sink and counters."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Detroit 1 bedroom apartment, washer dryer symbols inside kitchen counter run, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-068",
+    "slug": "2-bedroom-detroit-kitchen-is-room-divider-only",
+    "city": "Detroit",
+    "apartment_type": "2 Bedroom",
+    "question": "This Detroit 2 Bedroom tries to be open and flexible, but the zones do not work. What zoning flaw is shown?",
+    "options": [
+      "The living room has one too many windows",
+      "The bathroom tile pattern makes the room look smaller",
+      "The front door is painted too dark",
+      "The kitchen island is the only separation between sleeping and living zones"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The kitchen island is the only separation between sleeping and living zones",
+    "explanation": "An island can define space, but it does not provide privacy, sound separation, or visual screening. This plan relies on furniture-like zoning where a partial wall would work better.",
+    "flaw_category": "zoning",
+    "flaw_tags": [
+      "open_plan",
+      "island_divider",
+      "privacy",
+      "detroit"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Detroit 2 Bedroom The kitchen island is the only divider",
+      "description": "Spot the hidden flaw in this Detroit 2 Bedroom: the kitchen island is the only separation between sleeping and living zones."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Detroit 2 bedroom apartment, studio with kitchen island between bed and living area, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-069",
+    "slug": "3-bedroom-philadelphia-bathroom-too-tight-clearance",
+    "city": "Philadelphia",
+    "apartment_type": "3 Bedroom",
+    "question": "This Philadelphia 3 Bedroom looks charming in photos, but daily access would be difficult. What accessibility flaw does the plan reveal?",
+    "options": [
+      "The bathroom is drawn too tight for basic turning clearance",
+      "The bedroom has more natural light than the living room",
+      "The balcony is too narrow for outdoor furniture",
+      "The hallway is slightly longer than expected"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The bathroom is drawn too tight for basic turning clearance",
+    "explanation": "Small bathrooms can be functional, but fixtures need enough room to use safely. A plan that crowds the toilet, sink, and door often feels worse than its square footage suggests.",
+    "flaw_category": "accessibility",
+    "flaw_tags": [
+      "bathroom_clearance",
+      "turning_radius",
+      "access",
+      "philadelphia"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Philadelphia 3 Bedroom The bathroom has no turning clearance",
+      "description": "Spot the hidden flaw in this Philadelphia 3 Bedroom: the bathroom is drawn too tight for basic turning clearance."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Philadelphia 3 bedroom apartment, tiny bathroom with door swing hitting fixture clearance, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-070",
+    "slug": "loft-studio-philadelphia-bedroom-egress-blocked-by-furniture",
+    "city": "Philadelphia",
+    "apartment_type": "Loft Studio",
+    "question": "This Philadelphia Loft Studio has a layout that creates a safety issue during ordinary daily use. What is the problem?",
+    "options": [
+      "The kitchen sink is not centered under a cabinet",
+      "The bed placement blocks the only clear path to the bedroom door",
+      "The apartment has no decorative entry niche",
+      "The closet doors are drawn as sliding doors"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The bed placement blocks the only clear path to the bedroom door",
+    "explanation": "Furniture layouts should not compromise egress. If the only workable bed location blocks the door route, the room is unsafe and frustrating.",
+    "flaw_category": "safety",
+    "flaw_tags": [
+      "egress_path",
+      "bed_placement",
+      "safety",
+      "philadelphia"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Philadelphia Loft Studio The only bedroom exit is blocked by furniture placement",
+      "description": "Spot the hidden flaw in this Philadelphia Loft Studio: the bed placement blocks the only clear path to the bedroom door."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Philadelphia loft studio apartment, bed rectangle intruding into bedroom door path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-071",
+    "slug": "studio-pittsburgh-bathroom-split-fixtures",
+    "city": "Pittsburgh",
+    "apartment_type": "Studio",
+    "question": "This Pittsburgh Studio technically includes the right features, but the placement makes little sense. What layout logic flaw is visible?",
+    "options": [
+      "The living room wall is too plain for a television",
+      "The bedroom is closer to the bathroom than the kitchen",
+      "The toilet and shower are separated from the sink by a hallway",
+      "The refrigerator is shown on the left side of the kitchen"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The toilet and shower are separated from the sink by a hallway",
+    "explanation": "Separating basic bathroom fixtures can create awkward routines and hygiene issues. It usually signals a retrofit where plumbing was added wherever it was cheapest.",
+    "flaw_category": "layout_logic",
+    "flaw_tags": [
+      "split_bath",
+      "retrofit",
+      "daily_function",
+      "pittsburgh"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Pittsburgh Studio The bathroom fixtures are split into different rooms",
+      "description": "Spot the hidden flaw in this Pittsburgh Studio: the toilet and shower are separated from the sink by a hallway."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Pittsburgh studio apartment, toilet shower room separated from sink across hall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-072",
+    "slug": "1-bedroom-pittsburgh-sofa-blocks-balcony",
+    "city": "Pittsburgh",
+    "apartment_type": "1 Bedroom",
+    "question": "This Pittsburgh 1 Bedroom looks efficient until you place normal furniture in it. What furniture conflict appears?",
+    "options": [
+      "The plan uses too many rectangular rooms",
+      "The apartment has no separate dining room",
+      "The bathroom appears to have a shower instead of a bathtub",
+      "A standard sofa would block the only balcony door"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "A standard sofa would block the only balcony door",
+    "explanation": "Outdoor access should not depend on squeezing around furniture. When the only logical sofa wall conflicts with the balcony door, the living room is poorly proportioned.",
+    "flaw_category": "furniture_conflict",
+    "flaw_tags": [
+      "sofa",
+      "balcony_access",
+      "living_room",
+      "pittsburgh"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Pittsburgh 1 Bedroom The sofa blocks balcony access",
+      "description": "Spot the hidden flaw in this Pittsburgh 1 Bedroom: a standard sofa would block the only balcony door."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Pittsburgh 1 bedroom apartment, sofa footprint across balcony door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-073",
+    "slug": "2-bedroom-baltimore-dining-room-labeled-bedroom",
+    "city": "Baltimore",
+    "apartment_type": "2 Bedroom",
+    "question": "This Baltimore 2 Bedroom appears to have been carved up to increase rent. What conversion clue gives it away?",
+    "options": [
+      "The original dining room is being counted as a bedroom",
+      "The living room is located near the front of the unit",
+      "The kitchen and living room share an open plan",
+      "The windows are grouped on one side of the unit"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The original dining room is being counted as a bedroom",
+    "explanation": "Dining rooms often have wide openings and poor privacy, even when they have a window. Relabeling one as a bedroom can inflate rent without creating a truly livable sleeping room.",
+    "flaw_category": "illegal_conversion",
+    "flaw_tags": [
+      "dining_room_conversion",
+      "mislabeling",
+      "rent_inflation",
+      "baltimore"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Baltimore 2 Bedroom The dining room has been relabeled as a bedroom",
+      "description": "Spot the hidden flaw in this Baltimore 2 Bedroom: the original dining room is being counted as a bedroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Baltimore 2 bedroom apartment, dining room with cased opening labeled bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-074",
+    "slug": "3-bedroom-baltimore-bedrooms-face-parking-lot",
+    "city": "Baltimore",
+    "apartment_type": "3 Bedroom",
+    "question": "This Baltimore 3 Bedroom has windows on the plan, but their direction creates the problem. What orientation flaw is hidden here?",
+    "options": [
+      "The bedroom door swings inward",
+      "Both bedroom windows face the parking lot and car headlights",
+      "The kitchen counters face away from the living area",
+      "The living room has one too many windows"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "Both bedroom windows face the parking lot and car headlights",
+    "explanation": "Parking-lot exposure brings headlights, doors slamming, and early morning engine noise directly into sleeping rooms. Renters should consider what each room faces, not only where windows are placed.",
+    "flaw_category": "orientation",
+    "flaw_tags": [
+      "parking_lot",
+      "headlights",
+      "bedroom_orientation",
+      "baltimore"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Baltimore 3 Bedroom Both bedrooms face the parking lot",
+      "description": "Spot the hidden flaw in this Baltimore 3 Bedroom: both bedroom windows face the parking lot and car headlights."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Baltimore 3 bedroom apartment, bedroom windows facing parking lot label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-075",
+    "slug": "loft-studio-charlotte-living-room-cut-through",
+    "city": "Charlotte",
+    "apartment_type": "Loft Studio",
+    "question": "A renter in this Charlotte Loft Studio has to think twice before inviting anyone over. What circulation flaw does the plan reveal?",
+    "options": [
+      "The bathroom tile pattern makes the room look smaller",
+      "The front door is painted too dark",
+      "The living room has to be crossed diagonally to reach every other room",
+      "The bedroom has more natural light than the living room"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The living room has to be crossed diagonally to reach every other room",
+    "explanation": "When all circulation cuts through the living room, furniture has to be arranged around traffic instead of comfort. The room becomes a pass-through zone rather than usable living space.",
+    "flaw_category": "traffic_flow",
+    "flaw_tags": [
+      "circulation",
+      "living_room",
+      "traffic_path",
+      "charlotte"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Charlotte Loft Studio The living room is the only circulation path",
+      "description": "Spot the hidden flaw in this Charlotte Loft Studio: the living room has to be crossed diagonally to reach every other room."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Charlotte loft studio apartment, all doors opening into living room with diagonal traffic path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-076",
+    "slug": "studio-charlotte-only-closet-in-bathroom",
+    "city": "Charlotte",
+    "apartment_type": "Studio",
+    "question": "This Charlotte Studio looks tidy in listing photos, but move-in day exposes the real problem. What storage flaw is hidden in the plan?",
+    "options": [
+      "The balcony is too narrow for outdoor furniture",
+      "The hallway is slightly longer than expected",
+      "The kitchen sink is not centered under a cabinet",
+      "The only storage closet is located inside the bathroom"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The only storage closet is located inside the bathroom",
+    "explanation": "Bathroom storage cannot replace normal household storage because humidity damages clothes, linens, and paper goods. It also means guests pass through a private wet zone to reach basic storage.",
+    "flaw_category": "storage",
+    "flaw_tags": [
+      "bathroom_storage",
+      "humidity",
+      "poor_planning",
+      "charlotte"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Charlotte Studio The only closet is inside the bathroom",
+      "description": "Spot the hidden flaw in this Charlotte Studio: the only storage closet is located inside the bathroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Charlotte studio apartment, single closet rectangle inside bathroom with no other closets, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-077",
+    "slug": "1-bedroom-raleigh-shotgun-no-cross-breeze",
+    "city": "Raleigh",
+    "apartment_type": "1 Bedroom",
+    "question": "After one week of cooking, showering, or sleeping here, this Raleigh 1 Bedroom would feel stale. What ventilation flaw causes it?",
+    "options": [
+      "Windows exist only at the front and back, leaving the middle rooms with no cross breeze",
+      "The apartment has no decorative entry niche",
+      "The closet doors are drawn as sliding doors",
+      "The living room wall is too plain for a television"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "Windows exist only at the front and back, leaving the middle rooms with no cross breeze",
+    "explanation": "Long narrow layouts need openings on more than one side to move air through the unit. When the middle rooms have no side ventilation, they become hot, stale, and dependent on mechanical cooling.",
+    "flaw_category": "ventilation",
+    "flaw_tags": [
+      "cross_ventilation",
+      "shotgun",
+      "middle_room",
+      "raleigh"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Raleigh 1 Bedroom The middle rooms cannot get cross ventilation",
+      "description": "Spot the hidden flaw in this Raleigh 1 Bedroom: windows exist only at the front and back, leaving the middle rooms with no cross breeze."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Raleigh 1 bedroom apartment, long narrow floor plan with windows only at front and rear, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-078",
+    "slug": "2-bedroom-raleigh-living-room-between-bedrooms-no-buffer",
+    "city": "Raleigh",
+    "apartment_type": "2 Bedroom",
+    "question": "Roommates in this Raleigh 2 Bedroom start hearing everything through the walls. What acoustic flaw does the floor plan predict?",
+    "options": [
+      "The bedroom is closer to the bathroom than the kitchen",
+      "Both bedroom doors open directly into the living room with no hall buffer",
+      "The refrigerator is shown on the left side of the kitchen",
+      "The plan uses too many rectangular rooms"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "Both bedroom doors open directly into the living room with no hall buffer",
+    "explanation": "When bedrooms open directly into the main hangout space, there is little separation between sleep and social noise. Even normal television or conversation can feel loud behind a thin door.",
+    "flaw_category": "acoustics",
+    "flaw_tags": [
+      "living_room_noise",
+      "door_placement",
+      "no_buffer",
+      "raleigh"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Raleigh 2 Bedroom The living room noise spills into both bedrooms",
+      "description": "Spot the hidden flaw in this Raleigh 2 Bedroom: both bedroom doors open directly into the living room with no hall buffer."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Raleigh 2 bedroom apartment, two bedroom doors opening straight into living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-079",
+    "slug": "3-bedroom-tampa-sleeping-room-through-bath",
+    "city": "Tampa",
+    "apartment_type": "3 Bedroom",
+    "question": "This Tampa 3 Bedroom is advertised confidently, but the floor plan raises a bedroom-count concern. What is the legal red flag?",
+    "options": [
+      "The apartment has no separate dining room",
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The only route to the bedroom passes through the bathroom",
+      "The living room is located near the front of the unit"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The only route to the bedroom passes through the bathroom",
+    "explanation": "A bathroom should not serve as the required path into a sleeping room. It creates privacy problems and may indicate an unpermitted or improvised conversion.",
+    "flaw_category": "legal",
+    "flaw_tags": [
+      "bathroom_access",
+      "bedroom_access",
+      "code_concern",
+      "tampa"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Tampa 3 Bedroom The sleeping room is accessed through a bathroom",
+      "description": "Spot the hidden flaw in this Tampa 3 Bedroom: the only route to the bedroom passes through the bathroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Tampa 3 bedroom apartment, bedroom door located only inside bathroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-080",
+    "slug": "loft-studio-tampa-bedroom-door-facing-kitchen",
+    "city": "Tampa",
+    "apartment_type": "Loft Studio",
+    "question": "A visitor knocks at this Tampa Loft Studio and the layout immediately feels exposed. What privacy flaw causes that?",
+    "options": [
+      "The kitchen and living room share an open plan",
+      "The windows are grouped on one side of the unit",
+      "The bedroom door swings inward",
+      "The bedroom door opens directly into the kitchen prep area"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The bedroom door opens directly into the kitchen prep area",
+    "explanation": "This puts private sleeping space face-to-face with the messiest and most active room in the apartment. It also makes it hard to keep cooking smells and noise out of the bedroom.",
+    "flaw_category": "privacy",
+    "flaw_tags": [
+      "bedroom_door",
+      "kitchen_privacy",
+      "smells",
+      "tampa"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Tampa Loft Studio The bedroom opens directly into the kitchen work zone",
+      "description": "Spot the hidden flaw in this Tampa Loft Studio: the bedroom door opens directly into the kitchen prep area."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Tampa loft studio apartment, bedroom door located beside stove and kitchen counter, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-081",
+    "slug": "studio-orlando-kitchen-too-large-bedroom-too-small",
+    "city": "Orlando",
+    "apartment_type": "Studio",
+    "question": "This Orlando Studio lists decent square footage, but the room sizes feel wrong. What proportion problem does the plan reveal?",
+    "options": [
+      "The kitchen is much larger than the bedroom, leaving poor sleeping-room clearance",
+      "The kitchen counters face away from the living area",
+      "The living room has one too many windows",
+      "The bathroom tile pattern makes the room look smaller"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The kitchen is much larger than the bedroom, leaving poor sleeping-room clearance",
+    "explanation": "A generous kitchen is useful only if the core sleeping and living areas still work. This plan overinvests in one zone and leaves the bedroom difficult to furnish.",
+    "flaw_category": "proportion",
+    "flaw_tags": [
+      "kitchen_size",
+      "bedroom_clearance",
+      "imbalance",
+      "orlando"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Orlando Studio The kitchen is oversized while the bedroom is undersized",
+      "description": "Spot the hidden flaw in this Orlando Studio: the kitchen is much larger than the bedroom, leaving poor sleeping-room clearance."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Orlando studio apartment, large kitchen with island beside very small bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-082",
+    "slug": "1-bedroom-orlando-corner-unit-no-cross-shade",
+    "city": "Orlando",
+    "apartment_type": "1 Bedroom",
+    "question": "The rent on this Orlando 1 Bedroom looks reasonable until the utility bills arrive. What climate-related flaw is shown?",
+    "options": [
+      "The front door is painted too dark",
+      "The living and bedroom windows wrap two sun-exposed walls with no shade",
+      "The bedroom has more natural light than the living room",
+      "The balcony is too narrow for outdoor furniture"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The living and bedroom windows wrap two sun-exposed walls with no shade",
+    "explanation": "Corner units can be bright, but too much exposed glass can mean heat gain and glare. Without shading, the same feature marketed as natural light can become an energy burden.",
+    "flaw_category": "climate",
+    "flaw_tags": [
+      "corner_unit",
+      "glare",
+      "heat_gain",
+      "orlando"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Orlando 1 Bedroom The corner unit gets heat from two exposed sides",
+      "description": "Spot the hidden flaw in this Orlando 1 Bedroom: the living and bedroom windows wrap two sun-exposed walls with no shade."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Orlando 1 bedroom apartment, corner apartment with windows on two exposed hot walls, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-083",
+    "slug": "2-bedroom-las-vegas-hvac-blocks-balcony-door",
+    "city": "Las Vegas",
+    "apartment_type": "2 Bedroom",
+    "question": "This Las Vegas 2 Bedroom has the right rooms, but the building systems are in the wrong place. What utility conflict stands out?",
+    "options": [
+      "The hallway is slightly longer than expected",
+      "The kitchen sink is not centered under a cabinet",
+      "The HVAC closet and equipment pinch the path to the balcony door",
+      "The apartment has no decorative entry niche"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The HVAC closet and equipment pinch the path to the balcony door",
+    "explanation": "A balcony is less useful when the route to it is squeezed by building equipment. Utility placement should not reduce access to the apartment's best amenity.",
+    "flaw_category": "utility_conflict",
+    "flaw_tags": [
+      "hvac",
+      "balcony_access",
+      "pinch_point",
+      "las-vegas"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Las Vegas 2 Bedroom The HVAC unit blocks balcony access",
+      "description": "Spot the hidden flaw in this Las Vegas 2 Bedroom: the hvac closet and equipment pinch the path to the balcony door."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Las Vegas 2 bedroom apartment, HVAC closet beside balcony door narrowing route, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-084",
+    "slug": "3-bedroom-las-vegas-bedroom-window-well-at-bed",
+    "city": "Las Vegas",
+    "apartment_type": "3 Bedroom",
+    "question": "This Las Vegas 3 Bedroom is priced below similar listings nearby. What below-grade warning does the plan show?",
+    "options": [
+      "The closet doors are drawn as sliding doors",
+      "The living room wall is too plain for a television",
+      "The bedroom is closer to the bathroom than the kitchen",
+      "The bedroom's only window well is directly at the head of the bed"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The bedroom's only window well is directly at the head of the bed",
+    "explanation": "Window wells can bring noise, water, and a concrete-wall view into the sleeping area. The issue is not just light; it changes how the room feels every day.",
+    "flaw_category": "below_grade",
+    "flaw_tags": [
+      "window_well",
+      "bed_placement",
+      "basement",
+      "las-vegas"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Las Vegas 3 Bedroom The bed is directly beside a window well",
+      "description": "Spot the hidden flaw in this Las Vegas 3 Bedroom: the bedroom's only window well is directly at the head of the bed."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Las Vegas 3 bedroom apartment, bed placed along wall with window well symbol at head, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-085",
+    "slug": "loft-studio-salt-lake-city-bathroom-vanity-in-kitchen",
+    "city": "Salt Lake City",
+    "apartment_type": "Loft Studio",
+    "question": "This Salt Lake City Loft Studio has a layout that would make daily hygiene feel awkward. What sanitation issue is visible?",
+    "options": [
+      "The bathroom vanity is located in the kitchen instead of inside the bathroom",
+      "The refrigerator is shown on the left side of the kitchen",
+      "The plan uses too many rectangular rooms",
+      "The apartment has no separate dining room"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The bathroom vanity is located in the kitchen instead of inside the bathroom",
+    "explanation": "Moving a vanity into the kitchen may save space, but it mixes personal hygiene with food preparation. It also makes the bathroom less private and less functional.",
+    "flaw_category": "sanitation",
+    "flaw_tags": [
+      "vanity_location",
+      "kitchen",
+      "hygiene",
+      "salt-lake-city"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Salt Lake City Loft Studio The bathroom sink is outside the bathroom in the kitchen",
+      "description": "Spot the hidden flaw in this Salt Lake City Loft Studio: the bathroom vanity is located in the kitchen instead of inside the bathroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Salt Lake City loft studio apartment, bathroom sink/vanity drawn in kitchen footprint, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-086",
+    "slug": "studio-salt-lake-city-bed-next-to-front-door",
+    "city": "Salt Lake City",
+    "apartment_type": "Studio",
+    "question": "This Salt Lake City Studio tries to be open and flexible, but the zones do not work. What zoning flaw is shown?",
+    "options": [
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The sleeping zone is placed directly beside the front door",
+      "The living room is located near the front of the unit",
+      "The kitchen and living room share an open plan"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The sleeping zone is placed directly beside the front door",
+    "explanation": "This is poor zoning because the most private activity is placed in the most public part of the unit. Even a small entry buffer would improve the apartment dramatically.",
+    "flaw_category": "zoning",
+    "flaw_tags": [
+      "entry_zone",
+      "bed_placement",
+      "privacy",
+      "salt-lake-city"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Salt Lake City Studio The bed sits immediately beside the front door",
+      "description": "Spot the hidden flaw in this Salt Lake City Studio: the sleeping zone is placed directly beside the front door."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Salt Lake City studio apartment, bed rectangle immediately adjacent to front door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-087",
+    "slug": "1-bedroom-kansas-city-bedroom-door-narrow-hall",
+    "city": "Kansas City",
+    "apartment_type": "1 Bedroom",
+    "question": "This Kansas City 1 Bedroom looks charming in photos, but daily access would be difficult. What accessibility flaw does the plan reveal?",
+    "options": [
+      "The windows are grouped on one side of the unit",
+      "The bedroom door swings inward",
+      "The hallway pinch point before the bedroom is too narrow for comfortable access",
+      "The kitchen counters face away from the living area"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The hallway pinch point before the bedroom is too narrow for comfortable access",
+    "explanation": "Narrow pinch points make moving furniture difficult and can be a daily problem for renters using mobility devices. The issue often hides in the circulation spaces rather than the rooms.",
+    "flaw_category": "accessibility",
+    "flaw_tags": [
+      "narrow_hall",
+      "pinch_point",
+      "furniture_move",
+      "kansas-city"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Kansas City 1 Bedroom The route to the bedroom is too narrow",
+      "description": "Spot the hidden flaw in this Kansas City 1 Bedroom: the hallway pinch point before the bedroom is too narrow for comfortable access."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Kansas City 1 bedroom apartment, narrow hallway neck before bedroom door, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-088",
+    "slug": "2-bedroom-kansas-city-bath-door-hits-stair",
+    "city": "Kansas City",
+    "apartment_type": "2 Bedroom",
+    "question": "This Kansas City 2 Bedroom has a layout that creates a safety issue during ordinary daily use. What is the problem?",
+    "options": [
+      "The living room has one too many windows",
+      "The bathroom tile pattern makes the room look smaller",
+      "The front door is painted too dark",
+      "The bathroom door opens directly onto a stair landing"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The bathroom door opens directly onto a stair landing",
+    "explanation": "Doors opening into stairs or tight landings create fall risk and awkward movement. This is the kind of safety detail people miss when focusing only on room count.",
+    "flaw_category": "safety",
+    "flaw_tags": [
+      "stair_landing",
+      "door_swing",
+      "fall_risk",
+      "kansas-city"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Kansas City 2 Bedroom The bathroom door opens onto a stair landing",
+      "description": "Spot the hidden flaw in this Kansas City 2 Bedroom: the bathroom door opens directly onto a stair landing."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Kansas City 2 bedroom apartment, bathroom door swing overlapping stair landing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-089",
+    "slug": "3-bedroom-st-louis-bedroom-door-through-closet",
+    "city": "St. Louis",
+    "apartment_type": "3 Bedroom",
+    "question": "This St. Louis 3 Bedroom technically includes the right features, but the placement makes little sense. What layout logic flaw is visible?",
+    "options": [
+      "The bedroom entry path passes through the closet area",
+      "The bedroom has more natural light than the living room",
+      "The balcony is too narrow for outdoor furniture",
+      "The hallway is slightly longer than expected"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The bedroom entry path passes through the closet area",
+    "explanation": "A closet should support the bedroom, not serve as the main circulation route. This layout makes storage harder to use and makes the bedroom feel like an afterthought.",
+    "flaw_category": "layout_logic",
+    "flaw_tags": [
+      "closet_path",
+      "bedroom_access",
+      "bad_logic",
+      "st-louis"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: St. Louis 3 Bedroom The bedroom is entered through a closet zone",
+      "description": "Spot the hidden flaw in this St. Louis 3 Bedroom: the bedroom entry path passes through the closet area."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, St. Louis 3 bedroom apartment, bedroom door route cutting through walk-in closet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-090",
+    "slug": "loft-studio-st-louis-desk-blocks-bedroom-door",
+    "city": "St. Louis",
+    "apartment_type": "Loft Studio",
+    "question": "This St. Louis Loft Studio looks efficient until you place normal furniture in it. What furniture conflict appears?",
+    "options": [
+      "The kitchen sink is not centered under a cabinet",
+      "The only workable desk location interferes with the bedroom door swing",
+      "The apartment has no decorative entry niche",
+      "The closet doors are drawn as sliding doors"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The only workable desk location interferes with the bedroom door swing",
+    "explanation": "Remote-work layouts need a desk that does not compromise circulation. This plan creates a choice between a work surface and a usable bedroom entrance.",
+    "flaw_category": "furniture_conflict",
+    "flaw_tags": [
+      "desk",
+      "door_swing",
+      "work_from_home",
+      "st-louis"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: St. Louis Loft Studio The only desk location blocks the bedroom door",
+      "description": "Spot the hidden flaw in this St. Louis Loft Studio: the only workable desk location interferes with the bedroom door swing."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, St. Louis loft studio apartment, desk footprint overlapping bedroom door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-091",
+    "slug": "studio-cincinnati-loft-platform-over-kitchen",
+    "city": "Cincinnati",
+    "apartment_type": "Studio",
+    "question": "This Cincinnati Studio appears to have been carved up to increase rent. What conversion clue gives it away?",
+    "options": [
+      "The living room wall is too plain for a television",
+      "The bedroom is closer to the bathroom than the kitchen",
+      "A low sleeping platform has been added above the kitchen as a bedroom",
+      "The refrigerator is shown on the left side of the kitchen"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "A low sleeping platform has been added above the kitchen as a bedroom",
+    "explanation": "Improvised loft platforms can create head-height, access, and safety problems. If the plan shows the bed over a kitchen, renters should question whether it was designed or simply squeezed in.",
+    "flaw_category": "illegal_conversion",
+    "flaw_tags": [
+      "sleeping_platform",
+      "loft_conversion",
+      "head_height",
+      "cincinnati"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Cincinnati Studio A sleeping platform is squeezed above the kitchen",
+      "description": "Spot the hidden flaw in this Cincinnati Studio: a low sleeping platform has been added above the kitchen as a bedroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Cincinnati studio apartment, low loft platform built over kitchen footprint, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-092",
+    "slug": "1-bedroom-cincinnati-living-room-no-street-facing-window",
+    "city": "Cincinnati",
+    "apartment_type": "1 Bedroom",
+    "question": "This Cincinnati 1 Bedroom has windows on the plan, but their direction creates the problem. What orientation flaw is hidden here?",
+    "options": [
+      "The plan uses too many rectangular rooms",
+      "The apartment has no separate dining room",
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The living room has no street-facing window while secondary rooms get the exposure"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The living room has no street-facing window while secondary rooms get the exposure",
+    "explanation": "The best light should usually support the rooms where people spend the most waking hours. This plan gives the better orientation to less-used spaces.",
+    "flaw_category": "orientation",
+    "flaw_tags": [
+      "street_facing",
+      "living_room_light",
+      "window_priority",
+      "cincinnati"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Cincinnati 1 Bedroom The living room has no street-facing window",
+      "description": "Spot the hidden flaw in this Cincinnati 1 Bedroom: the living room has no street-facing window while secondary rooms get the exposure."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Cincinnati 1 bedroom apartment, living room interior with windows only in bedroom/service side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-093",
+    "slug": "2-bedroom-cleveland-bathroom-at-far-end-no-hall",
+    "city": "Cleveland",
+    "apartment_type": "2 Bedroom",
+    "question": "A renter in this Cleveland 2 Bedroom has to think twice before inviting anyone over. What circulation flaw does the plan reveal?",
+    "options": [
+      "The bathroom is placed at the far end, requiring a walk through every main room to reach it",
+      "The living room is located near the front of the unit",
+      "The kitchen and living room share an open plan",
+      "The windows are grouped on one side of the unit"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The bathroom is placed at the far end, requiring a walk through every main room to reach it",
+    "explanation": "This creates an inefficient daily path and removes privacy for anyone using the apartment. A simple hallway or side entry would solve the issue, but the plan provides neither.",
+    "flaw_category": "traffic_flow",
+    "flaw_tags": [
+      "bathroom_location",
+      "long_path",
+      "no_hallway",
+      "cleveland"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Cleveland 2 Bedroom The bathroom sits at the far end of the apartment with no hallway",
+      "description": "Spot the hidden flaw in this Cleveland 2 Bedroom: the bathroom is placed at the far end, requiring a walk through every main room to reach it."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Cleveland 2 bedroom apartment, bathroom at rear beyond living kitchen and bedroom in single chain, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-094",
+    "slug": "3-bedroom-cleveland-storage-behind-swinging-door",
+    "city": "Cleveland",
+    "apartment_type": "3 Bedroom",
+    "question": "This Cleveland 3 Bedroom looks tidy in listing photos, but move-in day exposes the real problem. What storage flaw is hidden in the plan?",
+    "options": [
+      "The bedroom door swings inward",
+      "The main closet is trapped behind another swinging door",
+      "The kitchen counters face away from the living area",
+      "The living room has one too many windows"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The main closet is trapped behind another swinging door",
+    "explanation": "Closets need clear door swing and standing space to be useful. When one door blocks another, the storage technically exists but becomes annoying to access every day.",
+    "flaw_category": "storage",
+    "flaw_tags": [
+      "door_conflict",
+      "closet_access",
+      "storage",
+      "cleveland"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Cleveland 3 Bedroom The closet door cannot fully open",
+      "description": "Spot the hidden flaw in this Cleveland 3 Bedroom: the main closet is trapped behind another swinging door."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Cleveland 3 bedroom apartment, closet placed immediately behind bedroom door with overlapping swings, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-095",
+    "slug": "loft-studio-columbus-kitchen-under-loft-no-air",
+    "city": "Columbus",
+    "apartment_type": "Loft Studio",
+    "question": "After one week of cooking, showering, or sleeping here, this Columbus Loft Studio would feel stale. What ventilation flaw causes it?",
+    "options": [
+      "The bathroom tile pattern makes the room look smaller",
+      "The front door is painted too dark",
+      "The kitchen is tucked under the loft level with no ventilation outlet",
+      "The bedroom has more natural light than the living room"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The kitchen is tucked under the loft level with no ventilation outlet",
+    "explanation": "Heat rises and gets trapped under enclosed loft structures when there is no exhaust route. That makes a small apartment feel hotter and smellier after cooking.",
+    "flaw_category": "ventilation",
+    "flaw_tags": [
+      "loft_heat",
+      "kitchen_exhaust",
+      "airflow",
+      "columbus"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Columbus Loft Studio The kitchen sits under a low loft with trapped heat",
+      "description": "Spot the hidden flaw in this Columbus Loft Studio: the kitchen is tucked under the loft level with no ventilation outlet."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Columbus loft studio apartment, loft studio with kitchen below sleeping loft and no vent, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-096",
+    "slug": "studio-columbus-mechanical-closet-inside-bedroom",
+    "city": "Columbus",
+    "apartment_type": "Studio",
+    "question": "Roommates in this Columbus Studio start hearing everything through the walls. What acoustic flaw does the floor plan predict?",
+    "options": [
+      "The balcony is too narrow for outdoor furniture",
+      "The hallway is slightly longer than expected",
+      "The kitchen sink is not centered under a cabinet",
+      "The HVAC or mechanical closet is located inside the bedroom footprint"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The HVAC or mechanical closet is located inside the bedroom footprint",
+    "explanation": "Mechanical closets can produce humming, cycling, and vibration at unpredictable times. Locating one inside a bedroom trades valuable quiet space for building-system convenience.",
+    "flaw_category": "acoustics",
+    "flaw_tags": [
+      "hvac_noise",
+      "mechanical_closet",
+      "bedroom",
+      "columbus"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Columbus Studio The mechanical closet is inside the bedroom",
+      "description": "Spot the hidden flaw in this Columbus Studio: the hvac or mechanical closet is located inside the bedroom footprint."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Columbus studio apartment, mechanical closet drawn inside bedroom with bed nearby, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-097",
+    "slug": "1-bedroom-indianapolis-bedroom-without-door",
+    "city": "Indianapolis",
+    "apartment_type": "1 Bedroom",
+    "question": "This Indianapolis 1 Bedroom is advertised confidently, but the floor plan raises a bedroom-count concern. What is the legal red flag?",
+    "options": [
+      "The bedroom opening has no door, only a wide cased opening",
+      "The apartment has no decorative entry niche",
+      "The closet doors are drawn as sliding doors",
+      "The living room wall is too plain for a television"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The bedroom opening has no door, only a wide cased opening",
+    "explanation": "A true bedroom usually needs a reasonable way to close off the sleeping space. Without a door, the room loses privacy, sound control, and practical separation from the rest of the unit.",
+    "flaw_category": "legal",
+    "flaw_tags": [
+      "no_door",
+      "bedroom_definition",
+      "privacy",
+      "indianapolis"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Indianapolis 1 Bedroom The bedroom has no closable door",
+      "description": "Spot the hidden flaw in this Indianapolis 1 Bedroom: the bedroom opening has no door, only a wide cased opening."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Indianapolis 1 bedroom apartment, bedroom shown with wide opening but no door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-098",
+    "slug": "2-bedroom-indianapolis-shared-bath-through-primary",
+    "city": "Indianapolis",
+    "apartment_type": "2 Bedroom",
+    "question": "A visitor knocks at this Indianapolis 2 Bedroom and the layout immediately feels exposed. What privacy flaw causes that?",
+    "options": [
+      "The bedroom is closer to the bathroom than the kitchen",
+      "The only bathroom is accessed through the primary bedroom",
+      "The refrigerator is shown on the left side of the kitchen",
+      "The plan uses too many rectangular rooms"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The only bathroom is accessed through the primary bedroom",
+    "explanation": "A shared bathroom placed inside one bedroom makes that room impossible to keep private. This is especially bad for roommates or guests because one person controls access to the only bath.",
+    "flaw_category": "privacy",
+    "flaw_tags": [
+      "shared_bath",
+      "primary_bedroom",
+      "roommate_issue",
+      "indianapolis"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Indianapolis 2 Bedroom The shared bathroom is inside the primary bedroom",
+      "description": "Spot the hidden flaw in this Indianapolis 2 Bedroom: the only bathroom is accessed through the primary bedroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Indianapolis 2 bedroom apartment, only bathroom door inside primary bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-099",
+    "slug": "3-bedroom-memphis-living-room-cannot-fit-sofa",
+    "city": "Memphis",
+    "apartment_type": "3 Bedroom",
+    "question": "This Memphis 3 Bedroom lists decent square footage, but the room sizes feel wrong. What proportion problem does the plan reveal?",
+    "options": [
+      "The apartment has no separate dining room",
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The living room is so narrow that a standard sofa would block circulation",
+      "The living room is located near the front of the unit"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The living room is so narrow that a standard sofa would block circulation",
+    "explanation": "Square footage does not matter if the room dimensions do not fit normal furniture. Long narrow living rooms often force awkward layouts and unusable corners.",
+    "flaw_category": "proportion",
+    "flaw_tags": [
+      "narrow_living_room",
+      "furniture_fit",
+      "proportion",
+      "memphis"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Memphis 3 Bedroom The living room is too narrow for a sofa",
+      "description": "Spot the hidden flaw in this Memphis 3 Bedroom: the living room is so narrow that a standard sofa would block circulation."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Memphis 3 bedroom apartment, narrow living room with circulation path where sofa would sit, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-100",
+    "slug": "loft-studio-memphis-top-floor-flat-roof",
+    "city": "Memphis",
+    "apartment_type": "Loft Studio",
+    "question": "The rent on this Memphis Loft Studio looks reasonable until the utility bills arrive. What climate-related flaw is shown?",
+    "options": [
+      "The kitchen and living room share an open plan",
+      "The windows are grouped on one side of the unit",
+      "The bedroom door swings inward",
+      "The bedroom sits directly under a flat roof with no attic or buffer zone shown"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The bedroom sits directly under a flat roof with no attic or buffer zone shown",
+    "explanation": "Top-floor rooms under flat roofs can absorb heat during the day and release it at night. Renters should ask about insulation, roof age, and cooling performance.",
+    "flaw_category": "climate",
+    "flaw_tags": [
+      "top_floor",
+      "flat_roof",
+      "heat",
+      "memphis"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Memphis Loft Studio The unit has no insulation buffer above",
+      "description": "Spot the hidden flaw in this Memphis Loft Studio: the bedroom sits directly under a flat roof with no attic or buffer zone shown."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Memphis loft studio apartment, top floor plan with roof exposure label over bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-101",
+    "slug": "studio-louisville-plumbing-chase-splits-kitchen",
+    "city": "Louisville",
+    "apartment_type": "Studio",
+    "question": "This Louisville Studio has the right rooms, but the building systems are in the wrong place. What utility conflict stands out?",
+    "options": [
+      "A plumbing chase interrupts the only continuous kitchen counter wall",
+      "The kitchen counters face away from the living area",
+      "The living room has one too many windows",
+      "The bathroom tile pattern makes the room look smaller"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "A plumbing chase interrupts the only continuous kitchen counter wall",
+    "explanation": "Chases are often immovable because they serve the building above and below. When one lands in the wrong place, it can permanently reduce counter space and appliance layout.",
+    "flaw_category": "utility_conflict",
+    "flaw_tags": [
+      "plumbing_chase",
+      "counter_space",
+      "kitchen",
+      "louisville"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Louisville Studio A plumbing chase breaks up the kitchen counter",
+      "description": "Spot the hidden flaw in this Louisville Studio: a plumbing chase interrupts the only continuous kitchen counter wall."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Louisville studio apartment, vertical plumbing chase cutting into kitchen counter run, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-102",
+    "slug": "1-bedroom-louisville-entire-unit-basement-single-exit",
+    "city": "Louisville",
+    "apartment_type": "1 Bedroom",
+    "question": "This Louisville 1 Bedroom is priced below similar listings nearby. What below-grade warning does the plan show?",
+    "options": [
+      "The front door is painted too dark",
+      "The below-grade unit shows only one clear exit path",
+      "The bedroom has more natural light than the living room",
+      "The balcony is too narrow for outdoor furniture"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The below-grade unit shows only one clear exit path",
+    "explanation": "Basement apartments need careful attention to emergency escape routes. A single obvious exit can make the plan feel risky, especially if bedrooms sit far from the door.",
+    "flaw_category": "below_grade",
+    "flaw_tags": [
+      "basement",
+      "egress",
+      "single_exit",
+      "louisville"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Louisville 1 Bedroom The basement unit has only one practical exit",
+      "description": "Spot the hidden flaw in this Louisville 1 Bedroom: the below-grade unit shows only one clear exit path."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Louisville 1 bedroom apartment, below grade apartment with one stair/door exit and rooms beyond, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-103",
+    "slug": "2-bedroom-richmond-trash-room-next-to-bedroom",
+    "city": "Richmond",
+    "apartment_type": "2 Bedroom",
+    "question": "This Richmond 2 Bedroom has a layout that would make daily hygiene feel awkward. What sanitation issue is visible?",
+    "options": [
+      "The hallway is slightly longer than expected",
+      "The kitchen sink is not centered under a cabinet",
+      "The bedroom wall is directly against the building trash room",
+      "The apartment has no decorative entry niche"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The bedroom wall is directly against the building trash room",
+    "explanation": "Trash rooms can bring odors, pests, and late-night noise from disposal. A bedroom against that space is a sanitation and comfort warning sign.",
+    "flaw_category": "sanitation",
+    "flaw_tags": [
+      "trash_room",
+      "odor",
+      "pest_risk",
+      "richmond"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Richmond 2 Bedroom The bedroom shares a wall with the trash room",
+      "description": "Spot the hidden flaw in this Richmond 2 Bedroom: the bedroom wall is directly against the building trash room."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Richmond 2 bedroom apartment, bedroom sharing wall with trash room label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-104",
+    "slug": "3-bedroom-richmond-living-and-bedroom-no-boundary",
+    "city": "Richmond",
+    "apartment_type": "3 Bedroom",
+    "question": "This Richmond 3 Bedroom tries to be open and flexible, but the zones do not work. What zoning flaw is shown?",
+    "options": [
+      "The closet doors are drawn as sliding doors",
+      "The living room wall is too plain for a television",
+      "The bedroom is closer to the bathroom than the kitchen",
+      "There is no visual or physical separation between the living area and sleeping area"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "There is no visual or physical separation between the living area and sleeping area",
+    "explanation": "Open space can feel flexible, but total lack of zoning makes the unit harder to keep organized. Renters may struggle to host, work, and sleep in the same undifferentiated room.",
+    "flaw_category": "zoning",
+    "flaw_tags": [
+      "no_separation",
+      "studio",
+      "space_planning",
+      "richmond"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Richmond 3 Bedroom The living and sleeping zones have no boundary",
+      "description": "Spot the hidden flaw in this Richmond 3 Bedroom: there is no visual or physical separation between the living area and sleeping area."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Richmond 3 bedroom apartment, single open room with bed and sofa side by side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-105",
+    "slug": "loft-studio-sacramento-stairs-to-only-bath",
+    "city": "Sacramento",
+    "apartment_type": "Loft Studio",
+    "question": "This Sacramento Loft Studio looks charming in photos, but daily access would be difficult. What accessibility flaw does the plan reveal?",
+    "options": [
+      "The only bathroom is on a different level with stair-only access",
+      "The refrigerator is shown on the left side of the kitchen",
+      "The plan uses too many rectangular rooms",
+      "The apartment has no separate dining room"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The only bathroom is on a different level with stair-only access",
+    "explanation": "A split-level layout can be attractive, but stair-only access to the only bathroom is a daily inconvenience. It is especially problematic for guests, injuries, or nighttime use.",
+    "flaw_category": "accessibility",
+    "flaw_tags": [
+      "stairs",
+      "bathroom_access",
+      "split_level",
+      "sacramento"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Sacramento Loft Studio The only bathroom requires stairs",
+      "description": "Spot the hidden flaw in this Sacramento Loft Studio: the only bathroom is on a different level with stair-only access."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Sacramento loft studio apartment, main floor without bath and stairs to only bathroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-106",
+    "slug": "studio-sacramento-kitchen-exit-narrows-to-one-path",
+    "city": "Sacramento",
+    "apartment_type": "Studio",
+    "question": "This Sacramento Studio has a layout that creates a safety issue during ordinary daily use. What is the problem?",
+    "options": [
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The kitchen work zone narrows the only path to the front door",
+      "The living room is located near the front of the unit",
+      "The kitchen and living room share an open plan"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The kitchen work zone narrows the only path to the front door",
+    "explanation": "The main exit path should remain clear even when someone is cooking. If the kitchen pinches the route, daily life and emergency movement both get worse.",
+    "flaw_category": "safety",
+    "flaw_tags": [
+      "exit_path",
+      "kitchen_conflict",
+      "clearance",
+      "sacramento"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Sacramento Studio The kitchen blocks the only exit path",
+      "description": "Spot the hidden flaw in this Sacramento Studio: the kitchen work zone narrows the only path to the front door."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Sacramento studio apartment, kitchen counters narrowing corridor to front door, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-107",
+    "slug": "1-bedroom-san-diego-dishwasher-blocks-oven",
+    "city": "San Diego",
+    "apartment_type": "1 Bedroom",
+    "question": "This San Diego 1 Bedroom technically includes the right features, but the placement makes little sense. What layout logic flaw is visible?",
+    "options": [
+      "The windows are grouped on one side of the unit",
+      "The bedroom door swings inward",
+      "The dishwasher and oven doors cannot open at the same time",
+      "The kitchen counters face away from the living area"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The dishwasher and oven doors cannot open at the same time",
+    "explanation": "Appliance conflicts make a kitchen frustrating even when it technically has modern features. Renters should look for door swings and clearances, not just appliance names.",
+    "flaw_category": "layout_logic",
+    "flaw_tags": [
+      "appliance_conflict",
+      "kitchen_clearance",
+      "door_swing",
+      "san-diego"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: San Diego 1 Bedroom Kitchen appliance doors collide",
+      "description": "Spot the hidden flaw in this San Diego 1 Bedroom: the dishwasher and oven doors cannot open at the same time."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, San Diego 1 bedroom apartment, oven and dishwasher placed opposite with overlapping open-door clearances, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-108",
+    "slug": "2-bedroom-san-diego-dining-table-blocks-kitchen",
+    "city": "San Diego",
+    "apartment_type": "2 Bedroom",
+    "question": "This San Diego 2 Bedroom looks efficient until you place normal furniture in it. What furniture conflict appears?",
+    "options": [
+      "The living room has one too many windows",
+      "The bathroom tile pattern makes the room look smaller",
+      "The front door is painted too dark",
+      "A small dining table blocks the route between the sink, stove, and refrigerator"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "A small dining table blocks the route between the sink, stove, and refrigerator",
+    "explanation": "Eating space is important, but not if it breaks the kitchen's basic workflow. The plan shows a room that cannot support both dining and cooking comfortably.",
+    "flaw_category": "furniture_conflict",
+    "flaw_tags": [
+      "dining_table",
+      "kitchen_path",
+      "furniture_conflict",
+      "san-diego"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: San Diego 2 Bedroom The dining table blocks the kitchen path",
+      "description": "Spot the hidden flaw in this San Diego 2 Bedroom: a small dining table blocks the route between the sink, stove, and refrigerator."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, San Diego 2 bedroom apartment, dining table footprint interrupting kitchen triangle, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-109",
+    "slug": "3-bedroom-oakland-sunroom-converted-bedroom",
+    "city": "Oakland",
+    "apartment_type": "3 Bedroom",
+    "question": "This Oakland 3 Bedroom appears to have been carved up to increase rent. What conversion clue gives it away?",
+    "options": [
+      "The enclosed sunroom is labeled as a bedroom despite poor privacy and heat control",
+      "The bedroom has more natural light than the living room",
+      "The balcony is too narrow for outdoor furniture",
+      "The hallway is slightly longer than expected"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The enclosed sunroom is labeled as a bedroom despite poor privacy and heat control",
+    "explanation": "Sunrooms are often bright but poorly insulated and separated from the main layout. Turning one into a bedroom can create temperature swings and weak privacy.",
+    "flaw_category": "illegal_conversion",
+    "flaw_tags": [
+      "sunroom",
+      "bedroom_count",
+      "conversion",
+      "oakland"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Oakland 3 Bedroom A sunroom is being counted as a bedroom",
+      "description": "Spot the hidden flaw in this Oakland 3 Bedroom: the enclosed sunroom is labeled as a bedroom despite poor privacy and heat control."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Oakland 3 bedroom apartment, sunroom enclosure relabeled bedroom at edge of plan, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-110",
+    "slug": "loft-studio-oakland-windows-face-loading-dock",
+    "city": "Oakland",
+    "apartment_type": "Loft Studio",
+    "question": "This Oakland Loft Studio has windows on the plan, but their direction creates the problem. What orientation flaw is hidden here?",
+    "options": [
+      "The kitchen sink is not centered under a cabinet",
+      "The only windows face a commercial loading dock",
+      "The apartment has no decorative entry niche",
+      "The closet doors are drawn as sliding doors"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The only windows face a commercial loading dock",
+    "explanation": "A loading dock can mean truck noise, idling engines, dumpsters, and nighttime activity. This is a floor-plan clue that a bright window count may hide a bad view and sound exposure.",
+    "flaw_category": "orientation",
+    "flaw_tags": [
+      "loading_dock",
+      "commercial_noise",
+      "orientation",
+      "oakland"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Oakland Loft Studio The only windows face a loading dock",
+      "description": "Spot the hidden flaw in this Oakland Loft Studio: the only windows face a commercial loading dock."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Oakland loft studio apartment, all windows along wall labeled loading dock, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-111",
+    "slug": "studio-jersey-city-bedroom-as-entry-hall",
+    "city": "Jersey City",
+    "apartment_type": "Studio",
+    "question": "A renter in this Jersey City Studio has to think twice before inviting anyone over. What circulation flaw does the plan reveal?",
+    "options": [
+      "The living room wall is too plain for a television",
+      "The bedroom is closer to the bathroom than the kitchen",
+      "The entry path forces people through the bedroom before reaching the living room",
+      "The refrigerator is shown on the left side of the kitchen"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The entry path forces people through the bedroom before reaching the living room",
+    "explanation": "The first room inside an apartment should not be the sleeping area. Using the bedroom as the entry route erases the boundary between public and private space.",
+    "flaw_category": "traffic_flow",
+    "flaw_tags": [
+      "entry_flow",
+      "bedroom_privacy",
+      "conversion",
+      "jersey-city"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Jersey City Studio The bedroom doubles as the entry hall",
+      "description": "Spot the hidden flaw in this Jersey City Studio: the entry path forces people through the bedroom before reaching the living room."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Jersey City studio apartment, front door opens into bedroom then living room beyond, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-112",
+    "slug": "1-bedroom-jersey-city-no-pantry-no-linen-closet",
+    "city": "Jersey City",
+    "apartment_type": "1 Bedroom",
+    "question": "This Jersey City 1 Bedroom looks tidy in listing photos, but move-in day exposes the real problem. What storage flaw is hidden in the plan?",
+    "options": [
+      "The plan uses too many rectangular rooms",
+      "The apartment has no separate dining room",
+      "The bathroom appears to have a shower instead of a bathtub",
+      "There is no pantry, linen closet, or general storage anywhere in the unit"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "There is no pantry, linen closet, or general storage anywhere in the unit",
+    "explanation": "Apartments need storage for more than clothes. Without a pantry or linen closet, renters end up storing towels, tools, paper goods, and food in visible living areas.",
+    "flaw_category": "storage",
+    "flaw_tags": [
+      "linen_closet",
+      "pantry",
+      "household_storage",
+      "jersey-city"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Jersey City 1 Bedroom The plan has no pantry or linen storage",
+      "description": "Spot the hidden flaw in this Jersey City 1 Bedroom: there is no pantry, linen closet, or general storage anywhere in the unit."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Jersey City 1 bedroom apartment, compact apartment with kitchen and bath but no storage closets, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-113",
+    "slug": "2-bedroom-hoboken-laundry-closet-no-vent",
+    "city": "Hoboken",
+    "apartment_type": "2 Bedroom",
+    "question": "After one week of cooking, showering, or sleeping here, this Hoboken 2 Bedroom would feel stale. What ventilation flaw causes it?",
+    "options": [
+      "The laundry closet is sealed inside the unit with no vent or exterior wall",
+      "The living room is located near the front of the unit",
+      "The kitchen and living room share an open plan",
+      "The windows are grouped on one side of the unit"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The laundry closet is sealed inside the unit with no vent or exterior wall",
+    "explanation": "Laundry equipment creates heat and moisture that needs somewhere to go. A sealed laundry closet can make the apartment humid and may limit what type of dryer can be safely installed.",
+    "flaw_category": "ventilation",
+    "flaw_tags": [
+      "laundry_vent",
+      "humidity",
+      "utility",
+      "hoboken"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Hoboken 2 Bedroom The laundry closet has no venting",
+      "description": "Spot the hidden flaw in this Hoboken 2 Bedroom: the laundry closet is sealed inside the unit with no vent or exterior wall."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Hoboken 2 bedroom apartment, interior laundry closet with no exterior vent path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-114",
+    "slug": "3-bedroom-hoboken-elevator-wall-bedroom",
+    "city": "Hoboken",
+    "apartment_type": "3 Bedroom",
+    "question": "Roommates in this Hoboken 3 Bedroom start hearing everything through the walls. What acoustic flaw does the floor plan predict?",
+    "options": [
+      "The bedroom door swings inward",
+      "The bedroom wall sits directly against the elevator shaft",
+      "The kitchen counters face away from the living area",
+      "The living room has one too many windows"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "The bedroom wall sits directly against the elevator shaft",
+    "explanation": "Elevators create motor noise, vibration, and late-night traffic sounds. A bedroom against an elevator shaft can be difficult for light sleepers, even in an otherwise nice building.",
+    "flaw_category": "acoustics",
+    "flaw_tags": [
+      "elevator_noise",
+      "shaft_wall",
+      "sleep",
+      "hoboken"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Hoboken 3 Bedroom The bedroom shares a wall with the elevator shaft",
+      "description": "Spot the hidden flaw in this Hoboken 3 Bedroom: the bedroom wall sits directly against the elevator shaft."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Hoboken 3 bedroom apartment, bedroom sharing wall with elevator shaft label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-115",
+    "slug": "loft-studio-astoria-window-blocked-by-building-wall",
+    "city": "Astoria",
+    "apartment_type": "Loft Studio",
+    "question": "This Astoria Loft Studio is advertised confidently, but the floor plan raises a bedroom-count concern. What is the legal red flag?",
+    "options": [
+      "The bathroom tile pattern makes the room look smaller",
+      "The front door is painted too dark",
+      "The only bedroom window opens directly into a blank wall or tiny light gap",
+      "The bedroom has more natural light than the living room"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The only bedroom window opens directly into a blank wall or tiny light gap",
+    "explanation": "A window that opens into a nearly closed space may not provide meaningful light or emergency access. Renters should inspect what is outside the window, not just count windows on the plan.",
+    "flaw_category": "legal",
+    "flaw_tags": [
+      "light_well",
+      "egress_concern",
+      "window_quality",
+      "astoria"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Astoria Loft Studio The bedroom window faces a wall too close to be useful",
+      "description": "Spot the hidden flaw in this Astoria Loft Studio: the only bedroom window opens directly into a blank wall or tiny light gap."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Astoria loft studio apartment, bedroom window opening to tiny exterior gap against building wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-116",
+    "slug": "studio-astoria-balcony-through-bedroom",
+    "city": "Astoria",
+    "apartment_type": "Studio",
+    "question": "A visitor knocks at this Astoria Studio and the layout immediately feels exposed. What privacy flaw causes that?",
+    "options": [
+      "The balcony is too narrow for outdoor furniture",
+      "The hallway is slightly longer than expected",
+      "The kitchen sink is not centered under a cabinet",
+      "The only balcony access is through the bedroom"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The only balcony access is through the bedroom",
+    "explanation": "Outdoor space is usually a common amenity, but this plan makes it part of the sleeping area. Guests or roommates would need permission to pass through the bedroom to use it.",
+    "flaw_category": "privacy",
+    "flaw_tags": [
+      "balcony_access",
+      "bedroom_privacy",
+      "amenity",
+      "astoria"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Astoria Studio The only outdoor space is reached through the bedroom",
+      "description": "Spot the hidden flaw in this Astoria Studio: the only balcony access is through the bedroom."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Astoria studio apartment, balcony door located only in bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-117",
+    "slug": "1-bedroom-harlem-primary-suite-swallowing-unit",
+    "city": "Harlem",
+    "apartment_type": "1 Bedroom",
+    "question": "This Harlem 1 Bedroom lists decent square footage, but the room sizes feel wrong. What proportion problem does the plan reveal?",
+    "options": [
+      "The primary suite consumes most of the apartment while common space is squeezed",
+      "The apartment has no decorative entry niche",
+      "The closet doors are drawn as sliding doors",
+      "The living room wall is too plain for a television"
+    ],
+    "correct_answer_index": 0,
+    "correct_answer": "The primary suite consumes most of the apartment while common space is squeezed",
+    "explanation": "This can work for one occupant, but it is poor planning for shared living. Common areas need enough space for everyone, not just a large private suite.",
+    "flaw_category": "proportion",
+    "flaw_tags": [
+      "primary_suite",
+      "common_space",
+      "imbalance",
+      "harlem"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Harlem 1 Bedroom The primary suite takes too much of the total area",
+      "description": "Spot the hidden flaw in this Harlem 1 Bedroom: the primary suite consumes most of the apartment while common space is squeezed."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Harlem 1 bedroom apartment, large primary suite dominating plan with small kitchen living area, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-118",
+    "slug": "2-bedroom-harlem-windows-on-noisy-hot-wall",
+    "city": "Harlem",
+    "apartment_type": "2 Bedroom",
+    "question": "The rent on this Harlem 2 Bedroom looks reasonable until the utility bills arrive. What climate-related flaw is shown?",
+    "options": [
+      "The bedroom is closer to the bathroom than the kitchen",
+      "Every window is placed on the same hot exposed wall, concentrating heat in all rooms",
+      "The refrigerator is shown on the left side of the kitchen",
+      "The plan uses too many rectangular rooms"
+    ],
+    "correct_answer_index": 1,
+    "correct_answer": "Every window is placed on the same hot exposed wall, concentrating heat in all rooms",
+    "explanation": "When all rooms share the same exposure, there is no cooler side of the apartment to retreat to. Orientation can make the whole unit uncomfortable at once.",
+    "flaw_category": "climate",
+    "flaw_tags": [
+      "single_exposure",
+      "heat",
+      "orientation",
+      "harlem"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Harlem 2 Bedroom The only windows are on the hottest exposed wall",
+      "description": "Spot the hidden flaw in this Harlem 2 Bedroom: every window is placed on the same hot exposed wall, concentrating heat in all rooms."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Harlem 2 bedroom apartment, single exposure apartment with all windows on west/southwest side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-119",
+    "slug": "3-bedroom-bronx-breaker-panel-over-bed",
+    "city": "Bronx",
+    "apartment_type": "3 Bedroom",
+    "question": "This Bronx 3 Bedroom has the right rooms, but the building systems are in the wrong place. What utility conflict stands out?",
+    "options": [
+      "The apartment has no separate dining room",
+      "The bathroom appears to have a shower instead of a bathtub",
+      "The breaker panel sits on the only wall long enough for the bed",
+      "The living room is located near the front of the unit"
+    ],
+    "correct_answer_index": 2,
+    "correct_answer": "The breaker panel sits on the only wall long enough for the bed",
+    "explanation": "Panels need clearance and should remain accessible. If the only bed wall is also the panel wall, the bedroom becomes much harder to furnish safely.",
+    "flaw_category": "utility_conflict",
+    "flaw_tags": [
+      "breaker_panel",
+      "bed_wall",
+      "clearance",
+      "bronx"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Bronx 3 Bedroom The breaker panel is placed where the bed should go",
+      "description": "Spot the hidden flaw in this Bronx 3 Bedroom: the breaker panel sits on the only wall long enough for the bed."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Bronx 3 bedroom apartment, breaker panel symbol centered on bed placement wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+  },
+  {
+    "id": "GTA-120",
+    "slug": "loft-studio-bronx-below-grade-bedroom-no-view",
+    "city": "Bronx",
+    "apartment_type": "Loft Studio",
+    "question": "This Bronx Loft Studio is priced below similar listings nearby. What below-grade warning does the plan show?",
+    "options": [
+      "The kitchen and living room share an open plan",
+      "The windows are grouped on one side of the unit",
+      "The bedroom door swings inward",
+      "The below-grade bedroom window faces a retaining wall instead of open air"
+    ],
+    "correct_answer_index": 3,
+    "correct_answer": "The below-grade bedroom window faces a retaining wall instead of open air",
+    "explanation": "A window can technically exist while providing almost no view, light, or airflow. For renters, that often means a room that feels enclosed and hard to ventilate.",
+    "flaw_category": "below_grade",
+    "flaw_tags": [
+      "retaining_wall",
+      "low_light",
+      "below_grade",
+      "bronx"
+    ],
+    "seo_meta": {
+      "title": "Guess the Apartment Flaw: Bronx Loft Studio The bedroom window faces a retaining wall",
+      "description": "Spot the hidden flaw in this Bronx Loft Studio: the below-grade bedroom window faces a retaining wall instead of open air."
+    },
+    "midjourney_prompt": "top-down architectural floor plan, Bronx loft studio apartment, bedroom window well facing retaining wall label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
   }
 ]
