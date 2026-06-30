@@ -13,7 +13,7 @@
     ],
     "correct_answer_index": 1,
     "correct_answer": "The only bathroom access is through the sleeping area",
-    "explanation": "In this studio, the bathroom is tucked behind the sleeping zone \u2014 meaning any guest must walk through your bed area to use it. This is one of the most common and frustrating layout flaws in pre-war NYC studios, making the apartment functionally unusable for entertaining or having roommates.",
+    "explanation": "In this studio, the bathroom is tucked behind the sleeping zone — meaning any guest must walk through your bed area to use it. This is one of the most common and frustrating layout flaws in pre-war NYC studios, making the apartment functionally unusable for entertaining or having roommates.",
     "flaw_category": "traffic_flow",
     "flaw_tags": [
       "bathroom_access",
@@ -43,7 +43,7 @@
     ],
     "correct_answer_index": 0,
     "correct_answer": "The bedroom has no closet whatsoever",
-    "explanation": "Pre-1920s Chicago courtyard apartments frequently omitted bedroom closets entirely \u2014 closets were taxed as rooms in some eras, so developers skipped them. Without a closet, renters are forced to buy wardrobes that eat into already tight square footage. Always check for closet square footage before signing a lease.",
+    "explanation": "Pre-1920s Chicago courtyard apartments frequently omitted bedroom closets entirely — closets were taxed as rooms in some eras, so developers skipped them. Without a closet, renters are forced to buy wardrobes that eat into already tight square footage. Always check for closet square footage before signing a lease.",
     "flaw_category": "storage",
     "flaw_tags": [
       "no_closet",
@@ -136,7 +136,7 @@
     ],
     "correct_answer_index": 1,
     "correct_answer": "Every room connects in a straight line with no hallway, so all rooms must be walked through to reach the back",
-    "explanation": "Railroad apartments \u2014 named because rooms line up like train cars \u2014 have zero hallways. To reach the bedroom, you walk through the living room and kitchen. To reach the bathroom, you walk through the bedroom. This completely eliminates privacy between roommates and makes every room a thoroughfare rather than a destination.",
+    "explanation": "Railroad apartments — named because rooms line up like train cars — have zero hallways. To reach the bedroom, you walk through the living room and kitchen. To reach the bathroom, you walk through the bedroom. This completely eliminates privacy between roommates and makes every room a thoroughfare rather than a destination.",
     "flaw_category": "traffic_flow",
     "flaw_tags": [
       "railroad_layout",
@@ -167,7 +167,7 @@
     ],
     "correct_answer_index": 1,
     "correct_answer": "The second bedroom has no window, meaning it may not legally qualify as a bedroom",
-    "explanation": "Most building codes require a bedroom to have at least one window for emergency egress and natural light. A room without a window is technically a den, office, or storage room \u2014 not a bedroom. Landlords who list windowless rooms as bedrooms are often violating local housing codes. In Miami's condo-conversion market, this is a frequent issue in units carved from larger floor plates.",
+    "explanation": "Most building codes require a bedroom to have at least one window for emergency egress and natural light. A room without a window is technically a den, office, or storage room — not a bedroom. Landlords who list windowless rooms as bedrooms are often violating local housing codes. In Miami's condo-conversion market, this is a frequent issue in units carved from larger floor plates.",
     "flaw_category": "legal",
     "flaw_tags": [
       "no_window",
@@ -198,7 +198,7 @@
     ],
     "correct_answer_index": 1,
     "correct_answer": "The only windows face a commercial loading alley used 24 hours a day",
-    "explanation": "Window orientation matters as much as window size. A studio where the only natural light and ventilation comes from an alley facing a restaurant loading dock means constant noise from deliveries, dumpsters, and exhaust fans at all hours. Always check what your windows face \u2014 not just whether they exist.",
+    "explanation": "Window orientation matters as much as window size. A studio where the only natural light and ventilation comes from an alley facing a restaurant loading dock means constant noise from deliveries, dumpsters, and exhaust fans at all hours. Always check what your windows face — not just whether they exist.",
     "flaw_category": "orientation",
     "flaw_tags": [
       "alley_facing",
@@ -229,7 +229,7 @@
     ],
     "correct_answer_index": 0,
     "correct_answer": "The washer and dryer are stacked in the kitchen next to the refrigerator",
-    "explanation": "In-unit laundry is a premium feature \u2014 until the washer is wedged between your stove and refrigerator. Kitchen-placed laundry units create humidity, vibration, and noise directly in your food prep area. They also typically occupy the space where a pantry or additional counter would go. This is a common workaround in older Denver buildings retrofitted for laundry without proper utility closets.",
+    "explanation": "In-unit laundry is a premium feature — until the washer is wedged between your stove and refrigerator. Kitchen-placed laundry units create humidity, vibration, and noise directly in your food prep area. They also typically occupy the space where a pantry or additional counter would go. This is a common workaround in older Denver buildings retrofitted for laundry without proper utility closets.",
     "flaw_category": "layout_logic",
     "flaw_tags": [
       "laundry_in_kitchen",
@@ -240,7 +240,7 @@
     ],
     "seo_meta": {
       "title": "Guess the Apartment Flaw: Denver 1-Bedroom With Laundry in Kitchen",
-      "description": "This Denver apartment has in-unit laundry \u2014 but the location is a major problem. Can you spot it in the floor plan?"
+      "description": "This Denver apartment has in-unit laundry — but the location is a major problem. Can you spot it in the floor plan?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Denver 1 bedroom apartment, stacked washer dryer unit positioned in kitchen area beside refrigerator, no utility closet, bathroom off hallway, bedroom at rear, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, 1970s building conversion",
     "image": "/images/floorplans/1bed-denver-washer-dryer-in-kitchen.svg",
@@ -322,7 +322,7 @@
     ],
     "correct_answer_index": 0,
     "correct_answer": "The bathroom door opens directly into the kitchen",
-    "explanation": "Building codes in most US cities prohibit a bathroom from opening directly into a food preparation area for sanitation reasons. This layout \u2014 common in early 1900s Portland bungalow conversions \u2014 predates modern codes. While existing units are often grandfathered in, it remains a genuine hygiene and resale concern. The fix requires a hallway buffer or a complete bathroom relocation.",
+    "explanation": "Building codes in most US cities prohibit a bathroom from opening directly into a food preparation area for sanitation reasons. This layout — common in early 1900s Portland bungalow conversions — predates modern codes. While existing units are often grandfathered in, it remains a genuine hygiene and resale concern. The fix requires a hallway buffer or a complete bathroom relocation.",
     "flaw_category": "sanitation",
     "flaw_tags": [
       "bathroom_into_kitchen",
@@ -353,7 +353,7 @@
     ],
     "correct_answer_index": 0,
     "correct_answer": "The two bedrooms share a single wall with no buffer space, making sound transmission extreme",
-    "explanation": "When two bedrooms share a direct wall with nothing between them \u2014 no closet, no hallway, no bathroom \u2014 every sound transfers between units. Conversations, alarms, music, and movement are all audible. Well-designed apartments buffer bedrooms with closets, bathrooms, or hallways on shared walls. This is one of the most overlooked floor plan details when apartment hunting.",
+    "explanation": "When two bedrooms share a direct wall with nothing between them — no closet, no hallway, no bathroom — every sound transfers between units. Conversations, alarms, music, and movement are all audible. Well-designed apartments buffer bedrooms with closets, bathrooms, or hallways on shared walls. This is one of the most overlooked floor plan details when apartment hunting.",
     "flaw_category": "acoustics",
     "flaw_tags": [
       "shared_wall",
@@ -446,7 +446,7 @@
     ],
     "correct_answer_index": 0,
     "correct_answer": "All living area and bedroom windows face due west with no overhang or shade structure",
-    "explanation": "In Phoenix, west-facing windows receive direct afternoon sun from 1pm until sunset \u2014 the hottest hours of the day. Without exterior shading, these windows act as solar heaters, dramatically increasing cooling costs from May through October. In Arizona's climate, window orientation is as important as square footage when evaluating an apartment's true cost of living.",
+    "explanation": "In Phoenix, west-facing windows receive direct afternoon sun from 1pm until sunset — the hottest hours of the day. Without exterior shading, these windows act as solar heaters, dramatically increasing cooling costs from May through October. In Arizona's climate, window orientation is as important as square footage when evaluating an apartment's true cost of living.",
     "flaw_category": "climate",
     "flaw_tags": [
       "west_facing",
@@ -508,7 +508,7 @@
     ],
     "correct_answer_index": 0,
     "correct_answer": "Windows exist only on the front and rear walls with no side ventilation, making cross breeze impossible in interior rooms",
-    "explanation": "New Orleans shotgun houses were originally designed for cross ventilation \u2014 front to back airflow through open doors. When these are converted to apartments with closed interior layouts and no side windows, the middle rooms become dead air zones. Without AC, they are unlivable in summer. With AC, they require more units and higher bills than a comparable apartment with better orientation.",
+    "explanation": "New Orleans shotgun houses were originally designed for cross ventilation — front to back airflow through open doors. When these are converted to apartments with closed interior layouts and no side windows, the middle rooms become dead air zones. Without AC, they are unlivable in summer. With AC, they require more units and higher bills than a comparable apartment with better orientation.",
     "flaw_category": "ventilation",
     "flaw_tags": [
       "no_cross_ventilation",
@@ -539,7 +539,7 @@
     ],
     "correct_answer_index": 0,
     "correct_answer": "One bedroom is fully below grade with window wells instead of standard windows",
-    "explanation": "Below-grade bedrooms \u2014 common in Seattle's hillside buildings \u2014 sit partially or fully underground, with small window wells at ground level as the only light source. These windows provide minimal natural light, near-zero ventilation, and a direct view of a concrete retaining wall. In Seattle's rainy climate, below-grade rooms are also at high risk for moisture intrusion and mold.",
+    "explanation": "Below-grade bedrooms — common in Seattle's hillside buildings — sit partially or fully underground, with small window wells at ground level as the only light source. These windows provide minimal natural light, near-zero ventilation, and a direct view of a concrete retaining wall. In Seattle's rainy climate, below-grade rooms are also at high risk for moisture intrusion and mold.",
     "flaw_category": "below_grade",
     "flaw_tags": [
       "below_grade",
@@ -570,7 +570,7 @@
     ],
     "correct_answer_index": 3,
     "correct_answer": "The loft level bedroom is accessible only by a fixed vertical ladder",
-    "explanation": "Loft bedrooms accessed by vertical ladders rather than stairs are a common space-saving technique in NYC conversions \u2014 and a significant daily inconvenience. Carrying anything to bed requires two free hands and athletic agility. Getting up at night is a safety risk. Moving furniture in or out is nearly impossible. Listing photos always show the ladder as charming. Floor plans reveal it is the only option.",
+    "explanation": "Loft bedrooms accessed by vertical ladders rather than stairs are a common space-saving technique in NYC conversions — and a significant daily inconvenience. Carrying anything to bed requires two free hands and athletic agility. Getting up at night is a safety risk. Moving furniture in or out is nearly impossible. Listing photos always show the ladder as charming. Floor plans reveal it is the only option.",
     "flaw_category": "accessibility",
     "flaw_tags": [
       "loft_ladder",
@@ -601,7 +601,7 @@
     ],
     "correct_answer_index": 0,
     "correct_answer": "The kitchen is positioned in the main hallway, meaning all foot traffic passes within inches of the stove",
-    "explanation": "Hallway kitchens \u2014 sometimes called 'Pullman kitchens' \u2014 are a Chicago specialty from the era of small worker apartments. The entire kitchen runs along one wall of the main corridor, meaning anyone moving through the apartment passes directly behind someone cooking. Hot pans, open flames, and pedestrian traffic in a 36-inch wide hallway is a genuine safety concern and makes cooking feel chaotic.",
+    "explanation": "Hallway kitchens — sometimes called 'Pullman kitchens' — are a Chicago specialty from the era of small worker apartments. The entire kitchen runs along one wall of the main corridor, meaning anyone moving through the apartment passes directly behind someone cooking. Hot pans, open flames, and pedestrian traffic in a 36-inch wide hallway is a genuine safety concern and makes cooking feel chaotic.",
     "flaw_category": "safety",
     "flaw_tags": [
       "hallway_kitchen",
@@ -644,7 +644,9 @@
       "title": "Guess the Apartment Flaw: New York City Studio The only bathroom route runs through the bedroom",
       "description": "Spot the hidden flaw in this New York City Studio: the only way to reach the bathroom is by walking through the bedroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, New York City studio apartment, bathroom placed behind bedroom with no alternate hallway route, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, New York City studio apartment, bathroom placed behind bedroom with no alternate hallway route, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-new-york-city-bathroom-through-bedroom.svg",
+    "city_image": "/images/floorplans/new-york-city.svg"
   },
   {
     "id": "GTA-022",
@@ -672,7 +674,9 @@
       "title": "Guess the Apartment Flaw: New York City 1 Bedroom The bedroom has no closet at all",
       "description": "Spot the hidden flaw in this New York City 1 Bedroom: the bedroom has no closet whatsoever."
     },
-    "midjourney_prompt": "top-down architectural floor plan, New York City 1 bedroom apartment, bedroom shown without any closet rectangle or storage niche, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, New York City 1 bedroom apartment, bedroom shown without any closet rectangle or storage niche, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-new-york-city-bedroom-no-closet.svg",
+    "city_image": "/images/floorplans/new-york-city.svg"
   },
   {
     "id": "GTA-023",
@@ -700,7 +704,9 @@
       "title": "Guess the Apartment Flaw: New York City 2 Bedroom The kitchen is landlocked with no exhaust path",
       "description": "Spot the hidden flaw in this New York City 2 Bedroom: the kitchen has no exterior wall, window, or visible exhaust route."
     },
-    "midjourney_prompt": "top-down architectural floor plan, New York City 2 bedroom apartment, interior kitchen surrounded by rooms with no exterior wall or window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, New York City 2 bedroom apartment, interior kitchen surrounded by rooms with no exterior wall or window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-new-york-city-interior-kitchen-no-vent.svg",
+    "city_image": "/images/floorplans/new-york-city.svg"
   },
   {
     "id": "GTA-024",
@@ -728,7 +734,9 @@
       "title": "Guess the Apartment Flaw: Chicago 3 Bedroom Two bedrooms share a direct wall with no buffer",
       "description": "Spot the hidden flaw in this Chicago 3 Bedroom: the bedrooms share one direct wall with no closet, hallway, or bathroom between them."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Chicago 3 bedroom apartment, two bedrooms touching along a long shared wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Chicago 3 bedroom apartment, two bedrooms touching along a long shared wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-chicago-bedrooms-share-direct-wall.svg",
+    "city_image": "/images/floorplans/chicago.svg"
   },
   {
     "id": "GTA-025",
@@ -756,7 +764,9 @@
       "title": "Guess the Apartment Flaw: Chicago Loft Studio A listed bedroom has no window",
       "description": "Spot the hidden flaw in this Chicago Loft Studio: the second bedroom has no exterior window, so it may not legally qualify as a bedroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Chicago loft studio apartment, second bedroom fully interior with no window gap, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Chicago loft studio apartment, second bedroom fully interior with no window gap, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-chicago-second-bedroom-no-window.svg",
+    "city_image": "/images/floorplans/chicago.svg"
   },
   {
     "id": "GTA-026",
@@ -784,7 +794,9 @@
       "title": "Guess the Apartment Flaw: Chicago Studio The front door opens into a bedroom",
       "description": "Spot the hidden flaw in this Chicago Studio: the front door opens directly into the bedroom instead of a living or entry area."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Chicago studio apartment, front door located on bedroom exterior wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Chicago studio apartment, front door located on bedroom exterior wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-chicago-front-door-into-bedroom.svg",
+    "city_image": "/images/floorplans/chicago.svg"
   },
   {
     "id": "GTA-027",
@@ -812,7 +824,9 @@
       "title": "Guess the Apartment Flaw: Los Angeles 1 Bedroom The closet is larger than the bedroom",
       "description": "Spot the hidden flaw in this Los Angeles 1 Bedroom: the walk-in closet is visibly larger than the bedroom it serves."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Los Angeles 1 bedroom apartment, oversized walk-in closet next to undersized bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Los Angeles 1 bedroom apartment, oversized walk-in closet next to undersized bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-los-angeles-bedroom-smaller-than-closet.svg",
+    "city_image": "/images/floorplans/los-angeles.svg"
   },
   {
     "id": "GTA-028",
@@ -840,7 +854,9 @@
       "title": "Guess the Apartment Flaw: Los Angeles 2 Bedroom All major windows face west with no shade",
       "description": "Spot the hidden flaw in this Los Angeles 2 Bedroom: all primary windows face west with no overhang or shade structure."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Los Angeles 2 bedroom apartment, all windows on west wall with compass rose showing W, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Los Angeles 2 bedroom apartment, all windows on west wall with compass rose showing W, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-los-angeles-west-windows-no-shade.svg",
+    "city_image": "/images/floorplans/los-angeles.svg"
   },
   {
     "id": "GTA-029",
@@ -868,7 +884,9 @@
       "title": "Guess the Apartment Flaw: Los Angeles 3 Bedroom A radiator blocks the only outlet wall",
       "description": "Spot the hidden flaw in this Los Angeles 3 Bedroom: the radiator is positioned directly in front of the only practical outlet wall."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Los Angeles 3 bedroom apartment, cast iron radiator drawn along wall with outlet symbols behind it, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Los Angeles 3 bedroom apartment, cast iron radiator drawn along wall with outlet symbols behind it, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-los-angeles-radiator-blocks-outlet-wall.svg",
+    "city_image": "/images/floorplans/los-angeles.svg"
   },
   {
     "id": "GTA-030",
@@ -896,7 +914,9 @@
       "title": "Guess the Apartment Flaw: San Francisco Loft Studio A bedroom is below grade with a window well",
       "description": "Spot the hidden flaw in this San Francisco Loft Studio: one bedroom is below grade with only a small window well for light."
     },
-    "midjourney_prompt": "top-down architectural floor plan, San Francisco loft studio apartment, bedroom labeled below grade with dashed grade line through wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, San Francisco loft studio apartment, bedroom labeled below grade with dashed grade line through wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-san-francisco-bedroom-below-grade-window-well.svg",
+    "city_image": "/images/floorplans/san-francisco.svg"
   },
   {
     "id": "GTA-031",
@@ -924,7 +944,9 @@
       "title": "Guess the Apartment Flaw: San Francisco Studio The bathroom opens directly into the kitchen",
       "description": "Spot the hidden flaw in this San Francisco Studio: the bathroom door opens directly into the kitchen food-prep area."
     },
-    "midjourney_prompt": "top-down architectural floor plan, San Francisco studio apartment, bathroom door swinging directly into kitchen, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, San Francisco studio apartment, bathroom door swinging directly into kitchen, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-san-francisco-bathroom-door-into-kitchen.svg",
+    "city_image": "/images/floorplans/san-francisco.svg"
   },
   {
     "id": "GTA-032",
@@ -952,7 +974,9 @@
       "title": "Guess the Apartment Flaw: San Francisco 1 Bedroom The front door has a direct sight line to the bed",
       "description": "Spot the hidden flaw in this San Francisco 1 Bedroom: the front door opens with a straight sight line to the bed."
     },
-    "midjourney_prompt": "top-down architectural floor plan, San Francisco 1 bedroom apartment, front door aligned directly with bed with no partition, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, San Francisco 1 bedroom apartment, front door aligned directly with bed with no partition, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-san-francisco-front-door-sightline-to-bed.svg",
+    "city_image": "/images/floorplans/san-francisco.svg"
   },
   {
     "id": "GTA-033",
@@ -980,7 +1004,9 @@
       "title": "Guess the Apartment Flaw: Brooklyn 2 Bedroom The sleeping loft is reached only by ladder",
       "description": "Spot the hidden flaw in this Brooklyn 2 Bedroom: the loft bedroom is accessible only by a fixed vertical ladder."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Brooklyn 2 bedroom apartment, loft studio with vertical ladder symbol instead of stairs, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Brooklyn 2 bedroom apartment, loft studio with vertical ladder symbol instead of stairs, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-brooklyn-ladder-to-loft-bed.svg",
+    "city_image": "/images/floorplans/brooklyn.svg"
   },
   {
     "id": "GTA-034",
@@ -1008,7 +1034,9 @@
       "title": "Guess the Apartment Flaw: Brooklyn 3 Bedroom The kitchen runs along the main hallway",
       "description": "Spot the hidden flaw in this Brooklyn 3 Bedroom: the kitchen is positioned in the main hallway, so traffic passes inches from the stove."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Brooklyn 3 bedroom apartment, Pullman kitchen running along narrow main corridor, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Brooklyn 3 bedroom apartment, Pullman kitchen running along narrow main corridor, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-brooklyn-kitchen-in-main-hallway.svg",
+    "city_image": "/images/floorplans/brooklyn.svg"
   },
   {
     "id": "GTA-035",
@@ -1036,7 +1064,9 @@
       "title": "Guess the Apartment Flaw: Brooklyn Loft Studio Laundry is placed in the kitchen footprint",
       "description": "Spot the hidden flaw in this Brooklyn Loft Studio: the stacked washer and dryer are placed inside the kitchen next to food storage."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Brooklyn loft studio apartment, stacked washer dryer symbols inside kitchen next to refrigerator, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Brooklyn loft studio apartment, stacked washer dryer symbols inside kitchen next to refrigerator, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-brooklyn-washer-dryer-in-kitchen.svg",
+    "city_image": "/images/floorplans/brooklyn.svg"
   },
   {
     "id": "GTA-036",
@@ -1064,7 +1094,9 @@
       "title": "Guess the Apartment Flaw: Miami Studio A Murphy bed blocks the only window",
       "description": "Spot the hidden flaw in this Miami Studio: the murphy bed, when folded down, blocks the only window wall."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Miami studio apartment, murphy bed rectangle folded down across only window wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Miami studio apartment, murphy bed rectangle folded down across only window wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-miami-murphy-bed-blocks-window.svg",
+    "city_image": "/images/floorplans/miami.svg"
   },
   {
     "id": "GTA-037",
@@ -1092,7 +1124,9 @@
       "title": "Guess the Apartment Flaw: Miami 1 Bedroom A partition wall cuts a living room into a fake bedroom",
       "description": "Spot the hidden flaw in this Miami 1 Bedroom: a new partition wall carves a second bedroom out of the original living room."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Miami 1 bedroom apartment, partition wall cutting through large original living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Miami 1 bedroom apartment, partition wall cutting through large original living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-miami-partitioned-living-room-bedroom.svg",
+    "city_image": "/images/floorplans/miami.svg"
   },
   {
     "id": "GTA-038",
@@ -1120,7 +1154,9 @@
       "title": "Guess the Apartment Flaw: Miami 2 Bedroom All windows face an alley",
       "description": "Spot the hidden flaw in this Miami 2 Bedroom: every window faces a service alley instead of the street or open side."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Miami 2 bedroom apartment, all window gaps on wall labeled service alley, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Miami 2 bedroom apartment, all window gaps on wall labeled service alley, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-miami-all-windows-face-alley.svg",
+    "city_image": "/images/floorplans/miami.svg"
   },
   {
     "id": "GTA-039",
@@ -1148,7 +1184,9 @@
       "title": "Guess the Apartment Flaw: Austin 3 Bedroom Every room is arranged in a forced railroad sequence",
       "description": "Can you spot the hidden traffic flow flaw in this Austin 3 Bedroom floor plan?"
     },
-    "midjourney_prompt": "top-down architectural floor plan, Austin 3 bedroom apartment, narrow railroad apartment with living room to kitchen to bedroom to bathroom sequence, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Austin 3 bedroom apartment, narrow railroad apartment with living room to kitchen to bedroom to bathroom sequence, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-austin-railroad-room-sequence.svg",
+    "city_image": "/images/floorplans/austin.svg"
   },
   {
     "id": "GTA-040",
@@ -1176,7 +1214,9 @@
       "title": "Guess the Apartment Flaw: Austin Loft Studio There is nowhere to store coats or everyday items at the entry",
       "description": "Spot the hidden flaw in this Austin Loft Studio: there is no entry closet or storage zone near the front door."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Austin loft studio apartment, front door opening into living room with no closet or built-in storage, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Austin loft studio apartment, front door opening into living room with no closet or built-in storage, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-austin-entry-no-coat-storage.svg",
+    "city_image": "/images/floorplans/austin.svg"
   },
   {
     "id": "GTA-041",
@@ -1204,7 +1244,9 @@
       "title": "Guess the Apartment Flaw: Austin Studio The bedroom has a window drawn where it cannot open",
       "description": "Spot the hidden flaw in this Austin Studio: the bedroom window faces an enclosed shaft, giving almost no usable ventilation."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Austin studio apartment, bedroom window facing narrow enclosed air shaft, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Austin studio apartment, bedroom window facing narrow enclosed air shaft, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-austin-bedroom-no-operable-window.svg",
+    "city_image": "/images/floorplans/austin.svg"
   },
   {
     "id": "GTA-042",
@@ -1232,7 +1274,9 @@
       "title": "Guess the Apartment Flaw: Boston 1 Bedroom The bed wall backs directly onto the kitchen",
       "description": "Spot the hidden flaw in this Boston 1 Bedroom: the bed wall shares a direct wall with the stove and sink line."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Boston 1 bedroom apartment, bedroom bed wall directly against kitchen appliance wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Boston 1 bedroom apartment, bedroom bed wall directly against kitchen appliance wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-boston-bedroom-backs-kitchen.svg",
+    "city_image": "/images/floorplans/boston.svg"
   },
   {
     "id": "GTA-043",
@@ -1260,7 +1304,9 @@
       "title": "Guess the Apartment Flaw: Boston 2 Bedroom The bedroom has no clear emergency exit path",
       "description": "Spot the hidden flaw in this Boston 2 Bedroom: the bedroom has no direct egress window or alternate emergency exit shown."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Boston 2 bedroom apartment, bedroom surrounded by interior walls with no egress window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Boston 2 bedroom apartment, bedroom surrounded by interior walls with no egress window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-boston-bedroom-no-egress-path.svg",
+    "city_image": "/images/floorplans/boston.svg"
   },
   {
     "id": "GTA-044",
@@ -1288,7 +1334,9 @@
       "title": "Guess the Apartment Flaw: Boston 3 Bedroom The toilet is visible from the entry door",
       "description": "Spot the hidden flaw in this Boston 3 Bedroom: the bathroom door and toilet line up directly with the front door."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Boston 3 bedroom apartment, front door sight line directly into bathroom toilet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Boston 3 bedroom apartment, front door sight line directly into bathroom toilet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-boston-bathroom-visible-from-entry.svg",
+    "city_image": "/images/floorplans/boston.svg"
   },
   {
     "id": "GTA-045",
@@ -1316,7 +1364,9 @@
       "title": "Guess the Apartment Flaw: Seattle Loft Studio The bathroom consumes more space than the living room",
       "description": "Spot the hidden flaw in this Seattle Loft Studio: the bathroom footprint is larger than the usable living room."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Seattle loft studio apartment, large bathroom dominating floor plan with tiny living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Seattle loft studio apartment, large bathroom dominating floor plan with tiny living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-seattle-bathroom-bigger-than-living.svg",
+    "city_image": "/images/floorplans/seattle.svg"
   },
   {
     "id": "GTA-046",
@@ -1344,7 +1394,9 @@
       "title": "Guess the Apartment Flaw: Seattle Studio A long south-facing glass wall has no shading",
       "description": "Spot the hidden flaw in this Seattle Studio: the main living wall is all south-facing glass with no exterior shade."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Seattle studio apartment, large south facing window wall with no overhang, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Seattle studio apartment, large south facing window wall with no overhang, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-seattle-south-glass-no-overhang.svg",
+    "city_image": "/images/floorplans/seattle.svg"
   },
   {
     "id": "GTA-047",
@@ -1372,7 +1424,9 @@
       "title": "Guess the Apartment Flaw: Denver 1 Bedroom The electrical panel occupies the main closet",
       "description": "Spot the hidden flaw in this Denver 1 Bedroom: the electrical panel is inside the only closet, limiting storage and access."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Denver 1 bedroom apartment, electrical panel shown inside only closet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Denver 1 bedroom apartment, electrical panel shown inside only closet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-denver-electrical-panel-in-closet.svg",
+    "city_image": "/images/floorplans/denver.svg"
   },
   {
     "id": "GTA-048",
@@ -1400,7 +1454,9 @@
       "title": "Guess the Apartment Flaw: Denver 2 Bedroom The living room is half below grade",
       "description": "Spot the hidden flaw in this Denver 2 Bedroom: the main living room is partially below grade, limiting light and outlook."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Denver 2 bedroom apartment, living room below grade line with small high windows, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Denver 2 bedroom apartment, living room below grade line with small high windows, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-denver-living-room-half-underground.svg",
+    "city_image": "/images/floorplans/denver.svg"
   },
   {
     "id": "GTA-049",
@@ -1428,7 +1484,9 @@
       "title": "Guess the Apartment Flaw: Atlanta 3 Bedroom The toilet wall backs directly onto the stove line",
       "description": "Spot the hidden flaw in this Atlanta 3 Bedroom: the toilet is placed directly behind the kitchen stove wall with no buffer."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Atlanta 3 bedroom apartment, toilet and stove back to back on thin shared wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Atlanta 3 bedroom apartment, toilet and stove back to back on thin shared wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-atlanta-toilet-beside-stove-wall.svg",
+    "city_image": "/images/floorplans/atlanta.svg"
   },
   {
     "id": "GTA-050",
@@ -1456,7 +1514,9 @@
       "title": "Guess the Apartment Flaw: Atlanta Loft Studio The desk is trapped in the sleeping path",
       "description": "Spot the hidden flaw in this Atlanta Loft Studio: the only desk location is in the pathway between the entry and bed."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Atlanta loft studio apartment, desk rectangle in direct path from entry to bed, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Atlanta loft studio apartment, desk rectangle in direct path from entry to bed, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-atlanta-work-zone-in-sleep-path.svg",
+    "city_image": "/images/floorplans/atlanta.svg"
   },
   {
     "id": "GTA-051",
@@ -1484,7 +1544,9 @@
       "title": "Guess the Apartment Flaw: Washington DC Studio The only bedroom route is a tight spiral stair",
       "description": "Spot the hidden flaw in this Washington DC Studio: the bedroom is reached only by a narrow spiral staircase."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Washington DC studio apartment, bedroom level accessed by tight spiral stair symbol, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Washington DC studio apartment, bedroom level accessed by tight spiral stair symbol, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-washington-dc-spiral-stair-only-bedroom.svg",
+    "city_image": "/images/floorplans/washington-dc.svg"
   },
   {
     "id": "GTA-052",
@@ -1512,7 +1574,9 @@
       "title": "Guess the Apartment Flaw: Washington DC 1 Bedroom The stove is immediately beside the front door",
       "description": "Spot the hidden flaw in this Washington DC 1 Bedroom: the stove sits directly beside the front door swing."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Washington DC 1 bedroom apartment, front door swing overlapping kitchen stove zone, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Washington DC 1 bedroom apartment, front door swing overlapping kitchen stove zone, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-washington-dc-stove-beside-front-door.svg",
+    "city_image": "/images/floorplans/washington-dc.svg"
   },
   {
     "id": "GTA-053",
@@ -1540,7 +1604,9 @@
       "title": "Guess the Apartment Flaw: Nashville 2 Bedroom The refrigerator is outside the kitchen triangle",
       "description": "Spot the hidden flaw in this Nashville 2 Bedroom: the refrigerator is across the living room from the rest of the kitchen."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Nashville 2 bedroom apartment, refrigerator drawn across living area from stove and sink, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Nashville 2 bedroom apartment, refrigerator drawn across living area from stove and sink, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-nashville-fridge-across-living-room.svg",
+    "city_image": "/images/floorplans/nashville.svg"
   },
   {
     "id": "GTA-054",
@@ -1568,7 +1634,9 @@
       "title": "Guess the Apartment Flaw: Nashville 3 Bedroom The bed blocks the closet doors",
       "description": "Spot the hidden flaw in this Nashville 3 Bedroom: the only practical bed placement blocks the closet doors."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Nashville 3 bedroom apartment, queen bed rectangle overlapping closet door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Nashville 3 bedroom apartment, queen bed rectangle overlapping closet door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-nashville-bed-blocks-closet.svg",
+    "city_image": "/images/floorplans/nashville.svg"
   },
   {
     "id": "GTA-055",
@@ -1596,7 +1664,9 @@
       "title": "Guess the Apartment Flaw: Portland Loft Studio The converted bedroom has two doors and no closet",
       "description": "Spot the hidden flaw in this Portland Loft Studio: the so-called bedroom has two doors, no closet, and no logical private wall."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Portland loft studio apartment, small bedroom carved from common area with two doors, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Portland loft studio apartment, small bedroom carved from common area with two doors, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-portland-bedroom-with-two-doors-no-closet.svg",
+    "city_image": "/images/floorplans/portland.svg"
   },
   {
     "id": "GTA-056",
@@ -1624,7 +1694,9 @@
       "title": "Guess the Apartment Flaw: Portland Studio The only windows face a brick wall",
       "description": "Spot the hidden flaw in this Portland Studio: the only windows face a neighboring brick wall just a few feet away."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Portland studio apartment, windows opening to narrow gap with brick wall label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Portland studio apartment, windows opening to narrow gap with brick wall label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-portland-only-windows-face-brick-wall.svg",
+    "city_image": "/images/floorplans/portland.svg"
   },
   {
     "id": "GTA-057",
@@ -1652,7 +1724,9 @@
       "title": "Guess the Apartment Flaw: Phoenix 1 Bedroom The kitchen can only be reached through the bedroom",
       "description": "Spot the hidden flaw in this Phoenix 1 Bedroom: the kitchen is only accessible by walking through the bedroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Phoenix 1 bedroom apartment, kitchen tucked beyond bedroom with no hallway connection, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Phoenix 1 bedroom apartment, kitchen tucked beyond bedroom with no hallway connection, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-phoenix-bedroom-only-path-to-kitchen.svg",
+    "city_image": "/images/floorplans/phoenix.svg"
   },
   {
     "id": "GTA-058",
@@ -1680,7 +1754,9 @@
       "title": "Guess the Apartment Flaw: Phoenix 2 Bedroom The bedroom depends on wardrobes that shrink the usable space",
       "description": "Spot the hidden flaw in this Phoenix 2 Bedroom: the bedroom has no built-in storage, so any wardrobe would block the bed clearance."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Phoenix 2 bedroom apartment, small bedroom with bed clearance and no closet forcing wardrobe into pathway, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Phoenix 2 bedroom apartment, small bedroom with bed clearance and no closet forcing wardrobe into pathway, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-phoenix-tiny-bedroom-lost-to-wardrobes.svg",
+    "city_image": "/images/floorplans/phoenix.svg"
   },
   {
     "id": "GTA-059",
@@ -1708,7 +1784,9 @@
       "title": "Guess the Apartment Flaw: Minneapolis 3 Bedroom The bathroom has no window or exhaust fan",
       "description": "Spot the hidden flaw in this Minneapolis 3 Bedroom: the bathroom has no window or exhaust fan shown on the plan."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Minneapolis 3 bedroom apartment, interior bathroom with no fan symbol and no window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Minneapolis 3 bedroom apartment, interior bathroom with no fan symbol and no window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-minneapolis-bathroom-no-fan.svg",
+    "city_image": "/images/floorplans/minneapolis.svg"
   },
   {
     "id": "GTA-060",
@@ -1736,7 +1814,9 @@
       "title": "Guess the Apartment Flaw: Minneapolis Loft Studio The headboard wall carries bathroom plumbing",
       "description": "Spot the hidden flaw in this Minneapolis Loft Studio: the bed is placed against the same wall as the toilet and shower plumbing."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Minneapolis loft studio apartment, bed headboard on wall shared with toilet and shower, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Minneapolis loft studio apartment, bed headboard on wall shared with toilet and shower, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-minneapolis-bathroom-plumbing-at-headboard.svg",
+    "city_image": "/images/floorplans/minneapolis.svg"
   },
   {
     "id": "GTA-061",
@@ -1764,7 +1844,9 @@
       "title": "Guess the Apartment Flaw: New Orleans Studio A tiny storage room is being marketed as a bedroom",
       "description": "Spot the hidden flaw in this New Orleans Studio: the room labeled bedroom is closer to a closet than a habitable sleeping room."
     },
-    "midjourney_prompt": "top-down architectural floor plan, New Orleans studio apartment, very small interior room labeled bedroom with minimal clearances, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, New Orleans studio apartment, very small interior room labeled bedroom with minimal clearances, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-new-orleans-closet-labeled-bedroom.svg",
+    "city_image": "/images/floorplans/new-orleans.svg"
   },
   {
     "id": "GTA-062",
@@ -1792,7 +1874,9 @@
       "title": "Guess the Apartment Flaw: New Orleans 1 Bedroom Guests must pass the bedroom to reach common rooms",
       "description": "Spot the hidden flaw in this New Orleans 1 Bedroom: the guest path from the entry crosses the bedroom zone before reaching the living area."
     },
-    "midjourney_prompt": "top-down architectural floor plan, New Orleans 1 bedroom apartment, entry route crossing bedroom area to living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, New Orleans 1 bedroom apartment, entry route crossing bedroom area to living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-new-orleans-guest-path-through-bedroom.svg",
+    "city_image": "/images/floorplans/new-orleans.svg"
   },
   {
     "id": "GTA-063",
@@ -1820,7 +1904,9 @@
       "title": "Guess the Apartment Flaw: Houston 2 Bedroom The hallway takes up too much of the apartment",
       "description": "Spot the hidden flaw in this Houston 2 Bedroom: a long oversized hallway consumes the space that should have gone to rooms."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Houston 2 bedroom apartment, wide long hallway taking major footprint between rooms, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Houston 2 bedroom apartment, wide long hallway taking major footprint between rooms, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-houston-hallway-wastes-square-footage.svg",
+    "city_image": "/images/floorplans/houston.svg"
   },
   {
     "id": "GTA-064",
@@ -1848,7 +1934,9 @@
       "title": "Guess the Apartment Flaw: Houston 3 Bedroom The bedroom sits over an unconditioned garage",
       "description": "Spot the hidden flaw in this Houston 3 Bedroom: the bedroom is positioned over an unconditioned garage, making temperature swings likely."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Houston 3 bedroom apartment, bedroom footprint above garage zone marked unconditioned, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Houston 3 bedroom apartment, bedroom footprint above garage zone marked unconditioned, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-houston-bedroom-over-garage-cold.svg",
+    "city_image": "/images/floorplans/houston.svg"
   },
   {
     "id": "GTA-065",
@@ -1876,7 +1964,9 @@
       "title": "Guess the Apartment Flaw: Dallas Loft Studio The water heater sits inside the bedroom",
       "description": "Spot the hidden flaw in this Dallas Loft Studio: the water heater closet is located inside the bedroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Dallas loft studio apartment, water heater closet drawn inside bedroom wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Dallas loft studio apartment, water heater closet drawn inside bedroom wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-dallas-water-heater-in-bedroom.svg",
+    "city_image": "/images/floorplans/dallas.svg"
   },
   {
     "id": "GTA-066",
@@ -1904,7 +1994,9 @@
       "title": "Guess the Apartment Flaw: Dallas Studio The kitchen sits below exterior grade",
       "description": "Spot the hidden flaw in this Dallas Studio: the kitchen is below exterior grade with a grade line against the wall."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Dallas studio apartment, kitchen wall cut by exterior grade line, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Dallas studio apartment, kitchen wall cut by exterior grade line, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-dallas-kitchen-below-grade-no-drainage.svg",
+    "city_image": "/images/floorplans/dallas.svg"
   },
   {
     "id": "GTA-067",
@@ -1932,7 +2024,9 @@
       "title": "Guess the Apartment Flaw: Detroit 1 Bedroom Laundry is squeezed into the food-prep zone",
       "description": "Spot the hidden flaw in this Detroit 1 Bedroom: the washer hookup is inside the kitchen prep area next to the sink and counters."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Detroit 1 bedroom apartment, washer dryer symbols inside kitchen counter run, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Detroit 1 bedroom apartment, washer dryer symbols inside kitchen counter run, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-detroit-laundry-drains-through-kitchen.svg",
+    "city_image": "/images/floorplans/detroit.svg"
   },
   {
     "id": "GTA-068",
@@ -1960,7 +2054,9 @@
       "title": "Guess the Apartment Flaw: Detroit 2 Bedroom The kitchen island is the only divider",
       "description": "Spot the hidden flaw in this Detroit 2 Bedroom: the kitchen island is the only separation between sleeping and living zones."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Detroit 2 bedroom apartment, studio with kitchen island between bed and living area, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Detroit 2 bedroom apartment, studio with kitchen island between bed and living area, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-detroit-kitchen-is-room-divider-only.svg",
+    "city_image": "/images/floorplans/detroit.svg"
   },
   {
     "id": "GTA-069",
@@ -1988,7 +2084,9 @@
       "title": "Guess the Apartment Flaw: Philadelphia 3 Bedroom The bathroom has no turning clearance",
       "description": "Spot the hidden flaw in this Philadelphia 3 Bedroom: the bathroom is drawn too tight for basic turning clearance."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Philadelphia 3 bedroom apartment, tiny bathroom with door swing hitting fixture clearance, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Philadelphia 3 bedroom apartment, tiny bathroom with door swing hitting fixture clearance, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-philadelphia-bathroom-too-tight-clearance.svg",
+    "city_image": "/images/floorplans/philadelphia.svg"
   },
   {
     "id": "GTA-070",
@@ -2016,7 +2114,9 @@
       "title": "Guess the Apartment Flaw: Philadelphia Loft Studio The only bedroom exit is blocked by furniture placement",
       "description": "Spot the hidden flaw in this Philadelphia Loft Studio: the bed placement blocks the only clear path to the bedroom door."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Philadelphia loft studio apartment, bed rectangle intruding into bedroom door path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Philadelphia loft studio apartment, bed rectangle intruding into bedroom door path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-philadelphia-bedroom-egress-blocked-by-furniture.svg",
+    "city_image": "/images/floorplans/philadelphia.svg"
   },
   {
     "id": "GTA-071",
@@ -2044,7 +2144,9 @@
       "title": "Guess the Apartment Flaw: Pittsburgh Studio The bathroom fixtures are split into different rooms",
       "description": "Spot the hidden flaw in this Pittsburgh Studio: the toilet and shower are separated from the sink by a hallway."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Pittsburgh studio apartment, toilet shower room separated from sink across hall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Pittsburgh studio apartment, toilet shower room separated from sink across hall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-pittsburgh-bathroom-split-fixtures.svg",
+    "city_image": "/images/floorplans/pittsburgh.svg"
   },
   {
     "id": "GTA-072",
@@ -2072,7 +2174,9 @@
       "title": "Guess the Apartment Flaw: Pittsburgh 1 Bedroom The sofa blocks balcony access",
       "description": "Spot the hidden flaw in this Pittsburgh 1 Bedroom: a standard sofa would block the only balcony door."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Pittsburgh 1 bedroom apartment, sofa footprint across balcony door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Pittsburgh 1 bedroom apartment, sofa footprint across balcony door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-pittsburgh-sofa-blocks-balcony.svg",
+    "city_image": "/images/floorplans/pittsburgh.svg"
   },
   {
     "id": "GTA-073",
@@ -2100,7 +2204,9 @@
       "title": "Guess the Apartment Flaw: Baltimore 2 Bedroom The dining room has been relabeled as a bedroom",
       "description": "Spot the hidden flaw in this Baltimore 2 Bedroom: the original dining room is being counted as a bedroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Baltimore 2 bedroom apartment, dining room with cased opening labeled bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Baltimore 2 bedroom apartment, dining room with cased opening labeled bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-baltimore-dining-room-labeled-bedroom.svg",
+    "city_image": "/images/floorplans/baltimore.svg"
   },
   {
     "id": "GTA-074",
@@ -2128,7 +2234,9 @@
       "title": "Guess the Apartment Flaw: Baltimore 3 Bedroom Both bedrooms face the parking lot",
       "description": "Spot the hidden flaw in this Baltimore 3 Bedroom: both bedroom windows face the parking lot and car headlights."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Baltimore 3 bedroom apartment, bedroom windows facing parking lot label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Baltimore 3 bedroom apartment, bedroom windows facing parking lot label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-baltimore-bedrooms-face-parking-lot.svg",
+    "city_image": "/images/floorplans/baltimore.svg"
   },
   {
     "id": "GTA-075",
@@ -2156,7 +2264,9 @@
       "title": "Guess the Apartment Flaw: Charlotte Loft Studio The living room is the only circulation path",
       "description": "Spot the hidden flaw in this Charlotte Loft Studio: the living room has to be crossed diagonally to reach every other room."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Charlotte loft studio apartment, all doors opening into living room with diagonal traffic path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Charlotte loft studio apartment, all doors opening into living room with diagonal traffic path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-charlotte-living-room-cut-through.svg",
+    "city_image": "/images/floorplans/charlotte.svg"
   },
   {
     "id": "GTA-076",
@@ -2184,7 +2294,9 @@
       "title": "Guess the Apartment Flaw: Charlotte Studio The only closet is inside the bathroom",
       "description": "Spot the hidden flaw in this Charlotte Studio: the only storage closet is located inside the bathroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Charlotte studio apartment, single closet rectangle inside bathroom with no other closets, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Charlotte studio apartment, single closet rectangle inside bathroom with no other closets, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-charlotte-only-closet-in-bathroom.svg",
+    "city_image": "/images/floorplans/charlotte.svg"
   },
   {
     "id": "GTA-077",
@@ -2212,7 +2324,9 @@
       "title": "Guess the Apartment Flaw: Raleigh 1 Bedroom The middle rooms cannot get cross ventilation",
       "description": "Spot the hidden flaw in this Raleigh 1 Bedroom: windows exist only at the front and back, leaving the middle rooms with no cross breeze."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Raleigh 1 bedroom apartment, long narrow floor plan with windows only at front and rear, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Raleigh 1 bedroom apartment, long narrow floor plan with windows only at front and rear, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-raleigh-shotgun-no-cross-breeze.svg",
+    "city_image": "/images/floorplans/raleigh.svg"
   },
   {
     "id": "GTA-078",
@@ -2240,7 +2354,9 @@
       "title": "Guess the Apartment Flaw: Raleigh 2 Bedroom The living room noise spills into both bedrooms",
       "description": "Spot the hidden flaw in this Raleigh 2 Bedroom: both bedroom doors open directly into the living room with no hall buffer."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Raleigh 2 bedroom apartment, two bedroom doors opening straight into living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Raleigh 2 bedroom apartment, two bedroom doors opening straight into living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-raleigh-living-room-between-bedrooms-no-buffer.svg",
+    "city_image": "/images/floorplans/raleigh.svg"
   },
   {
     "id": "GTA-079",
@@ -2268,7 +2384,9 @@
       "title": "Guess the Apartment Flaw: Tampa 3 Bedroom The sleeping room is accessed through a bathroom",
       "description": "Spot the hidden flaw in this Tampa 3 Bedroom: the only route to the bedroom passes through the bathroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Tampa 3 bedroom apartment, bedroom door located only inside bathroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Tampa 3 bedroom apartment, bedroom door located only inside bathroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-tampa-sleeping-room-through-bath.svg",
+    "city_image": "/images/floorplans/tampa.svg"
   },
   {
     "id": "GTA-080",
@@ -2296,7 +2414,9 @@
       "title": "Guess the Apartment Flaw: Tampa Loft Studio The bedroom opens directly into the kitchen work zone",
       "description": "Spot the hidden flaw in this Tampa Loft Studio: the bedroom door opens directly into the kitchen prep area."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Tampa loft studio apartment, bedroom door located beside stove and kitchen counter, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Tampa loft studio apartment, bedroom door located beside stove and kitchen counter, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-tampa-bedroom-door-facing-kitchen.svg",
+    "city_image": "/images/floorplans/tampa.svg"
   },
   {
     "id": "GTA-081",
@@ -2324,7 +2444,9 @@
       "title": "Guess the Apartment Flaw: Orlando Studio The kitchen is oversized while the bedroom is undersized",
       "description": "Spot the hidden flaw in this Orlando Studio: the kitchen is much larger than the bedroom, leaving poor sleeping-room clearance."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Orlando studio apartment, large kitchen with island beside very small bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Orlando studio apartment, large kitchen with island beside very small bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-orlando-kitchen-too-large-bedroom-too-small.svg",
+    "city_image": "/images/floorplans/orlando.svg"
   },
   {
     "id": "GTA-082",
@@ -2352,7 +2474,9 @@
       "title": "Guess the Apartment Flaw: Orlando 1 Bedroom The corner unit gets heat from two exposed sides",
       "description": "Spot the hidden flaw in this Orlando 1 Bedroom: the living and bedroom windows wrap two sun-exposed walls with no shade."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Orlando 1 bedroom apartment, corner apartment with windows on two exposed hot walls, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Orlando 1 bedroom apartment, corner apartment with windows on two exposed hot walls, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-orlando-corner-unit-no-cross-shade.svg",
+    "city_image": "/images/floorplans/orlando.svg"
   },
   {
     "id": "GTA-083",
@@ -2380,7 +2504,9 @@
       "title": "Guess the Apartment Flaw: Las Vegas 2 Bedroom The HVAC unit blocks balcony access",
       "description": "Spot the hidden flaw in this Las Vegas 2 Bedroom: the hvac closet and equipment pinch the path to the balcony door."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Las Vegas 2 bedroom apartment, HVAC closet beside balcony door narrowing route, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Las Vegas 2 bedroom apartment, HVAC closet beside balcony door narrowing route, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-las-vegas-hvac-blocks-balcony-door.svg",
+    "city_image": "/images/floorplans/las-vegas.svg"
   },
   {
     "id": "GTA-084",
@@ -2408,7 +2534,9 @@
       "title": "Guess the Apartment Flaw: Las Vegas 3 Bedroom The bed is directly beside a window well",
       "description": "Spot the hidden flaw in this Las Vegas 3 Bedroom: the bedroom's only window well is directly at the head of the bed."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Las Vegas 3 bedroom apartment, bed placed along wall with window well symbol at head, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Las Vegas 3 bedroom apartment, bed placed along wall with window well symbol at head, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-las-vegas-bedroom-window-well-at-bed.svg",
+    "city_image": "/images/floorplans/las-vegas.svg"
   },
   {
     "id": "GTA-085",
@@ -2436,7 +2564,9 @@
       "title": "Guess the Apartment Flaw: Salt Lake City Loft Studio The bathroom sink is outside the bathroom in the kitchen",
       "description": "Spot the hidden flaw in this Salt Lake City Loft Studio: the bathroom vanity is located in the kitchen instead of inside the bathroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Salt Lake City loft studio apartment, bathroom sink/vanity drawn in kitchen footprint, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Salt Lake City loft studio apartment, bathroom sink/vanity drawn in kitchen footprint, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-salt-lake-city-bathroom-vanity-in-kitchen.svg",
+    "city_image": "/images/floorplans/salt-lake-city.svg"
   },
   {
     "id": "GTA-086",
@@ -2464,7 +2594,9 @@
       "title": "Guess the Apartment Flaw: Salt Lake City Studio The bed sits immediately beside the front door",
       "description": "Spot the hidden flaw in this Salt Lake City Studio: the sleeping zone is placed directly beside the front door."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Salt Lake City studio apartment, bed rectangle immediately adjacent to front door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Salt Lake City studio apartment, bed rectangle immediately adjacent to front door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-salt-lake-city-bed-next-to-front-door.svg",
+    "city_image": "/images/floorplans/salt-lake-city.svg"
   },
   {
     "id": "GTA-087",
@@ -2492,7 +2624,9 @@
       "title": "Guess the Apartment Flaw: Kansas City 1 Bedroom The route to the bedroom is too narrow",
       "description": "Spot the hidden flaw in this Kansas City 1 Bedroom: the hallway pinch point before the bedroom is too narrow for comfortable access."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Kansas City 1 bedroom apartment, narrow hallway neck before bedroom door, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Kansas City 1 bedroom apartment, narrow hallway neck before bedroom door, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-kansas-city-bedroom-door-narrow-hall.svg",
+    "city_image": "/images/floorplans/kansas-city.svg"
   },
   {
     "id": "GTA-088",
@@ -2520,7 +2654,9 @@
       "title": "Guess the Apartment Flaw: Kansas City 2 Bedroom The bathroom door opens onto a stair landing",
       "description": "Spot the hidden flaw in this Kansas City 2 Bedroom: the bathroom door opens directly onto a stair landing."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Kansas City 2 bedroom apartment, bathroom door swing overlapping stair landing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Kansas City 2 bedroom apartment, bathroom door swing overlapping stair landing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-kansas-city-bath-door-hits-stair.svg",
+    "city_image": "/images/floorplans/kansas-city.svg"
   },
   {
     "id": "GTA-089",
@@ -2548,7 +2684,9 @@
       "title": "Guess the Apartment Flaw: St. Louis 3 Bedroom The bedroom is entered through a closet zone",
       "description": "Spot the hidden flaw in this St. Louis 3 Bedroom: the bedroom entry path passes through the closet area."
     },
-    "midjourney_prompt": "top-down architectural floor plan, St. Louis 3 bedroom apartment, bedroom door route cutting through walk-in closet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, St. Louis 3 bedroom apartment, bedroom door route cutting through walk-in closet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-st-louis-bedroom-door-through-closet.svg",
+    "city_image": "/images/floorplans/st-louis.svg"
   },
   {
     "id": "GTA-090",
@@ -2576,7 +2714,9 @@
       "title": "Guess the Apartment Flaw: St. Louis Loft Studio The only desk location blocks the bedroom door",
       "description": "Spot the hidden flaw in this St. Louis Loft Studio: the only workable desk location interferes with the bedroom door swing."
     },
-    "midjourney_prompt": "top-down architectural floor plan, St. Louis loft studio apartment, desk footprint overlapping bedroom door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, St. Louis loft studio apartment, desk footprint overlapping bedroom door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-st-louis-desk-blocks-bedroom-door.svg",
+    "city_image": "/images/floorplans/st-louis.svg"
   },
   {
     "id": "GTA-091",
@@ -2604,7 +2744,9 @@
       "title": "Guess the Apartment Flaw: Cincinnati Studio A sleeping platform is squeezed above the kitchen",
       "description": "Spot the hidden flaw in this Cincinnati Studio: a low sleeping platform has been added above the kitchen as a bedroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Cincinnati studio apartment, low loft platform built over kitchen footprint, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Cincinnati studio apartment, low loft platform built over kitchen footprint, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-cincinnati-loft-platform-over-kitchen.svg",
+    "city_image": "/images/floorplans/cincinnati.svg"
   },
   {
     "id": "GTA-092",
@@ -2632,7 +2774,9 @@
       "title": "Guess the Apartment Flaw: Cincinnati 1 Bedroom The living room has no street-facing window",
       "description": "Spot the hidden flaw in this Cincinnati 1 Bedroom: the living room has no street-facing window while secondary rooms get the exposure."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Cincinnati 1 bedroom apartment, living room interior with windows only in bedroom/service side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Cincinnati 1 bedroom apartment, living room interior with windows only in bedroom/service side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-cincinnati-living-room-no-street-facing-window.svg",
+    "city_image": "/images/floorplans/cincinnati.svg"
   },
   {
     "id": "GTA-093",
@@ -2660,7 +2804,9 @@
       "title": "Guess the Apartment Flaw: Cleveland 2 Bedroom The bathroom sits at the far end of the apartment with no hallway",
       "description": "Spot the hidden flaw in this Cleveland 2 Bedroom: the bathroom is placed at the far end, requiring a walk through every main room to reach it."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Cleveland 2 bedroom apartment, bathroom at rear beyond living kitchen and bedroom in single chain, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Cleveland 2 bedroom apartment, bathroom at rear beyond living kitchen and bedroom in single chain, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-cleveland-bathroom-at-far-end-no-hall.svg",
+    "city_image": "/images/floorplans/cleveland.svg"
   },
   {
     "id": "GTA-094",
@@ -2688,7 +2834,9 @@
       "title": "Guess the Apartment Flaw: Cleveland 3 Bedroom The closet door cannot fully open",
       "description": "Spot the hidden flaw in this Cleveland 3 Bedroom: the main closet is trapped behind another swinging door."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Cleveland 3 bedroom apartment, closet placed immediately behind bedroom door with overlapping swings, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Cleveland 3 bedroom apartment, closet placed immediately behind bedroom door with overlapping swings, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-cleveland-storage-behind-swinging-door.svg",
+    "city_image": "/images/floorplans/cleveland.svg"
   },
   {
     "id": "GTA-095",
@@ -2716,7 +2864,9 @@
       "title": "Guess the Apartment Flaw: Columbus Loft Studio The kitchen sits under a low loft with trapped heat",
       "description": "Spot the hidden flaw in this Columbus Loft Studio: the kitchen is tucked under the loft level with no ventilation outlet."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Columbus loft studio apartment, loft studio with kitchen below sleeping loft and no vent, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Columbus loft studio apartment, loft studio with kitchen below sleeping loft and no vent, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-columbus-kitchen-under-loft-no-air.svg",
+    "city_image": "/images/floorplans/columbus.svg"
   },
   {
     "id": "GTA-096",
@@ -2744,7 +2894,9 @@
       "title": "Guess the Apartment Flaw: Columbus Studio The mechanical closet is inside the bedroom",
       "description": "Spot the hidden flaw in this Columbus Studio: the hvac or mechanical closet is located inside the bedroom footprint."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Columbus studio apartment, mechanical closet drawn inside bedroom with bed nearby, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Columbus studio apartment, mechanical closet drawn inside bedroom with bed nearby, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-columbus-mechanical-closet-inside-bedroom.svg",
+    "city_image": "/images/floorplans/columbus.svg"
   },
   {
     "id": "GTA-097",
@@ -2772,7 +2924,9 @@
       "title": "Guess the Apartment Flaw: Indianapolis 1 Bedroom The bedroom has no closable door",
       "description": "Spot the hidden flaw in this Indianapolis 1 Bedroom: the bedroom opening has no door, only a wide cased opening."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Indianapolis 1 bedroom apartment, bedroom shown with wide opening but no door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Indianapolis 1 bedroom apartment, bedroom shown with wide opening but no door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-indianapolis-bedroom-without-door.svg",
+    "city_image": "/images/floorplans/indianapolis.svg"
   },
   {
     "id": "GTA-098",
@@ -2800,7 +2954,9 @@
       "title": "Guess the Apartment Flaw: Indianapolis 2 Bedroom The shared bathroom is inside the primary bedroom",
       "description": "Spot the hidden flaw in this Indianapolis 2 Bedroom: the only bathroom is accessed through the primary bedroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Indianapolis 2 bedroom apartment, only bathroom door inside primary bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Indianapolis 2 bedroom apartment, only bathroom door inside primary bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-indianapolis-shared-bath-through-primary.svg",
+    "city_image": "/images/floorplans/indianapolis.svg"
   },
   {
     "id": "GTA-099",
@@ -2828,7 +2984,9 @@
       "title": "Guess the Apartment Flaw: Memphis 3 Bedroom The living room is too narrow for a sofa",
       "description": "Spot the hidden flaw in this Memphis 3 Bedroom: the living room is so narrow that a standard sofa would block circulation."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Memphis 3 bedroom apartment, narrow living room with circulation path where sofa would sit, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Memphis 3 bedroom apartment, narrow living room with circulation path where sofa would sit, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-memphis-living-room-cannot-fit-sofa.svg",
+    "city_image": "/images/floorplans/memphis.svg"
   },
   {
     "id": "GTA-100",
@@ -2856,7 +3014,9 @@
       "title": "Guess the Apartment Flaw: Memphis Loft Studio The unit has no insulation buffer above",
       "description": "Spot the hidden flaw in this Memphis Loft Studio: the bedroom sits directly under a flat roof with no attic or buffer zone shown."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Memphis loft studio apartment, top floor plan with roof exposure label over bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Memphis loft studio apartment, top floor plan with roof exposure label over bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-memphis-top-floor-flat-roof.svg",
+    "city_image": "/images/floorplans/memphis.svg"
   },
   {
     "id": "GTA-101",
@@ -2884,7 +3044,9 @@
       "title": "Guess the Apartment Flaw: Louisville Studio A plumbing chase breaks up the kitchen counter",
       "description": "Spot the hidden flaw in this Louisville Studio: a plumbing chase interrupts the only continuous kitchen counter wall."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Louisville studio apartment, vertical plumbing chase cutting into kitchen counter run, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Louisville studio apartment, vertical plumbing chase cutting into kitchen counter run, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-louisville-plumbing-chase-splits-kitchen.svg",
+    "city_image": "/images/floorplans/louisville.svg"
   },
   {
     "id": "GTA-102",
@@ -2912,7 +3074,9 @@
       "title": "Guess the Apartment Flaw: Louisville 1 Bedroom The basement unit has only one practical exit",
       "description": "Spot the hidden flaw in this Louisville 1 Bedroom: the below-grade unit shows only one clear exit path."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Louisville 1 bedroom apartment, below grade apartment with one stair/door exit and rooms beyond, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Louisville 1 bedroom apartment, below grade apartment with one stair/door exit and rooms beyond, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-louisville-entire-unit-basement-single-exit.svg",
+    "city_image": "/images/floorplans/louisville.svg"
   },
   {
     "id": "GTA-103",
@@ -2940,7 +3104,9 @@
       "title": "Guess the Apartment Flaw: Richmond 2 Bedroom The bedroom shares a wall with the trash room",
       "description": "Spot the hidden flaw in this Richmond 2 Bedroom: the bedroom wall is directly against the building trash room."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Richmond 2 bedroom apartment, bedroom sharing wall with trash room label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Richmond 2 bedroom apartment, bedroom sharing wall with trash room label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-richmond-trash-room-next-to-bedroom.svg",
+    "city_image": "/images/floorplans/richmond.svg"
   },
   {
     "id": "GTA-104",
@@ -2968,7 +3134,9 @@
       "title": "Guess the Apartment Flaw: Richmond 3 Bedroom The living and sleeping zones have no boundary",
       "description": "Spot the hidden flaw in this Richmond 3 Bedroom: there is no visual or physical separation between the living area and sleeping area."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Richmond 3 bedroom apartment, single open room with bed and sofa side by side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Richmond 3 bedroom apartment, single open room with bed and sofa side by side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-richmond-living-and-bedroom-no-boundary.svg",
+    "city_image": "/images/floorplans/richmond.svg"
   },
   {
     "id": "GTA-105",
@@ -2996,7 +3164,9 @@
       "title": "Guess the Apartment Flaw: Sacramento Loft Studio The only bathroom requires stairs",
       "description": "Spot the hidden flaw in this Sacramento Loft Studio: the only bathroom is on a different level with stair-only access."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Sacramento loft studio apartment, main floor without bath and stairs to only bathroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Sacramento loft studio apartment, main floor without bath and stairs to only bathroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-sacramento-stairs-to-only-bath.svg",
+    "city_image": "/images/floorplans/sacramento.svg"
   },
   {
     "id": "GTA-106",
@@ -3024,7 +3194,9 @@
       "title": "Guess the Apartment Flaw: Sacramento Studio The kitchen blocks the only exit path",
       "description": "Spot the hidden flaw in this Sacramento Studio: the kitchen work zone narrows the only path to the front door."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Sacramento studio apartment, kitchen counters narrowing corridor to front door, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Sacramento studio apartment, kitchen counters narrowing corridor to front door, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-sacramento-kitchen-exit-narrows-to-one-path.svg",
+    "city_image": "/images/floorplans/sacramento.svg"
   },
   {
     "id": "GTA-107",
@@ -3052,7 +3224,9 @@
       "title": "Guess the Apartment Flaw: San Diego 1 Bedroom Kitchen appliance doors collide",
       "description": "Spot the hidden flaw in this San Diego 1 Bedroom: the dishwasher and oven doors cannot open at the same time."
     },
-    "midjourney_prompt": "top-down architectural floor plan, San Diego 1 bedroom apartment, oven and dishwasher placed opposite with overlapping open-door clearances, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, San Diego 1 bedroom apartment, oven and dishwasher placed opposite with overlapping open-door clearances, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-san-diego-dishwasher-blocks-oven.svg",
+    "city_image": "/images/floorplans/san-diego.svg"
   },
   {
     "id": "GTA-108",
@@ -3080,7 +3254,9 @@
       "title": "Guess the Apartment Flaw: San Diego 2 Bedroom The dining table blocks the kitchen path",
       "description": "Spot the hidden flaw in this San Diego 2 Bedroom: a small dining table blocks the route between the sink, stove, and refrigerator."
     },
-    "midjourney_prompt": "top-down architectural floor plan, San Diego 2 bedroom apartment, dining table footprint interrupting kitchen triangle, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, San Diego 2 bedroom apartment, dining table footprint interrupting kitchen triangle, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-san-diego-dining-table-blocks-kitchen.svg",
+    "city_image": "/images/floorplans/san-diego.svg"
   },
   {
     "id": "GTA-109",
@@ -3108,7 +3284,9 @@
       "title": "Guess the Apartment Flaw: Oakland 3 Bedroom A sunroom is being counted as a bedroom",
       "description": "Spot the hidden flaw in this Oakland 3 Bedroom: the enclosed sunroom is labeled as a bedroom despite poor privacy and heat control."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Oakland 3 bedroom apartment, sunroom enclosure relabeled bedroom at edge of plan, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Oakland 3 bedroom apartment, sunroom enclosure relabeled bedroom at edge of plan, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-oakland-sunroom-converted-bedroom.svg",
+    "city_image": "/images/floorplans/oakland.svg"
   },
   {
     "id": "GTA-110",
@@ -3136,7 +3314,9 @@
       "title": "Guess the Apartment Flaw: Oakland Loft Studio The only windows face a loading dock",
       "description": "Spot the hidden flaw in this Oakland Loft Studio: the only windows face a commercial loading dock."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Oakland loft studio apartment, all windows along wall labeled loading dock, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Oakland loft studio apartment, all windows along wall labeled loading dock, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-oakland-windows-face-loading-dock.svg",
+    "city_image": "/images/floorplans/oakland.svg"
   },
   {
     "id": "GTA-111",
@@ -3164,7 +3344,9 @@
       "title": "Guess the Apartment Flaw: Jersey City Studio The bedroom doubles as the entry hall",
       "description": "Spot the hidden flaw in this Jersey City Studio: the entry path forces people through the bedroom before reaching the living room."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Jersey City studio apartment, front door opens into bedroom then living room beyond, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Jersey City studio apartment, front door opens into bedroom then living room beyond, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-jersey-city-bedroom-as-entry-hall.svg",
+    "city_image": "/images/floorplans/jersey-city.svg"
   },
   {
     "id": "GTA-112",
@@ -3192,7 +3374,9 @@
       "title": "Guess the Apartment Flaw: Jersey City 1 Bedroom The plan has no pantry or linen storage",
       "description": "Spot the hidden flaw in this Jersey City 1 Bedroom: there is no pantry, linen closet, or general storage anywhere in the unit."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Jersey City 1 bedroom apartment, compact apartment with kitchen and bath but no storage closets, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Jersey City 1 bedroom apartment, compact apartment with kitchen and bath but no storage closets, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-jersey-city-no-pantry-no-linen-closet.svg",
+    "city_image": "/images/floorplans/jersey-city.svg"
   },
   {
     "id": "GTA-113",
@@ -3220,7 +3404,9 @@
       "title": "Guess the Apartment Flaw: Hoboken 2 Bedroom The laundry closet has no venting",
       "description": "Spot the hidden flaw in this Hoboken 2 Bedroom: the laundry closet is sealed inside the unit with no vent or exterior wall."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Hoboken 2 bedroom apartment, interior laundry closet with no exterior vent path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Hoboken 2 bedroom apartment, interior laundry closet with no exterior vent path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-hoboken-laundry-closet-no-vent.svg",
+    "city_image": "/images/floorplans/hoboken.svg"
   },
   {
     "id": "GTA-114",
@@ -3248,7 +3434,9 @@
       "title": "Guess the Apartment Flaw: Hoboken 3 Bedroom The bedroom shares a wall with the elevator shaft",
       "description": "Spot the hidden flaw in this Hoboken 3 Bedroom: the bedroom wall sits directly against the elevator shaft."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Hoboken 3 bedroom apartment, bedroom sharing wall with elevator shaft label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Hoboken 3 bedroom apartment, bedroom sharing wall with elevator shaft label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-hoboken-elevator-wall-bedroom.svg",
+    "city_image": "/images/floorplans/hoboken.svg"
   },
   {
     "id": "GTA-115",
@@ -3276,7 +3464,9 @@
       "title": "Guess the Apartment Flaw: Astoria Loft Studio The bedroom window faces a wall too close to be useful",
       "description": "Spot the hidden flaw in this Astoria Loft Studio: the only bedroom window opens directly into a blank wall or tiny light gap."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Astoria loft studio apartment, bedroom window opening to tiny exterior gap against building wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Astoria loft studio apartment, bedroom window opening to tiny exterior gap against building wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-astoria-window-blocked-by-building-wall.svg",
+    "city_image": "/images/floorplans/astoria.svg"
   },
   {
     "id": "GTA-116",
@@ -3304,7 +3494,9 @@
       "title": "Guess the Apartment Flaw: Astoria Studio The only outdoor space is reached through the bedroom",
       "description": "Spot the hidden flaw in this Astoria Studio: the only balcony access is through the bedroom."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Astoria studio apartment, balcony door located only in bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Astoria studio apartment, balcony door located only in bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/studio-astoria-balcony-through-bedroom.svg",
+    "city_image": "/images/floorplans/astoria.svg"
   },
   {
     "id": "GTA-117",
@@ -3332,7 +3524,9 @@
       "title": "Guess the Apartment Flaw: Harlem 1 Bedroom The primary suite takes too much of the total area",
       "description": "Spot the hidden flaw in this Harlem 1 Bedroom: the primary suite consumes most of the apartment while common space is squeezed."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Harlem 1 bedroom apartment, large primary suite dominating plan with small kitchen living area, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Harlem 1 bedroom apartment, large primary suite dominating plan with small kitchen living area, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/1-bedroom-harlem-primary-suite-swallowing-unit.svg",
+    "city_image": "/images/floorplans/harlem.svg"
   },
   {
     "id": "GTA-118",
@@ -3360,7 +3554,9 @@
       "title": "Guess the Apartment Flaw: Harlem 2 Bedroom The only windows are on the hottest exposed wall",
       "description": "Spot the hidden flaw in this Harlem 2 Bedroom: every window is placed on the same hot exposed wall, concentrating heat in all rooms."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Harlem 2 bedroom apartment, single exposure apartment with all windows on west/southwest side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Harlem 2 bedroom apartment, single exposure apartment with all windows on west/southwest side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/2-bedroom-harlem-windows-on-noisy-hot-wall.svg",
+    "city_image": "/images/floorplans/harlem.svg"
   },
   {
     "id": "GTA-119",
@@ -3388,7 +3584,9 @@
       "title": "Guess the Apartment Flaw: Bronx 3 Bedroom The breaker panel is placed where the bed should go",
       "description": "Spot the hidden flaw in this Bronx 3 Bedroom: the breaker panel sits on the only wall long enough for the bed."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Bronx 3 bedroom apartment, breaker panel symbol centered on bed placement wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Bronx 3 bedroom apartment, breaker panel symbol centered on bed placement wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/3-bedroom-bronx-breaker-panel-over-bed.svg",
+    "city_image": "/images/floorplans/bronx.svg"
   },
   {
     "id": "GTA-120",
@@ -3416,6 +3614,8 @@
       "title": "Guess the Apartment Flaw: Bronx Loft Studio The bedroom window faces a retaining wall",
       "description": "Spot the hidden flaw in this Bronx Loft Studio: the below-grade bedroom window faces a retaining wall instead of open air."
     },
-    "midjourney_prompt": "top-down architectural floor plan, Bronx loft studio apartment, bedroom window well facing retaining wall label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style"
+    "midjourney_prompt": "top-down architectural floor plan, Bronx loft studio apartment, bedroom window well facing retaining wall label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
+    "image": "/images/floorplans/loft-studio-bronx-below-grade-bedroom-no-view.svg",
+    "city_image": "/images/floorplans/bronx.svg"
   }
 ]
