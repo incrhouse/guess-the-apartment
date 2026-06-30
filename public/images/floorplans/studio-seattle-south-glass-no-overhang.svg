@@ -1,21 +1,19 @@
 <svg viewBox="0 0 600 760" xmlns="http://www.w3.org/2000/svg">
   <style>
     .tiny { font-family: monospace; font-size: 11px; fill: #1A1A1A; }
-    .roomlabel { font-family: monospace; font-size: 13px; fill: #1A1A1A; }
+    .roomlabel { font-family: monospace; font-size: 12px; fill: #1A1A1A; }
     .small { font-family: monospace; font-size: 13px; fill: #1A1A1A; }
     .callout { font-family: monospace; font-size: 11px; fill: #C0392B; }
     .thin { stroke: #1A1A1A; stroke-width: 1; }
   </style>
   <rect x="0" y="0" width="600" height="760" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
   <rect x="90" y="100" width="250" height="20" fill="#1A1A1A"/><text x="215" y="115" class="tiny" fill="#FFFFFF" text-anchor="middle">FRONT DOOR</text>
-  <rect x="90" y="130" width="250" height="190" fill="#F5F5F3" stroke="#1A1A1A" stroke-width="3"/>
-  <text x="215" y="225" class="roomlabel" text-anchor="middle">LIVING ROOM</text>
-  <rect x="90" y="320" width="250" height="190" fill="#F5F5F3" stroke="#1A1A1A" stroke-width="3"/>
-  <text x="215" y="415" class="roomlabel" text-anchor="middle">BEDROOM</text>
-  <rect x="90" y="320" width="250" height="190" fill="none" stroke="#C0392B" stroke-width="2" stroke-dasharray="6,4"/>
-  <text x="370" y="415" class="callout" text-anchor="start">POOR SUN ORIENTATION</text>
-  <rect x="90" y="510" width="250" height="190" fill="#F5F5F3" stroke="#1A1A1A" stroke-width="3"/>
-  <text x="215" y="605" class="roomlabel" text-anchor="middle">KITCHEN</text>
+  <rect x="90" y="130" width="250" height="200" fill="#F5F5F3" stroke="#C0392B" stroke-width="2" stroke-dasharray="6,4"/>
+  <text x="215" y="230" class="roomlabel" text-anchor="middle">LIVING ROOM (W/S FACING)</text><text x="370" y="230" class="callout">POOR SUN ORIENTATION</text>
+  <rect x="90" y="330" width="250" height="200" fill="#F5F5F3" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="215" y="430" class="roomlabel" text-anchor="middle">KITCHEN</text>
+  <rect x="90" y="530" width="250" height="200" fill="#F5F5F3" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="215" y="630" class="roomlabel" text-anchor="middle">BATHROOM</text>
   
   <g transform="translate(510,165)">
     <path d="M0 -32 L5 -20 L0 -24 L-5 -20 Z" fill="#1A1A1A"/>
