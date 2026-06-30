@@ -1,0 +1,38 @@
+<svg viewBox="0 0 600 760" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .tiny { font-family: monospace; font-size: 11px; fill: #1A1A1A; }
+    .roomlabel { font-family: monospace; font-size: 13px; fill: #1A1A1A; }
+    .small { font-family: monospace; font-size: 13px; fill: #1A1A1A; }
+    .callout { font-family: monospace; font-size: 11px; fill: #C0392B; }
+    .thin { stroke: #1A1A1A; stroke-width: 1; }
+  </style>
+  <rect x="0" y="0" width="600" height="760" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+  <rect x="90" y="100" width="250" height="20" fill="#1A1A1A"/><text x="215" y="115" class="tiny" fill="#FFFFFF" text-anchor="middle">FRONT DOOR</text>
+  <rect x="90" y="130" width="250" height="142.5" fill="#F5F5F3" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="215" y="201.25" class="roomlabel" text-anchor="middle">LIVING ROOM</text>
+  <rect x="90" y="272.5" width="250" height="142.5" fill="#F5F5F3" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="215" y="343.75" class="roomlabel" text-anchor="middle">KITCHEN</text>
+  <rect x="90" y="415" width="250" height="142.5" fill="#F5F5F3" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="215" y="486.25" class="roomlabel" text-anchor="middle">BEDROOM (NO WINDOW)</text>
+  <rect x="90" y="415" width="250" height="142.5" fill="none" stroke="#C0392B" stroke-width="2" stroke-dasharray="6,4"/>
+  <text x="370" y="486.25" class="callout" text-anchor="start">EGRESS / CODE ISSUE</text>
+  <rect x="90" y="557.5" width="250" height="142.5" fill="#F5F5F3" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="215" y="628.75" class="roomlabel" text-anchor="middle">BATHROOM</text>
+  
+  <g transform="translate(510,165)">
+    <path d="M0 -32 L5 -20 L0 -24 L-5 -20 Z" fill="#1A1A1A"/>
+    <text x="0" y="-37" class="tiny" text-anchor="middle">N</text>
+    <text x="34" y="3" class="tiny" text-anchor="middle">E</text>
+    <text x="0" y="38" class="tiny" text-anchor="middle">S</text>
+    <text x="-34" y="3" class="tiny" text-anchor="middle">W</text>
+    <circle r="22" fill="none" stroke="#1A1A1A" stroke-width="1.5"/>
+  </g>
+  
+  <g transform="translate(380,690)">
+    <line x1="0" y1="0" x2="120" y2="0" class="thin"/>
+    <line x1="0" y1="-5" x2="0" y2="5" class="thin"/>
+    <line x1="120" y1="-5" x2="120" y2="5" class="thin"/>
+    <text x="60" y="18" class="tiny" text-anchor="middle">NOT TO SCALE</text>
+  </g>
+  <text x="40" y="720" class="small">CHICAGO / LOFT STUDIO</text>
+</svg>
