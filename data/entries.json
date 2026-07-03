@@ -26,7 +26,7 @@
       "description": "Can you spot the layout flaw in this New York City studio apartment? The bathroom placement makes this unit a nightmare for guests. Play now."
     },
     "midjourney_prompt": "top-down architectural floor plan, NYC studio apartment, 400 square feet, bathroom only accessible through sleeping alcove, galley kitchen along one wall, no entryway, clean minimal line drawing style, white background, black lines, labeled rooms, architectural blueprint aesthetic",
-    "image": "/images/floorplans/studio-nyc-bathroom-through-bedroom.svg",
+    "image": "/images/floorplans/studio-nyc-bathroom-through-bedroom.png",
     "city_image": "/images/floorplans/new-york-city.svg"
   },
   {
@@ -57,7 +57,7 @@
       "description": "This Chicago apartment has a sneaky flaw that renters only discover after moving in. Can you spot it from the floor plan?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Chicago courtyard apartment, 1 bedroom, no closet in bedroom, bathroom off hallway, galley kitchen, small living room, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, circa 1920s building layout",
-    "image": "/images/floorplans/1bed-chicago-no-closet-bedroom.svg",
+    "image": "/images/floorplans/1bed-chicago-no-closet-bedroom.png",
     "city_image": "/images/floorplans/chicago.svg"
   },
   {
@@ -88,7 +88,7 @@
       "description": "This Austin apartment has a layout flaw that destroys all privacy. Can you identify it from the floor plan before a renter makes a costly mistake?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Austin Texas 2 bedroom apartment, converted house unit, front door opening directly into master bedroom, no entryway buffer, second bedroom off hallway, small kitchen at rear, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2bed-austin-front-door-into-bedroom.svg",
+    "image": "/images/floorplans/2bed-austin-front-door-into-bedroom.png",
     "city_image": "/images/floorplans/austin.svg"
   },
   {
@@ -119,7 +119,7 @@
       "description": "This $2,400/month San Francisco studio has a hidden flaw in the kitchen. Can you spot what's missing from the floor plan?"
     },
     "midjourney_prompt": "top-down architectural floor plan, San Francisco Victorian studio apartment, interior kitchen with no exterior wall access, no window in kitchen, bathroom off main room, sleeping alcove, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, narrow lot building",
-    "image": "/images/floorplans/studio-sf-kitchen-no-ventilation.svg",
+    "image": "/images/floorplans/studio-sf-kitchen-no-ventilation.png",
     "city_image": "/images/floorplans/san-francisco.svg"
   },
   {
@@ -150,7 +150,7 @@
       "description": "The classic Brooklyn railroad apartment has one layout flaw that makes roommate living nearly impossible. Can you identify it?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Brooklyn railroad apartment, rooms in straight line sequence, no hallway, living room connects to kitchen connects to bedroom connects to bathroom, narrow building footprint, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, pre-war building",
-    "image": "/images/floorplans/1bed-brooklyn-railroad-layout.svg",
+    "image": "/images/floorplans/1bed-brooklyn-railroad-layout.png",
     "city_image": "/images/floorplans/brooklyn.svg"
   },
   {
