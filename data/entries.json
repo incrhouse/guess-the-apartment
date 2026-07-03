@@ -181,7 +181,7 @@
       "description": "This Miami apartment is advertising something that may not be legal. Can you spot the floor plan flaw that could void your lease protections?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Miami condo apartment, 2 bedroom, second bedroom interior with no exterior wall or window, master bedroom with balcony access, open plan kitchen living area, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, modern high-rise building",
-    "image": "/images/floorplans/2bed-miami-second-bedroom-no-window.svg",
+    "image": "/images/floorplans/2bed-miami-second-bedroom-no-window.png",
     "city_image": "/images/floorplans/miami.svg"
   },
   {
@@ -212,7 +212,7 @@
       "description": "This Seattle studio has a layout flaw you can't fix with furniture. Can you spot why the window orientation makes this apartment unlivable?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Seattle studio apartment, all windows facing interior alley, no street-facing windows, kitchen along interior wall, sleeping area with alley exposure, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, mixed-use building",
-    "image": "/images/floorplans/studio-seattle-bedroom-facing-alley.svg",
+    "image": "/images/floorplans/studio-seattle-bedroom-facing-alley.png",
     "city_image": "/images/floorplans/seattle.svg"
   },
   {
@@ -243,7 +243,7 @@
       "description": "This Denver apartment has in-unit laundry \u2014 but the location is a major problem. Can you spot it in the floor plan?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Denver 1 bedroom apartment, stacked washer dryer unit positioned in kitchen area beside refrigerator, no utility closet, bathroom off hallway, bedroom at rear, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, 1970s building conversion",
-    "image": "/images/floorplans/1bed-denver-washer-dryer-in-kitchen.svg",
+    "image": "/images/floorplans/1bed-denver-washer-dryer-in-kitchen.png",
     "city_image": "/images/floorplans/denver.svg"
   },
   {
@@ -274,7 +274,7 @@
       "description": "This Boston 2-bedroom used to be a 1-bedroom. Can you spot the floor plan clues that reveal the illegal conversion?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Boston brownstone apartment, second bedroom created by partition wall dividing original living room, second bedroom has two doors and no closet, shares wall with remaining living area, original bedroom at rear, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2bed-boston-bedroom-converted-living-room.svg",
+    "image": "/images/floorplans/2bed-boston-bedroom-converted-living-room.png",
     "city_image": "/images/floorplans/boston.svg"
   },
   {
@@ -305,7 +305,7 @@
       "description": "This LA studio calls itself cleverly designed. The floor plan tells a different story. Can you spot the flaw?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Los Angeles micro studio apartment, murphy bed mounted on same wall as only window, kitchen along opposite wall, bathroom at entry, clean minimal line drawing, white background, black lines, labeled rooms with murphy bed shown in folded down position blocking window, architectural blueprint style",
-    "image": "/images/floorplans/studio-la-murphy-bed-blocks-window.svg",
+    "image": "/images/floorplans/studio-la-murphy-bed-blocks-window.png",
     "city_image": "/images/floorplans/los-angeles.svg"
   },
   {
