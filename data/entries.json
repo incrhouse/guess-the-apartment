@@ -336,7 +336,7 @@
       "description": "This Portland apartment has a layout that would fail modern building codes. Can you spot the sanitation flaw in the floor plan?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Portland Oregon bungalow conversion apartment, bathroom door opening directly into kitchen with no hallway buffer, bedroom at rear of unit, living room at front, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, early 1900s building",
-    "image": "/images/floorplans/1bed-portland-bathroom-off-kitchen.svg",
+    "image": "/images/floorplans/1bed-portland-bathroom-off-kitchen.png",
     "city_image": "/images/floorplans/portland.svg"
   },
   {
@@ -367,7 +367,7 @@
       "description": "Two roommates in this Atlanta apartment can hear everything. Can you spot the acoustic flaw in the floor plan before you sign a lease?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Atlanta 2 bedroom apartment, two bedrooms sharing direct wall with no closet or bathroom buffer between them, living room and kitchen in open plan at front, single bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2bed-atlanta-bedrooms-share-one-wall-paper-thin.svg",
+    "image": "/images/floorplans/2bed-atlanta-bedrooms-share-one-wall-paper-thin.png",
     "city_image": "/images/floorplans/atlanta.svg"
   },
   {
@@ -398,7 +398,7 @@
       "description": "This Washington DC studio is terrible for working from home. Can you see why from the floor plan?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Washington DC studio apartment, front door opens with direct sight line to bed with no visual buffer, kitchen along side wall, bathroom off entry, sleeping area at far end but fully visible from door, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-dc-no-separation-sleeping-living.svg",
+    "image": "/images/floorplans/studio-dc-no-separation-sleeping-living.png",
     "city_image": "/images/floorplans/washington-dc.svg"
   },
   {
@@ -429,7 +429,7 @@
       "description": "This Nashville luxury apartment has a proportion problem. Can you spot the floor plan flaw that new construction developers hope you miss?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Nashville new construction 1 bedroom apartment, walk-in closet visibly larger than the bedroom it is attached to, open plan kitchen living area, bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms with square footage annotations, architectural blueprint style, modern building",
-    "image": "/images/floorplans/1bed-nashville-closet-bigger-than-bedroom.svg",
+    "image": "/images/floorplans/1bed-nashville-closet-bigger-than-bedroom.png",
     "city_image": "/images/floorplans/nashville.svg"
   },
   {
@@ -460,7 +460,7 @@
       "description": "This Phoenix apartment will cost you hundreds extra in summer cooling bills. Can you spot the orientation flaw in the floor plan?"
     },
     "midjourney_prompt": "top-down architectural floor plan with compass orientation shown, Phoenix Arizona 2 bedroom apartment, all primary windows on west-facing wall, living room and both bedrooms facing west, no shade overhangs indicated, kitchen and bathroom on east interior side, clean minimal line drawing, white background, black lines, labeled rooms, north arrow indicator, architectural blueprint style",
-    "image": "/images/floorplans/2bed-phoenix-no-shade-west-facing-windows.svg",
+    "image": "/images/floorplans/2bed-phoenix-no-shade-west-facing-windows.png",
     "city_image": "/images/floorplans/phoenix.svg"
   },
   {
@@ -522,7 +522,7 @@
       "description": "This New Orleans historic apartment was designed for a different era. Can you spot the ventilation flaw that makes it a summer nightmare?"
     },
     "midjourney_prompt": "top-down architectural floor plan, New Orleans shotgun house apartment conversion, rooms in single file front to back, windows only on front facade and rear wall, no side windows on either long wall, kitchen middle of unit, bedroom at rear, bathroom added at back, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, narrow lot",
-    "image": "/images/floorplans/1bed-new-orleans-shotgun-no-cross-ventilation.svg",
+    "image": "/images/floorplans/1bed-new-orleans-shotgun-no-cross-ventilation.png",
     "city_image": "/images/floorplans/new-orleans.svg"
   },
   {
@@ -553,7 +553,7 @@
       "description": "This Seattle apartment is suspiciously cheap. The floor plan reveals a bedroom that barely qualifies as habitable. Can you spot it?"
     },
     "midjourney_prompt": "top-down architectural floor plan with section elevation indicator, Seattle hillside apartment building, 2 bedroom unit, one bedroom shown below grade level with window well openings instead of standard windows, main living areas at grade level, bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms with grade level indicator, architectural blueprint style",
-    "image": "/images/floorplans/2bed-seattle-bedroom-below-grade.svg",
+    "image": "/images/floorplans/2bed-seattle-bedroom-below-grade.png",
     "city_image": "/images/floorplans/seattle.svg"
   },
   {
@@ -584,7 +584,7 @@
       "description": "This NYC loft calls it luxury living. The floor plan shows a bedroom you can only reach by climbing a ladder. Can you spot it?"
     },
     "midjourney_prompt": "top-down and section architectural floor plan, NYC loft studio apartment, upper sleeping loft level accessible only by fixed vertical ladder shown in section view, main floor with open kitchen living area, bathroom at entry level, loft platform visible in section, clean minimal line drawing, white background, black lines, labeled rooms and levels, architectural blueprint style, converted industrial building",
-    "image": "/images/floorplans/studio-nyc-loft-no-bedroom-separation.svg",
+    "image": "/images/floorplans/studio-nyc-loft-no-bedroom-separation.png",
     "city_image": "/images/floorplans/new-york-city.svg"
   },
   {
@@ -615,7 +615,7 @@
       "description": "This Chicago apartment has a kitchen placement that makes cooking dangerous. Can you identify the classic Pullman kitchen flaw from the floor plan?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Chicago worker apartment 1 bedroom, Pullman kitchen running along one wall of main hallway corridor, stove and counter in traffic path, bedroom at rear, living room at front, bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, early 1900s dense urban building",
-    "image": "/images/floorplans/1bed-chicago-kitchen-in-hallway.svg",
+    "image": "/images/floorplans/1bed-chicago-kitchen-in-hallway.png",
     "city_image": "/images/floorplans/chicago.svg"
   },
   {
@@ -675,7 +675,7 @@
       "description": "Spot the hidden flaw in this New York City 1 Bedroom: the bedroom has no closet whatsoever."
     },
     "midjourney_prompt": "top-down architectural floor plan, New York City 1 bedroom apartment, bedroom shown without any closet rectangle or storage niche, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-new-york-city-bedroom-no-closet.svg",
+    "image": "/images/floorplans/1-bedroom-new-york-city-bedroom-no-closet.png",
     "city_image": "/images/floorplans/new-york-city.svg"
   },
   {
