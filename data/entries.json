@@ -1005,7 +1005,7 @@
       "description": "Spot the hidden flaw in this Brooklyn 2 Bedroom: the loft bedroom is accessible only by a fixed vertical ladder."
     },
     "midjourney_prompt": "top-down architectural floor plan, Brooklyn 2 bedroom apartment, loft studio with vertical ladder symbol instead of stairs, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-brooklyn-ladder-to-loft-bed.svg",
+    "image": "/images/floorplans/2-bedroom-brooklyn-ladder-to-loft-bed.png",
     "city_image": "/images/floorplans/brooklyn.svg"
   },
   {
@@ -1035,7 +1035,7 @@
       "description": "Spot the hidden flaw in this Brooklyn 3 Bedroom: the kitchen is positioned in the main hallway, so traffic passes inches from the stove."
     },
     "midjourney_prompt": "top-down architectural floor plan, Brooklyn 3 bedroom apartment, Pullman kitchen running along narrow main corridor, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-brooklyn-kitchen-in-main-hallway.svg",
+    "image": "/images/floorplans/3-bedroom-brooklyn-kitchen-in-main-hallway.png",
     "city_image": "/images/floorplans/brooklyn.svg"
   },
   {
@@ -1065,7 +1065,7 @@
       "description": "Spot the hidden flaw in this Brooklyn Loft Studio: the stacked washer and dryer are placed inside the kitchen next to food storage."
     },
     "midjourney_prompt": "top-down architectural floor plan, Brooklyn loft studio apartment, stacked washer dryer symbols inside kitchen next to refrigerator, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-brooklyn-washer-dryer-in-kitchen.svg",
+    "image": "/images/floorplans/loft-studio-brooklyn-washer-dryer-in-kitchen.png",
     "city_image": "/images/floorplans/brooklyn.svg"
   },
   {
@@ -1095,7 +1095,7 @@
       "description": "Spot the hidden flaw in this Miami Studio: the murphy bed, when folded down, blocks the only window wall."
     },
     "midjourney_prompt": "top-down architectural floor plan, Miami studio apartment, murphy bed rectangle folded down across only window wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-miami-murphy-bed-blocks-window.svg",
+    "image": "/images/floorplans/studio-miami-murphy-bed-blocks-window.png",
     "city_image": "/images/floorplans/miami.svg"
   },
   {
@@ -1155,7 +1155,7 @@
       "description": "Spot the hidden flaw in this Miami 2 Bedroom: every window faces a service alley instead of the street or open side."
     },
     "midjourney_prompt": "top-down architectural floor plan, Miami 2 bedroom apartment, all window gaps on wall labeled service alley, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-miami-all-windows-face-alley.svg",
+    "image": "/images/floorplans/2-bedroom-miami-all-windows-face-alley.png",
     "city_image": "/images/floorplans/miami.svg"
   },
   {
@@ -1185,7 +1185,7 @@
       "description": "Can you spot the hidden traffic flow flaw in this Austin 3 Bedroom floor plan?"
     },
     "midjourney_prompt": "top-down architectural floor plan, Austin 3 bedroom apartment, narrow railroad apartment with living room to kitchen to bedroom to bathroom sequence, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-austin-railroad-room-sequence.svg",
+    "image": "/images/floorplans/3-bedroom-austin-railroad-room-sequence.png",
     "city_image": "/images/floorplans/austin.svg"
   },
   {
@@ -1215,7 +1215,7 @@
       "description": "Spot the hidden flaw in this Austin Loft Studio: there is no entry closet or storage zone near the front door."
     },
     "midjourney_prompt": "top-down architectural floor plan, Austin loft studio apartment, front door opening into living room with no closet or built-in storage, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-austin-entry-no-coat-storage.svg",
+    "image": "/images/floorplans/loft-studio-austin-entry-no-coat-storage.png",
     "city_image": "/images/floorplans/austin.svg"
   },
   {
@@ -1245,7 +1245,7 @@
       "description": "Spot the hidden flaw in this Austin Studio: the bedroom window faces an enclosed shaft, giving almost no usable ventilation."
     },
     "midjourney_prompt": "top-down architectural floor plan, Austin studio apartment, bedroom window facing narrow enclosed air shaft, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-austin-bedroom-no-operable-window.svg",
+    "image": "/images/floorplans/studio-austin-bedroom-no-operable-window.png",
     "city_image": "/images/floorplans/austin.svg"
   },
   {
@@ -1275,7 +1275,7 @@
       "description": "Spot the hidden flaw in this Boston 1 Bedroom: the bed wall shares a direct wall with the stove and sink line."
     },
     "midjourney_prompt": "top-down architectural floor plan, Boston 1 bedroom apartment, bedroom bed wall directly against kitchen appliance wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-boston-bedroom-backs-kitchen.svg",
+    "image": "/images/floorplans/1-bedroom-boston-bedroom-backs-kitchen.png",
     "city_image": "/images/floorplans/boston.svg"
   },
   {
@@ -1305,7 +1305,7 @@
       "description": "Spot the hidden flaw in this Boston 2 Bedroom: the bedroom has no direct egress window or alternate emergency exit shown."
     },
     "midjourney_prompt": "top-down architectural floor plan, Boston 2 bedroom apartment, bedroom surrounded by interior walls with no egress window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-boston-bedroom-no-egress-path.svg",
+    "image": "/images/floorplans/2-bedroom-boston-bedroom-no-egress-path.png",
     "city_image": "/images/floorplans/boston.svg"
   },
   {
