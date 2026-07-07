@@ -1935,7 +1935,7 @@
       "description": "Spot the hidden flaw in this Houston 3 Bedroom: the bedroom is positioned over an unconditioned garage, making temperature swings likely."
     },
     "midjourney_prompt": "top-down architectural floor plan, Houston 3 bedroom apartment, bedroom footprint above garage zone marked unconditioned, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-houston-bedroom-over-garage-cold.svg",
+    "image": "/images/floorplans/3-bedroom-houston-bedroom-over-garage-cold.png",
     "city_image": "/images/floorplans/houston.svg"
   },
   {
@@ -1965,7 +1965,7 @@
       "description": "Spot the hidden flaw in this Dallas Loft Studio: the water heater closet is located inside the bedroom."
     },
     "midjourney_prompt": "top-down architectural floor plan, Dallas loft studio apartment, water heater closet drawn inside bedroom wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-dallas-water-heater-in-bedroom.svg",
+    "image": "/images/floorplans/loft-studio-dallas-water-heater-in-bedroom.png",
     "city_image": "/images/floorplans/dallas.svg"
   },
   {
@@ -1995,7 +1995,7 @@
       "description": "Spot the hidden flaw in this Dallas Studio: the kitchen is below exterior grade with a grade line against the wall."
     },
     "midjourney_prompt": "top-down architectural floor plan, Dallas studio apartment, kitchen wall cut by exterior grade line, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-dallas-kitchen-below-grade-no-drainage.svg",
+    "image": "/images/floorplans/studio-dallas-kitchen-below-grade-no-drainage.png",
     "city_image": "/images/floorplans/dallas.svg"
   },
   {
@@ -2025,7 +2025,7 @@
       "description": "Spot the hidden flaw in this Detroit 1 Bedroom: the washer hookup is inside the kitchen prep area next to the sink and counters."
     },
     "midjourney_prompt": "top-down architectural floor plan, Detroit 1 bedroom apartment, washer dryer symbols inside kitchen counter run, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-detroit-laundry-drains-through-kitchen.svg",
+    "image": "/images/floorplans/1-bedroom-detroit-laundry-drains-through-kitchen.png",
     "city_image": "/images/floorplans/detroit.svg"
   },
   {
@@ -2055,7 +2055,7 @@
       "description": "Spot the hidden flaw in this Detroit 2 Bedroom: the kitchen island is the only separation between sleeping and living zones."
     },
     "midjourney_prompt": "top-down architectural floor plan, Detroit 2 bedroom apartment, studio with kitchen island between bed and living area, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-detroit-kitchen-is-room-divider-only.svg",
+    "image": "/images/floorplans/2-bedroom-detroit-kitchen-is-room-divider-only.png",
     "city_image": "/images/floorplans/detroit.svg"
   },
   {
@@ -2085,7 +2085,7 @@
       "description": "Spot the hidden flaw in this Philadelphia 3 Bedroom: the bathroom is drawn too tight for basic turning clearance."
     },
     "midjourney_prompt": "top-down architectural floor plan, Philadelphia 3 bedroom apartment, tiny bathroom with door swing hitting fixture clearance, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-philadelphia-bathroom-too-tight-clearance.svg",
+    "image": "/images/floorplans/3-bedroom-philadelphia-bathroom-too-tight-clearance.png",
     "city_image": "/images/floorplans/philadelphia.svg"
   },
   {
@@ -2115,7 +2115,7 @@
       "description": "Spot the hidden flaw in this Philadelphia Loft Studio: the bed placement blocks the only clear path to the bedroom door."
     },
     "midjourney_prompt": "top-down architectural floor plan, Philadelphia loft studio apartment, bed rectangle intruding into bedroom door path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-philadelphia-bedroom-egress-blocked-by-furniture.svg",
+    "image": "/images/floorplans/loft-studio-philadelphia-bedroom-egress-blocked-by-furniture.png",
     "city_image": "/images/floorplans/philadelphia.svg"
   },
   {
@@ -2145,7 +2145,7 @@
       "description": "Spot the hidden flaw in this Pittsburgh Studio: the toilet and shower are separated from the sink by a hallway."
     },
     "midjourney_prompt": "top-down architectural floor plan, Pittsburgh studio apartment, toilet shower room separated from sink across hall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-pittsburgh-bathroom-split-fixtures.svg",
+    "image": "/images/floorplans/studio-pittsburgh-bathroom-split-fixtures.png",
     "city_image": "/images/floorplans/pittsburgh.svg"
   },
   {
@@ -2175,7 +2175,7 @@
       "description": "Spot the hidden flaw in this Pittsburgh 1 Bedroom: a standard sofa would block the only balcony door."
     },
     "midjourney_prompt": "top-down architectural floor plan, Pittsburgh 1 bedroom apartment, sofa footprint across balcony door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-pittsburgh-sofa-blocks-balcony.svg",
+    "image": "/images/floorplans/1-bedroom-pittsburgh-sofa-blocks-balcony.png",
     "city_image": "/images/floorplans/pittsburgh.svg"
   },
   {
@@ -2205,7 +2205,7 @@
       "description": "Spot the hidden flaw in this Baltimore 2 Bedroom: the original dining room is being counted as a bedroom."
     },
     "midjourney_prompt": "top-down architectural floor plan, Baltimore 2 bedroom apartment, dining room with cased opening labeled bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-baltimore-dining-room-labeled-bedroom.svg",
+    "image": "/images/floorplans/2-bedroom-baltimore-dining-room-labeled-bedroom.png",
     "city_image": "/images/floorplans/baltimore.svg"
   },
   {
