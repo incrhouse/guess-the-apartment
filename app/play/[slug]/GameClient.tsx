@@ -97,6 +97,12 @@ export default function GameClient({ entry, nextSlug }: Props) {
             )}
           </div>
         </div>
+        {entry.context && (
+          <div className="mt-12 border-t-2 border-ink pt-8">
+            <p className="font-mono text-xs text-authority uppercase tracking-widest mb-3">About This Layout</p>
+            <p className="text-sm text-ink leading-relaxed max-w-3xl">{entry.context}</p>
+          </div>
+        )}
       </main>
       <footer className="border-t-2 border-ink mt-16 px-6 py-8">
         <p className="font-mono text-xs text-muted">{new Date().getFullYear()} Guess The Apartment &mdash; Created by Mr. Bumbi Unicorn</p>

@@ -16,4 +16,5 @@ export interface ApartmentEntry {
   }
   midjourney_prompt: string
   image?: string
+  context?: string
 }

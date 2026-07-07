@@ -27,7 +27,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, NYC studio apartment, 400 square feet, bathroom only accessible through sleeping alcove, galley kitchen along one wall, no entryway, clean minimal line drawing style, white background, black lines, labeled rooms, architectural blueprint aesthetic",
     "image": "/images/floorplans/studio-nyc-bathroom-through-bedroom.png",
-    "city_image": "/images/floorplans/new-york-city.svg"
+    "city_image": "/images/floorplans/new-york-city.svg",
+    "context": "Pre-war New York City studios built before 1940 frequently placed bathrooms at the interior of the unit, accessible only through sleeping alcoves, due to the era plumbing constraints and building codes. This layout was standard in tenement and railroad-style buildings where pipes ran through the center of the structure. Modern NYC building code requires direct hallway access to bathrooms, but existing units are often grandfathered in, leaving renters to deal with a layout that makes overnight guests or roommates practically impossible."
   },
   {
     "id": "GTA-002",
@@ -58,7 +59,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Chicago courtyard apartment, 1 bedroom, no closet in bedroom, bathroom off hallway, galley kitchen, small living room, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, circa 1920s building layout",
     "image": "/images/floorplans/1bed-chicago-no-closet-bedroom.png",
-    "city_image": "/images/floorplans/chicago.svg"
+    "city_image": "/images/floorplans/chicago.svg",
+    "context": "Chicago courtyard apartments built in the 1890s through 1920s routinely omitted bedroom closets because closets were historically taxed as separate rooms in some municipalities, making them a financial liability for developers. This means renters must budget for freestanding wardrobes that consume valuable floor space and cannot be recouped when moving. Always measure bedroom square footage independently and check for closet space before signing a Chicago lease, especially in greystone or courtyard buildings."
   },
   {
     "id": "GTA-003",
@@ -89,7 +91,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Austin Texas 2 bedroom apartment, converted house unit, front door opening directly into master bedroom, no entryway buffer, second bedroom off hallway, small kitchen at rear, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2bed-austin-front-door-into-bedroom.png",
-    "city_image": "/images/floorplans/austin.svg"
+    "city_image": "/images/floorplans/austin.svg",
+    "context": "This layout flaw is most common in Austin single-family homes that were cheaply subdivided into multi-unit rentals during the city rapid growth period. Rather than investing in proper entryway construction, landlords simply added a door to an existing exterior wall, whichever wall faced the street, regardless of which room sat behind it. Every delivery, maintenance visit, or casual guest immediately enters the most private room in the home, with no transition space whatsoever."
   },
   {
     "id": "GTA-004",
@@ -120,7 +123,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, San Francisco Victorian studio apartment, interior kitchen with no exterior wall access, no window in kitchen, bathroom off main room, sleeping alcove, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, narrow lot building",
     "image": "/images/floorplans/studio-sf-kitchen-no-ventilation.png",
-    "city_image": "/images/floorplans/san-francisco.svg"
+    "city_image": "/images/floorplans/san-francisco.svg",
+    "context": "San Francisco Victorian and Edwardian housing stock, built between 1880 and 1915, frequently features interior kitchens positioned against shared walls rather than exterior walls. At the time of construction, cooking relied heavily on wood and coal stoves with their own flue systems. When those stoves were replaced with modern gas ranges, the original ventilation infrastructure was often removed, leaving landlocked kitchens with no replacement ventilation system. Cooking anything beyond simple meals fills the entire studio."
   },
   {
     "id": "GTA-005",
@@ -151,7 +155,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Brooklyn railroad apartment, rooms in straight line sequence, no hallway, living room connects to kitchen connects to bedroom connects to bathroom, narrow building footprint, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, pre-war building",
     "image": "/images/floorplans/1bed-brooklyn-railroad-layout.png",
-    "city_image": "/images/floorplans/brooklyn.svg"
+    "city_image": "/images/floorplans/brooklyn.svg",
+    "context": "Railroad apartments, named because their rooms line up in sequence like train cars, were the dominant housing type in Brooklyn late 19th century tenement construction. They maximized unit count per building by eliminating hallways entirely, using each room as the circulation path to the next. While some renters find them charming, the layout completely eliminates privacy: reaching the bedroom requires walking through the living room and kitchen, and reaching the bathroom requires passing through the bedroom."
   },
   {
     "id": "GTA-006",
@@ -182,7 +187,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Miami condo apartment, 2 bedroom, second bedroom interior with no exterior wall or window, master bedroom with balcony access, open plan kitchen living area, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, modern high-rise building",
     "image": "/images/floorplans/2bed-miami-second-bedroom-no-window.png",
-    "city_image": "/images/floorplans/miami.svg"
+    "city_image": "/images/floorplans/miami.svg",
+    "context": "Florida building codes require a habitable room to have window area equal to at least 10 percent of the floor area for ventilation and natural light. A completely interior room with no exterior wall access technically fails this standard and cannot legally be rented as a bedroom. Miami condo conversion market frequently creates these windowless interior rooms by subdividing large floor plates into smaller units, relabeling storage or den spaces as bedrooms to justify higher rents."
   },
   {
     "id": "GTA-007",
@@ -213,7 +219,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Seattle studio apartment, all windows facing interior alley, no street-facing windows, kitchen along interior wall, sleeping area with alley exposure, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, mixed-use building",
     "image": "/images/floorplans/studio-seattle-bedroom-facing-alley.png",
-    "city_image": "/images/floorplans/seattle.svg"
+    "city_image": "/images/floorplans/seattle.svg",
+    "context": "Seattle mixed-use urban development places residential units directly adjacent to commercial loading zones, restaurant exhaust systems, and waste disposal areas. A studio apartment where the only operable windows face an active service alley receives constant noise from delivery trucks, dumpsters, and exhaust fans during all hours. Beyond the noise issue, alley-facing units often receive less direct sunlight than street-facing units, reducing natural light throughout the day."
   },
   {
     "id": "GTA-008",
@@ -244,7 +251,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Denver 1 bedroom apartment, stacked washer dryer unit positioned in kitchen area beside refrigerator, no utility closet, bathroom off hallway, bedroom at rear, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, 1970s building conversion",
     "image": "/images/floorplans/1bed-denver-washer-dryer-in-kitchen.png",
-    "city_image": "/images/floorplans/denver.svg"
+    "city_image": "/images/floorplans/denver.svg",
+    "context": "Denver older apartment stock was built before in-unit laundry was a standard amenity. When landlords retrofitted these buildings for laundry hookups without creating dedicated utility closets, the only available space was often in the kitchen. This creates a combination of humidity from the washer, vibration from both machines, and appliance noise directly in the food preparation zone. It also permanently occupies counter or pantry space that would otherwise support daily cooking."
   },
   {
     "id": "GTA-009",
@@ -275,7 +283,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Boston brownstone apartment, second bedroom created by partition wall dividing original living room, second bedroom has two doors and no closet, shares wall with remaining living area, original bedroom at rear, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2bed-boston-bedroom-converted-living-room.png",
-    "city_image": "/images/floorplans/boston.svg"
+    "city_image": "/images/floorplans/boston.svg",
+    "context": "Boston tight rental market creates significant financial pressure to maximize bedroom count per unit. Landlords frequently convert large living rooms into second bedrooms by installing partition walls, turning a coherent shared space into two undersized rooms. The resulting bedroom typically has two entry points, shares every wall with common areas, lacks a proper closet, and provides minimal privacy. The floor plan giveaway is a bedroom that has no logical reason to exist in its current position."
   },
   {
     "id": "GTA-010",
@@ -306,7 +315,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Los Angeles micro studio apartment, murphy bed mounted on same wall as only window, kitchen along opposite wall, bathroom at entry, clean minimal line drawing, white background, black lines, labeled rooms with murphy bed shown in folded down position blocking window, architectural blueprint style",
     "image": "/images/floorplans/studio-la-murphy-bed-blocks-window.png",
-    "city_image": "/images/floorplans/los-angeles.svg"
+    "city_image": "/images/floorplans/los-angeles.svg",
+    "context": "Los Angeles micro-unit housing market has grown significantly as rents have increased, creating demand for sub-400 square foot studios. Murphy beds are marketed as space-saving solutions, but poor placement decisions can create new problems as significant as the ones they solve. When the fold-down mechanism is mounted on the same wall as the unit only operable window, using the bed eliminates all natural light and ventilation simultaneously, turning the solution into a different kind of compromise."
   },
   {
     "id": "GTA-011",
@@ -337,7 +347,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Portland Oregon bungalow conversion apartment, bathroom door opening directly into kitchen with no hallway buffer, bedroom at rear of unit, living room at front, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, early 1900s building",
     "image": "/images/floorplans/1bed-portland-bathroom-off-kitchen.png",
-    "city_image": "/images/floorplans/portland.svg"
+    "city_image": "/images/floorplans/portland.svg",
+    "context": "Portland bungalow housing stock, built primarily between 1905 and 1930, was designed as single-family residences with bathrooms that were often positioned near the kitchen for shared plumbing efficiency. When these homes were later converted to multi-unit apartments, the original plumbing layout was typically preserved to minimize renovation costs. Oregon building code generally prohibits bathrooms from opening directly into food preparation areas in new construction, but existing units with this layout are grandfathered under older standards."
   },
   {
     "id": "GTA-012",
@@ -368,7 +379,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Atlanta 2 bedroom apartment, two bedrooms sharing direct wall with no closet or bathroom buffer between them, living room and kitchen in open plan at front, single bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2bed-atlanta-bedrooms-share-one-wall-paper-thin.png",
-    "city_image": "/images/floorplans/atlanta.svg"
+    "city_image": "/images/floorplans/atlanta.svg",
+    "context": "Well-designed multi-bedroom apartments buffer sleeping rooms from each other using closets, bathrooms, or hallways positioned between bedroom walls. These buffer zones absorb sound and create meaningful acoustic separation between occupants. When two bedrooms share a direct wall with nothing between them, conversations, alarm clocks, and movement are fully audible from one room to the other. This layout flaw is particularly common in Atlanta suburban apartment complexes built quickly during the 1990s and 2000s."
   },
   {
     "id": "GTA-013",
@@ -399,7 +411,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Washington DC studio apartment, front door opens with direct sight line to bed with no visual buffer, kitchen along side wall, bathroom off entry, sleeping area at far end but fully visible from door, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-dc-no-separation-sleeping-living.png",
-    "city_image": "/images/floorplans/washington-dc.svg"
+    "city_image": "/images/floorplans/washington-dc.svg",
+    "context": "Washington DC studio market includes many older apartment buildings from the 1950s through 1970s that were designed with open floor plans and minimal interior division. Without any transition zone between the entry and the sleeping area, the apartment functions poorly for remote workers who need visual separation between their professional and personal spaces. A well-designed studio places the bed furthest from the door and uses storage walls, dividers, or built-ins to create at least a visual buffer."
   },
   {
     "id": "GTA-014",
@@ -430,7 +443,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Nashville new construction 1 bedroom apartment, walk-in closet visibly larger than the bedroom it is attached to, open plan kitchen living area, bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms with square footage annotations, architectural blueprint style, modern building",
     "image": "/images/floorplans/1bed-nashville-closet-bigger-than-bedroom.png",
-    "city_image": "/images/floorplans/nashville.svg"
+    "city_image": "/images/floorplans/nashville.svg",
+    "context": "Nashville luxury apartment construction boom has produced buildings where marketing copy emphasizes high-end finishes and amenity spaces while quietly reducing the actual dimensions of sleeping rooms. Developers sometimes allocate oversized walk-in closets as a high-value marketing term while shrinking the adjacent bedroom to compensate within the unit fixed square footage. Renters should always request bedroom dimensions in inches rather than relying on total unit square footage when evaluating Nashville apartments."
   },
   {
     "id": "GTA-015",
@@ -461,7 +475,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan with compass orientation shown, Phoenix Arizona 2 bedroom apartment, all primary windows on west-facing wall, living room and both bedrooms facing west, no shade overhangs indicated, kitchen and bathroom on east interior side, clean minimal line drawing, white background, black lines, labeled rooms, north arrow indicator, architectural blueprint style",
     "image": "/images/floorplans/2bed-phoenix-no-shade-west-facing-windows.png",
-    "city_image": "/images/floorplans/phoenix.svg"
+    "city_image": "/images/floorplans/phoenix.svg",
+    "context": "In Phoenix, west-facing windows receive direct afternoon sunlight from approximately 1pm until sunset, coinciding with the highest ambient temperatures of the day. Without exterior shading such as overhangs, screens, or landscaping, these windows function as solar heat collectors during the months when air conditioning is most critical. Renters in Phoenix apartments with all-west exposure consistently report higher utility bills and more uncomfortable living conditions than comparable units with mixed or east-facing orientation."
   },
   {
     "id": "GTA-016",
@@ -492,7 +507,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Minneapolis older apartment building studio, cast iron radiator unit shown positioned against primary electrical outlet wall, kitchen alcove, bathroom at entry, sleeping and living area as one room, clean minimal line drawing, white background, black lines, labeled rooms with radiator and outlet symbols marked, architectural blueprint style, pre-1950 building",
     "image": "/images/floorplans/studio-minneapolis-radiator-blocks-only-outlet.png",
-    "city_image": "/images/floorplans/minneapolis.svg"
+    "city_image": "/images/floorplans/minneapolis.svg",
+    "context": "Minneapolis pre-war apartment stock relies heavily on steam radiator heating systems installed in the 1920s and 1930s. These cast iron radiators are connected to the building central boiler through fixed pipe locations and cannot be relocated without major building infrastructure work. When a radiator original placement happens to align with the room primary electrical outlet wall, it creates a permanent conflict: furniture and electronics cannot be safely placed against a hot radiating surface, eliminating the most logical desk and entertainment configuration."
   },
   {
     "id": "GTA-017",
@@ -523,7 +539,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, New Orleans shotgun house apartment conversion, rooms in single file front to back, windows only on front facade and rear wall, no side windows on either long wall, kitchen middle of unit, bedroom at rear, bathroom added at back, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, narrow lot",
     "image": "/images/floorplans/1bed-new-orleans-shotgun-no-cross-ventilation.png",
-    "city_image": "/images/floorplans/new-orleans.svg"
+    "city_image": "/images/floorplans/new-orleans.svg",
+    "context": "New Orleans shotgun houses were designed in the 19th century with cross-ventilation as a primary cooling strategy in the city subtropical climate, before mechanical air conditioning existed. The original design opened doors at both ends of the building to create airflow through every room. When shotgun houses are converted to apartments with closed interior layouts and no side windows installed, the middle rooms lose access to any natural air movement. This turns a historically climate-adaptive building type into one that requires constant mechanical cooling."
   },
   {
     "id": "GTA-018",
@@ -554,7 +571,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan with section elevation indicator, Seattle hillside apartment building, 2 bedroom unit, one bedroom shown below grade level with window well openings instead of standard windows, main living areas at grade level, bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms with grade level indicator, architectural blueprint style",
     "image": "/images/floorplans/2bed-seattle-bedroom-below-grade.png",
-    "city_image": "/images/floorplans/seattle.svg"
+    "city_image": "/images/floorplans/seattle.svg",
+    "context": "Seattle hillside topography creates many apartment buildings where units on the downhill side sit partially or fully below street grade on the uphill side. Bedrooms in these positions receive light only through window wells, concrete or masonry enclosures at ground level that admit some daylight but provide minimal ventilation and a direct view of a retaining wall. Seattle high annual rainfall further increases moisture risk in below-grade rooms, where water table proximity and drainage limitations can lead to ongoing dampness."
   },
   {
     "id": "GTA-019",
@@ -585,7 +603,8 @@
     },
     "midjourney_prompt": "top-down and section architectural floor plan, NYC loft studio apartment, upper sleeping loft level accessible only by fixed vertical ladder shown in section view, main floor with open kitchen living area, bathroom at entry level, loft platform visible in section, clean minimal line drawing, white background, black lines, labeled rooms and levels, architectural blueprint style, converted industrial building",
     "image": "/images/floorplans/studio-nyc-loft-no-bedroom-separation.png",
-    "city_image": "/images/floorplans/new-york-city.svg"
+    "city_image": "/images/floorplans/new-york-city.svg",
+    "context": "New York City industrial loft conversion market, concentrated in neighborhoods like SoHo, Tribeca, and Williamsburg, frequently creates sleeping lofts accessible only by fixed vertical ladders rather than code-compliant stairs. This approach maximizes usable floor area on the main level while adding a dedicated sleeping zone, but the practical daily consequences are significant. Carrying any object such as laundry, water, or phone chargers requires careful two-handed climbing, and nighttime bathroom trips become a safety consideration."
   },
   {
     "id": "GTA-020",
@@ -616,7 +635,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Chicago worker apartment 1 bedroom, Pullman kitchen running along one wall of main hallway corridor, stove and counter in traffic path, bedroom at rear, living room at front, bathroom off hallway, clean minimal line drawing, white background, black lines, labeled rooms, architectural blueprint style, early 1900s dense urban building",
     "image": "/images/floorplans/1bed-chicago-kitchen-in-hallway.png",
-    "city_image": "/images/floorplans/chicago.svg"
+    "city_image": "/images/floorplans/chicago.svg",
+    "context": "Chicago Pullman kitchen layout dates to the early 20th century worker apartment buildings constructed to house industrial laborers near the Union Stock Yards and manufacturing districts. These units maximized bedroom count by reducing common space to a minimum, placing the entire kitchen along one wall of the main corridor. The result positions cooking activity directly in the circulation path of the apartment, where anyone moving between rooms must pass immediately behind the cook, creating ongoing safety conflicts."
   },
   {
     "id": "GTA-021",
@@ -646,7 +666,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, New York City studio apartment, bathroom placed behind bedroom with no alternate hallway route, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-new-york-city-bathroom-through-bedroom.png",
-    "city_image": "/images/floorplans/new-york-city.svg"
+    "city_image": "/images/floorplans/new-york-city.svg",
+    "context": "Pre-war New York City studios often placed bathrooms at the back of sleeping alcoves due to plumbing placement constraints in buildings constructed before 1940. Any guest or visitor must walk through the private sleeping area to access the bathroom, eliminating the separation between public and private space. This layout is one of the most frequently cited complaints among NYC studio renters who entertain guests or share space with roommates."
   },
   {
     "id": "GTA-022",
@@ -676,7 +697,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, New York City 1 bedroom apartment, bedroom shown without any closet rectangle or storage niche, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-new-york-city-bedroom-no-closet.png",
-    "city_image": "/images/floorplans/new-york-city.svg"
+    "city_image": "/images/floorplans/new-york-city.svg",
+    "context": "New York City apartments built before 1940 frequently omitted bedroom closets due to period building practices where closets were sometimes counted as taxable rooms. Without built-in storage, renters must purchase freestanding wardrobes that consume floor space and reduce the room already limited square footage. This detail is easy to overlook during a quick apartment tour and often surfaces only after move-in."
   },
   {
     "id": "GTA-023",
@@ -706,7 +728,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, New York City 2 bedroom apartment, interior kitchen surrounded by rooms with no exterior wall or window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-new-york-city-interior-kitchen-no-vent.png",
-    "city_image": "/images/floorplans/new-york-city.svg"
+    "city_image": "/images/floorplans/new-york-city.svg",
+    "context": "Interior kitchens surrounded by other rooms with no access to an exterior wall are common in large floor-plate New York City apartment buildings. Without a window or proper ventilation hood, cooking smoke, grease particles, and cooking odors have no path to exit the apartment. This affects air quality throughout the entire unit and can permanently stain walls and ceilings over time."
   },
   {
     "id": "GTA-024",
@@ -736,7 +759,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Chicago 3 bedroom apartment, two bedrooms touching along a long shared wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-chicago-bedrooms-share-direct-wall.png",
-    "city_image": "/images/floorplans/chicago.svg"
+    "city_image": "/images/floorplans/chicago.svg",
+    "context": "Chicago three-bedroom apartments built during rapid postwar construction often placed bedrooms back-to-back without acoustic buffers between them. Well-designed multi-bedroom layouts use closets, bathrooms, or hallways to absorb sound between sleeping rooms. A direct shared wall allows conversations, alarms, and movement to transfer fully between bedrooms, making shared occupancy difficult."
   },
   {
     "id": "GTA-025",
@@ -766,7 +790,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Chicago loft studio apartment, second bedroom fully interior with no window gap, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-chicago-second-bedroom-no-window.png",
-    "city_image": "/images/floorplans/chicago.svg"
+    "city_image": "/images/floorplans/chicago.svg",
+    "context": "Chicago loft conversions frequently create interior secondary bedrooms by subdividing large open floor plans. Without access to an exterior wall, these rooms cannot include a window, which is required for emergency egress and natural ventilation under most housing codes. A windowless room may be rentable as a den or office but falls short of the standard expected for a sleeping room."
   },
   {
     "id": "GTA-026",
@@ -796,7 +821,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Chicago studio apartment, front door located on bedroom exterior wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-chicago-front-door-into-bedroom.png",
-    "city_image": "/images/floorplans/chicago.svg"
+    "city_image": "/images/floorplans/chicago.svg",
+    "context": "When a studio apartment front door opens directly into the sleeping area, every visitor, delivery person, and maintenance worker immediately enters the most private room in the home. This is most common in Chicago buildings where studios were carved from larger units without relocating the original exterior door. There is no transition zone, no visual buffer, and no ability to maintain privacy while still receiving guests."
   },
   {
     "id": "GTA-027",
@@ -826,7 +852,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Los Angeles 1 bedroom apartment, oversized walk-in closet next to undersized bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-los-angeles-bedroom-smaller-than-closet.png",
-    "city_image": "/images/floorplans/los-angeles.svg"
+    "city_image": "/images/floorplans/los-angeles.svg",
+    "context": "Los Angeles luxury apartment marketing heavily emphasizes walk-in closets as a premium amenity. Some developers maximize closet space at the expense of the bedroom itself, creating a room where a queen bed and two nightstands cannot fit alongside basic movement clearances. Renters should always request bedroom dimensions in feet rather than relying on square footage totals or closet descriptions when evaluating LA apartments."
   },
   {
     "id": "GTA-028",
@@ -856,7 +883,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Los Angeles 2 bedroom apartment, all windows on west wall with compass rose showing W, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-los-angeles-west-windows-no-shade.png",
-    "city_image": "/images/floorplans/los-angeles.svg"
+    "city_image": "/images/floorplans/los-angeles.svg",
+    "context": "West-facing windows in Los Angeles receive intense afternoon solar exposure from approximately 1pm until sunset. Without exterior shading from overhangs, louvers, or deep-set window frames, these windows drive heat gain directly into living and sleeping spaces during the warmest part of every day. Renters in all-west exposure LA apartments consistently report higher cooling costs and less comfortable afternoon conditions than comparable units with mixed orientation."
   },
   {
     "id": "GTA-029",
@@ -886,7 +914,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Los Angeles 3 bedroom apartment, cast iron radiator drawn along wall with outlet symbols behind it, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-los-angeles-radiator-blocks-outlet-wall.png",
-    "city_image": "/images/floorplans/los-angeles.svg"
+    "city_image": "/images/floorplans/los-angeles.svg",
+    "context": "Older Los Angeles apartment buildings occasionally used steam or hot water radiators before central forced-air systems became standard. When a fixed radiator shares a wall with the primary electrical outlets in a bedroom, the most functional wall for a desk, television, or bed headboard becomes unusable. Neither the radiator nor the outlet can be easily relocated without significant building work."
   },
   {
     "id": "GTA-030",
@@ -916,7 +945,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, San Francisco loft studio apartment, bedroom labeled below grade with dashed grade line through wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-san-francisco-bedroom-below-grade-window-well.png",
-    "city_image": "/images/floorplans/san-francisco.svg"
+    "city_image": "/images/floorplans/san-francisco.svg",
+    "context": "San Francisco hillside topography creates loft apartments where the sleeping level sits partially below grade on the downhill side of a slope. Bedrooms in this position receive daylight only through window wells, narrow masonry channels that admit limited light and virtually no ventilation. The view from these windows is typically a concrete wall at close range, and San Francisco wet winters increase moisture risk in below-grade sleeping spaces."
   },
   {
     "id": "GTA-031",
@@ -946,7 +976,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, San Francisco studio apartment, bathroom door swinging directly into kitchen, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-san-francisco-bathroom-door-into-kitchen.png",
-    "city_image": "/images/floorplans/san-francisco.svg"
+    "city_image": "/images/floorplans/san-francisco.svg",
+    "context": "San Francisco Victorian flat conversions, common in the Mission, Castro, and Richmond districts, preserved original plumbing locations when converting single-family homes into smaller units. Bathrooms were often placed near kitchen walls to share plumbing stacks, and when entryways were reconfigured, the bathroom door sometimes ended up opening directly into the kitchen. Health codes in most US jurisdictions prohibit this arrangement in new construction, but grandfathered existing units continue to exist throughout the city."
   },
   {
     "id": "GTA-032",
@@ -976,7 +1007,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, San Francisco 1 bedroom apartment, front door aligned directly with bed with no partition, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-san-francisco-front-door-sightline-to-bed.png",
-    "city_image": "/images/floorplans/san-francisco.svg"
+    "city_image": "/images/floorplans/san-francisco.svg",
+    "context": "San Francisco one-bedroom apartments in converted Victorian flats often have minimal entry space and an open sightline from the front door directly to the sleeping area. This happens when the original single-family home room arrangement did not anticipate being divided into smaller units. The absence of any visual buffer means the apartment cannot function comfortably for remote work or casual hosting without rearranging the bed away from its most logical position."
   },
   {
     "id": "GTA-033",
@@ -1006,7 +1038,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Brooklyn 2 bedroom apartment, loft studio with vertical ladder symbol instead of stairs, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-brooklyn-ladder-to-loft-bed.png",
-    "city_image": "/images/floorplans/brooklyn.svg"
+    "city_image": "/images/floorplans/brooklyn.svg",
+    "context": "Brooklyn loft conversions in former industrial and warehouse buildings frequently create elevated sleeping platforms accessible only by vertical ladders, maximizing floor space below while adding a dedicated sleeping zone. The daily reality is less appealing than listing photos suggest: carrying laundry, books, or water to bed requires careful two-handed climbing. Nighttime trips to the bathroom become a coordination exercise, and any mobility limitation makes the loft functionally unusable."
   },
   {
     "id": "GTA-034",
@@ -1036,7 +1069,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Brooklyn 3 bedroom apartment, Pullman kitchen running along narrow main corridor, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-brooklyn-kitchen-in-main-hallway.png",
-    "city_image": "/images/floorplans/brooklyn.svg"
+    "city_image": "/images/floorplans/brooklyn.svg",
+    "context": "Brooklyn dense pre-war apartment buildings, particularly in neighborhoods like Bed-Stuy and Crown Heights, sometimes feature Pullman-style kitchens running along the main corridor of the unit. This arrangement positions all cooking activity in the primary circulation path. Hot pans, open burners, and sharp implements become a pedestrian hazard every time another occupant moves through the apartment, and the kitchen workflow is constantly interrupted by through-traffic."
   },
   {
     "id": "GTA-035",
@@ -1066,7 +1100,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Brooklyn loft studio apartment, stacked washer dryer symbols inside kitchen next to refrigerator, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-brooklyn-washer-dryer-in-kitchen.png",
-    "city_image": "/images/floorplans/brooklyn.svg"
+    "city_image": "/images/floorplans/brooklyn.svg",
+    "context": "Brooklyn loft studios retrofitted for in-unit laundry often place washer and dryer units in the kitchen when no dedicated utility closet exists. This creates multiple daily conflicts: laundry humidity affects food storage, vibration from spin cycles disrupts kitchen activity, and the machines permanently occupy space that would otherwise serve as pantry or prep counter. The arrangement is a workaround, not a design feature."
   },
   {
     "id": "GTA-036",
@@ -1096,7 +1131,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Miami studio apartment, murphy bed rectangle folded down across only window wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-miami-murphy-bed-blocks-window.png",
-    "city_image": "/images/floorplans/miami.svg"
+    "city_image": "/images/floorplans/miami.svg",
+    "context": "Miami micro-unit market has grown as rents have increased in Brickell, Wynwood, and Midtown, creating demand for studios under 400 square feet. Murphy beds are often installed to make these units marketable, but poorly placed fold-down mechanisms can eliminate the unit only operable window when the bed is in use. In Miami humid climate, losing the only natural ventilation while sleeping is a significant comfort and air quality concern."
   },
   {
     "id": "GTA-037",
@@ -1126,7 +1162,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Miami 1 bedroom apartment, partition wall cutting through large original living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-miami-partitioned-living-room-bedroom.png",
-    "city_image": "/images/floorplans/miami.svg"
+    "city_image": "/images/floorplans/miami.svg",
+    "context": "Miami rental market has seen widespread informal conversion of one-bedroom apartments into two-bedroom units by landlords who add partition walls to divide living rooms. The resulting second bedroom typically has no dedicated closet, no logical furniture wall, multiple entry points, and paper-thin shared walls with the main living area. The floor plan giveaway is a bedroom that interrupts the natural flow of the original space rather than occupying a purpose-built room."
   },
   {
     "id": "GTA-038",
@@ -1156,7 +1193,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Miami 2 bedroom apartment, all window gaps on wall labeled service alley, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-miami-all-windows-face-alley.png",
-    "city_image": "/images/floorplans/miami.svg"
+    "city_image": "/images/floorplans/miami.svg",
+    "context": "Miami two-bedroom apartments in mixed-use urban buildings sometimes have all window exposure facing service alleys rather than streets or courtyards. While the windows technically exist and provide some light, alley exposure brings noise from waste pickup, delivery trucks, and commercial kitchen exhaust vents. In Miami warm climate, the inability to open windows without noise intrusion affects daily ventilation options throughout the year."
   },
   {
     "id": "GTA-039",
@@ -1186,7 +1224,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Austin 3 bedroom apartment, narrow railroad apartment with living room to kitchen to bedroom to bathroom sequence, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-austin-railroad-room-sequence.png",
-    "city_image": "/images/floorplans/austin.svg"
+    "city_image": "/images/floorplans/austin.svg",
+    "context": "Austin rapid population growth has increased demand for multi-bedroom rentals in older housing stock that was not designed for multiple unrelated occupants. Railroad-plan three-bedroom apartments, where rooms connect sequentially without hallways, create significant privacy problems when more than one person lives in the unit. Moving from the front of the apartment to the back requires walking through every room in sequence, eliminating any ability to keep spaces functionally separate."
   },
   {
     "id": "GTA-040",
@@ -1216,7 +1255,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Austin loft studio apartment, front door opening into living room with no closet or built-in storage, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-austin-entry-no-coat-storage.png",
-    "city_image": "/images/floorplans/austin.svg"
+    "city_image": "/images/floorplans/austin.svg",
+    "context": "Austin loft studios converted from commercial or light industrial spaces often include large open floor areas but minimal built-in storage near the entry. Without a coat closet or entry cabinet, everyday items such as shoes, bags, coats, umbrellas, and cleaning equipment have nowhere to go except the main living area. This single missing detail creates persistent clutter that makes even a spacious loft feel disorganized."
   },
   {
     "id": "GTA-041",
@@ -1246,7 +1286,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Austin studio apartment, bedroom window facing narrow enclosed air shaft, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-austin-bedroom-no-operable-window.png",
-    "city_image": "/images/floorplans/austin.svg"
+    "city_image": "/images/floorplans/austin.svg",
+    "context": "Austin studio apartments in dense urban infill buildings sometimes have sleeping areas positioned against interior courtyards, light wells, or air shafts rather than exterior walls with street exposure. A window facing a narrow enclosed shaft provides minimal daylight and very limited ventilation, since there is no meaningful airflow through such a confined space. Renters should always ask what each window faces before assuming a listed window provides usable light or fresh air."
   },
   {
     "id": "GTA-042",
@@ -1276,7 +1317,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Boston 1 bedroom apartment, bedroom bed wall directly against kitchen appliance wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-boston-bedroom-backs-kitchen.png",
-    "city_image": "/images/floorplans/boston.svg"
+    "city_image": "/images/floorplans/boston.svg",
+    "context": "Boston triple-decker and brownstone apartments were often designed with bedroom walls directly against kitchen walls to simplify plumbing and maximize unit count per building. Kitchen noise including clattering dishes, exhaust fans, refrigerator cycling, and early morning activity transfers directly into the bedroom through this shared wall. Light sleepers and anyone with different schedules than their housemates will find this arrangement particularly disruptive."
   },
   {
     "id": "GTA-043",
@@ -1306,7 +1348,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Boston 2 bedroom apartment, bedroom surrounded by interior walls with no egress window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-boston-bedroom-no-egress-path.png",
-    "city_image": "/images/floorplans/boston.svg"
+    "city_image": "/images/floorplans/boston.svg",
+    "context": "Massachusetts building codes require sleeping rooms to have a means of emergency egress, typically a window large enough for exit. A bedroom surrounded entirely by interior walls with no exterior opening fails this standard and may constitute a life-safety violation. Boston dense housing stock includes many such rooms created during informal conversions, and renters should always confirm that bedrooms have compliant egress windows before signing a lease."
   },
   {
     "id": "GTA-044",
@@ -1336,7 +1379,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Boston 3 bedroom apartment, front door sight line directly into bathroom toilet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-boston-bathroom-visible-from-entry.png",
-    "city_image": "/images/floorplans/boston.svg"
+    "city_image": "/images/floorplans/boston.svg",
+    "context": "Boston older brownstone and triple-decker apartments sometimes have bathroom placements that create direct sightlines from the front door to the toilet when the bathroom door is open. This occurs when the bathroom was positioned near the entry for plumbing convenience during the building original construction. While a closed bathroom door addresses the problem temporarily, the plan creates ongoing awkward exposure during the normal flow of apartment life."
   },
   {
     "id": "GTA-045",
@@ -1366,7 +1410,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Seattle loft studio apartment, large bathroom dominating floor plan with tiny living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-seattle-bathroom-bigger-than-living.png",
-    "city_image": "/images/floorplans/seattle.svg"
+    "city_image": "/images/floorplans/seattle.svg",
+    "context": "Seattle loft studios in converted warehouse and industrial buildings sometimes feature oversized bathrooms that were part of the original building infrastructure, preserved during conversion because relocating plumbing is expensive. The resulting unit has a spa-like bathroom that consumes a disproportionate share of the floor plan, leaving the actual living area too small to accommodate basic furniture comfortably."
   },
   {
     "id": "GTA-046",
@@ -1396,7 +1441,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Seattle studio apartment, large south facing window wall with no overhang, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-seattle-south-glass-no-overhang.png",
-    "city_image": "/images/floorplans/seattle.svg"
+    "city_image": "/images/floorplans/seattle.svg",
+    "context": "Seattle climate is primarily overcast, but summer months bring extended direct sunlight. South-facing glass without exterior overhangs allows low-angle summer sun to penetrate deeply into rooms during the hottest part of the year. While this can be a benefit in winter, unshaded south glass in Seattle studios can cause overheating during the increasingly warm Pacific Northwest summers, particularly in top-floor units with poor natural cooling options."
   },
   {
     "id": "GTA-047",
@@ -1426,7 +1472,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Denver 1 bedroom apartment, electrical panel shown inside only closet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-denver-electrical-panel-in-closet.png",
-    "city_image": "/images/floorplans/denver.svg"
+    "city_image": "/images/floorplans/denver.svg",
+    "context": "Denver apartment buildings from the 1960s and 1970s frequently locate electrical panels in bedroom or hallway closets, where they were accessible but out of sight. Electrical code requires a minimum 30-inch wide clear working space in front of panels at all times. This restriction prevents the closet from being used for dense storage, effectively reducing advertised closet space to a restricted utility zone that cannot safely hold clothing or household goods."
   },
   {
     "id": "GTA-048",
@@ -1456,7 +1503,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Denver 2 bedroom apartment, living room below grade line with small high windows, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-denver-living-room-half-underground.png",
-    "city_image": "/images/floorplans/denver.svg"
+    "city_image": "/images/floorplans/denver.svg",
+    "context": "Denver hillside and garden-level apartment buildings often place living rooms partially below grade on the downhill side of sloped lots. These below-grade rooms receive light through small, high windows that admit limited daylight and no meaningful view. Denver cold winters mean below-grade rooms also struggle with moisture from snow melt and ground contact, creating conditions that can affect flooring, walls, and air quality over time."
   },
   {
     "id": "GTA-049",
@@ -1486,7 +1534,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Atlanta 3 bedroom apartment, toilet and stove back to back on thin shared wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-atlanta-toilet-beside-stove-wall.png",
-    "city_image": "/images/floorplans/atlanta.svg"
+    "city_image": "/images/floorplans/atlanta.svg",
+    "context": "Atlanta apartment buildings where kitchen and bathroom plumbing share a wall sometimes place the toilet directly behind the cooking zone. This arrangement prioritizes building infrastructure efficiency over occupant comfort. The proximity creates hygiene associations that are difficult to ignore and signals a plan designed around pipe locations rather than how people actually live in the space."
   },
   {
     "id": "GTA-050",
@@ -1516,7 +1565,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Atlanta loft studio apartment, desk rectangle in direct path from entry to bed, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-atlanta-work-zone-in-sleep-path.png",
-    "city_image": "/images/floorplans/atlanta.svg"
+    "city_image": "/images/floorplans/atlanta.svg",
+    "context": "Atlanta loft studios with open floor plans sometimes position the only logical desk location in the primary circulation path between the entry and the sleeping area. This forces a choice between a functional workspace and unobstructed movement through the apartment. Remote workers who host video calls or need a dedicated work environment find this arrangement particularly disruptive, since the desk becomes both a workspace and an obstacle."
   },
   {
     "id": "GTA-051",
@@ -1546,7 +1596,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Washington DC studio apartment, bedroom level accessed by tight spiral stair symbol, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-washington-dc-spiral-stair-only-bedroom.png",
-    "city_image": "/images/floorplans/washington-dc.svg"
+    "city_image": "/images/floorplans/washington-dc.svg",
+    "context": "Washington DC studio apartments in converted rowhouses and historic buildings sometimes use tight spiral staircases to access elevated sleeping lofts while minimizing the footprint of the vertical circulation element. A spiral stair typically has a diameter of 48 to 60 inches and cannot accommodate a normal mattress, dresser, or any large furniture, making the sleeping loft essentially unfurnishable beyond a mattress on the floor."
   },
   {
     "id": "GTA-052",
@@ -1576,7 +1627,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Washington DC 1 bedroom apartment, front door swing overlapping kitchen stove zone, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-washington-dc-stove-beside-front-door.png",
-    "city_image": "/images/floorplans/washington-dc.svg"
+    "city_image": "/images/floorplans/washington-dc.svg",
+    "context": "Washington DC apartment conversions in rowhouses and multi-unit buildings sometimes place kitchen appliances near the original exterior entry door to keep plumbing and gas connections close to existing infrastructure. When the stove sits within the door swing radius, entering and exiting the apartment creates a safety conflict with hot burners, pot handles, and open flames. This layout is particularly dangerous in narrow galley configurations."
   },
   {
     "id": "GTA-053",
@@ -1606,7 +1658,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Nashville 2 bedroom apartment, refrigerator drawn across living area from stove and sink, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-nashville-fridge-across-living-room.png",
-    "city_image": "/images/floorplans/nashville.svg"
+    "city_image": "/images/floorplans/nashville.svg",
+    "context": "Nashville new construction apartment market has produced some layouts where kitchen design prioritizes visual appeal over functional workflow. The kitchen work triangle connecting sink, stove, and refrigerator is a basic planning principle that makes cooking efficient. When the refrigerator is separated from the stove and sink by the full width of a living area, every cooking task that involves the refrigerator requires crossing the living room, making meal preparation unnecessarily disruptive."
   },
   {
     "id": "GTA-054",
@@ -1636,7 +1689,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Nashville 3 bedroom apartment, queen bed rectangle overlapping closet door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-nashville-bed-blocks-closet.png",
-    "city_image": "/images/floorplans/nashville.svg"
+    "city_image": "/images/floorplans/nashville.svg",
+    "context": "Nashville three-bedroom apartments in new construction sometimes have bedrooms where the only viable bed placement positions the bed frame directly in front of the closet door swing. This means either the bed cannot be in its natural position, or the closet cannot be opened fully. The conflict reveals a room that was planned to meet minimum square footage requirements without verifying that the space could accommodate both a normal bed and functional storage access simultaneously."
   },
   {
     "id": "GTA-055",
@@ -1666,7 +1720,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Portland loft studio apartment, small bedroom carved from common area with two doors, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-portland-bedroom-with-two-doors-no-closet.png",
-    "city_image": "/images/floorplans/portland.svg"
+    "city_image": "/images/floorplans/portland.svg",
+    "context": "Portland loft studios where a secondary sleeping area was created by enclosing part of a common area often show the telltale signs of informal conversion: two entry points, no closet, and walls shared with the main living space on multiple sides. These rooms were not designed as bedrooms and typically cannot provide the privacy, storage, or acoustic separation that a rented bedroom is expected to deliver."
   },
   {
     "id": "GTA-056",
@@ -1696,7 +1751,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Portland studio apartment, windows opening to narrow gap with brick wall label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-portland-only-windows-face-brick-wall.png",
-    "city_image": "/images/floorplans/portland.svg"
+    "city_image": "/images/floorplans/portland.svg",
+    "context": "Portland studio apartments in dense urban infill buildings sometimes have their only operable windows facing a neighboring structure at close range. When the adjacent building is a brick wall several feet away, the window provides minimal daylight since light bounces off masonry rather than open sky, and very limited ventilation due to the lack of meaningful airflow in the narrow gap between buildings."
   },
   {
     "id": "GTA-057",
@@ -1726,7 +1782,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Phoenix 1 bedroom apartment, kitchen tucked beyond bedroom with no hallway connection, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-phoenix-bedroom-only-path-to-kitchen.png",
-    "city_image": "/images/floorplans/phoenix.svg"
+    "city_image": "/images/floorplans/phoenix.svg",
+    "context": "Phoenix single-family homes converted to multi-unit rentals sometimes produced layouts where the kitchen was positioned at the rear of the original structure and the bedroom was inserted between the entry and the kitchen with no dedicated corridor around it. This makes everyday kitchen access require walking through the bedroom every time. For anyone with different schedules than other occupants, this layout eliminates any practical boundary between sleeping and food preparation activity."
   },
   {
     "id": "GTA-058",
@@ -1756,7 +1813,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Phoenix 2 bedroom apartment, small bedroom with bed clearance and no closet forcing wardrobe into pathway, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-phoenix-tiny-bedroom-lost-to-wardrobes.png",
-    "city_image": "/images/floorplans/phoenix.svg"
+    "city_image": "/images/floorplans/phoenix.svg",
+    "context": "Phoenix two-bedroom apartments that lack closets in one room force renters to purchase freestanding wardrobes that consume meaningful floor area. A room that appears to have adequate square footage on paper can become functionally cramped once a wardrobe, bed, and minimum movement clearances are all placed simultaneously. Renters should always test furniture placement mentally before signing a lease on any room without built-in storage."
   },
   {
     "id": "GTA-059",
@@ -1786,7 +1844,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Minneapolis 3 bedroom apartment, interior bathroom with no fan symbol and no window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-minneapolis-bathroom-no-fan.png",
-    "city_image": "/images/floorplans/minneapolis.svg"
+    "city_image": "/images/floorplans/minneapolis.svg",
+    "context": "Minneapolis three-bedroom apartments in pre-1950 buildings frequently have interior bathrooms without operable windows or mechanical ventilation fans. Without any air movement path, shower steam, moisture, and odors accumulate in the bathroom and migrate into adjacent rooms. Over time, trapped moisture promotes mold growth on grout, caulk, and ceiling surfaces. Minnesota cold climate also means windows are rarely opened for ventilation, making a ventilation fan a functional necessity rather than a luxury."
   },
   {
     "id": "GTA-060",
@@ -1816,7 +1875,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Minneapolis loft studio apartment, bed headboard on wall shared with toilet and shower, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-minneapolis-bathroom-plumbing-at-headboard.png",
-    "city_image": "/images/floorplans/minneapolis.svg"
+    "city_image": "/images/floorplans/minneapolis.svg",
+    "context": "Minneapolis loft studios where the sleeping area backs up to a shared plumbing wall can experience significant noise transfer from toilet flushing, shower drainage, and pipe activity. This is particularly disruptive when the bathroom serves other occupants or guests who use it at different hours than the primary bedroom occupant. Plumbing walls in older buildings often lack sound insulation, making the noise more audible than in newer construction."
   },
   {
     "id": "GTA-061",
@@ -1846,7 +1906,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, New Orleans studio apartment, very small interior room labeled bedroom with minimal clearances, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-new-orleans-closet-labeled-bedroom.png",
-    "city_image": "/images/floorplans/new-orleans.svg"
+    "city_image": "/images/floorplans/new-orleans.svg",
+    "context": "New Orleans studio apartments in older shotgun and Creole cottage buildings sometimes list very small interior rooms as bedrooms to justify higher rental prices. These rooms were often originally used as pantries, storage, or informal sleeping alcoves in the original single-family layout. A legitimate bedroom requires enough floor area for a bed, safe egress, and ventilation. Renters should verify actual dimensions and window access rather than accepting a listing bedroom count at face value."
   },
   {
     "id": "GTA-062",
@@ -1876,7 +1937,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, New Orleans 1 bedroom apartment, entry route crossing bedroom area to living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-new-orleans-guest-path-through-bedroom.png",
-    "city_image": "/images/floorplans/new-orleans.svg"
+    "city_image": "/images/floorplans/new-orleans.svg",
+    "context": "New Orleans apartment conversions in historic shotgun and double houses sometimes produce layouts where the bedroom sits between the front entry and the rear living areas, creating a circulation pattern that routes guests and visitors through the sleeping zone. This is most common when buildings were converted from single-family occupancy to apartments without relocating the original room sequence. The result eliminates the boundary between the private sleeping area and normal guest circulation."
   },
   {
     "id": "GTA-063",
@@ -1906,7 +1968,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Houston 2 bedroom apartment, wide long hallway taking major footprint between rooms, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-houston-hallway-wastes-square-footage.png",
-    "city_image": "/images/floorplans/houston.svg"
+    "city_image": "/images/floorplans/houston.svg",
+    "context": "Houston larger apartment complexes sometimes include generous hallway areas that consume significant square footage without providing livable space. Renters pay for hallway area in their total lease square footage even though corridors cannot be furnished or used productively. A unit with a wide central hallway can feel significantly smaller than its listed size, and the lost area cannot be recovered through any furniture arrangement."
   },
   {
     "id": "GTA-064",
@@ -1936,7 +1999,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Houston 3 bedroom apartment, bedroom footprint above garage zone marked unconditioned, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-houston-bedroom-over-garage-cold.png",
-    "city_image": "/images/floorplans/houston.svg"
+    "city_image": "/images/floorplans/houston.svg",
+    "context": "Houston three-bedroom units in townhouse-style construction frequently position one bedroom above an attached garage. Garages are unconditioned spaces that are not heated or cooled as part of the building HVAC system. The floor of the bedroom above the garage thus sits against an uninsulated unconditioned zone, making the room harder to heat in winter and more vulnerable to heat from below during Houston long, hot summers. Utility bills for this room are typically higher than for other bedrooms in the same unit."
   },
   {
     "id": "GTA-065",
@@ -1966,7 +2030,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Dallas loft studio apartment, water heater closet drawn inside bedroom wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-dallas-water-heater-in-bedroom.png",
-    "city_image": "/images/floorplans/dallas.svg"
+    "city_image": "/images/floorplans/dallas.svg",
+    "context": "Dallas loft studio apartments converted from commercial spaces sometimes include water heater closets positioned within the sleeping area due to the original building utility infrastructure layout. Water heaters cycle on and off throughout the day and night, producing heat, occasional pressure sounds, and a maintenance access requirement that keeps that wall permanently restricted. The bedroom loses a useful wall and gains an unpredictable noise source."
   },
   {
     "id": "GTA-066",
@@ -1996,7 +2061,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Dallas studio apartment, kitchen wall cut by exterior grade line, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-dallas-kitchen-below-grade-no-drainage.png",
-    "city_image": "/images/floorplans/dallas.svg"
+    "city_image": "/images/floorplans/dallas.svg",
+    "context": "Dallas studio apartments with kitchens positioned below the surrounding grade level face potential drainage and moisture challenges. When the kitchen floor sits below street or yard level, water from plumbing leaks or weather events cannot drain naturally and requires active pumping. The lower position also increases the kitchen exposure to ground moisture, which can affect cabinet bases, flooring materials, and food storage conditions over time."
   },
   {
     "id": "GTA-067",
@@ -2026,7 +2092,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Detroit 1 bedroom apartment, washer dryer symbols inside kitchen counter run, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-detroit-laundry-drains-through-kitchen.png",
-    "city_image": "/images/floorplans/detroit.svg"
+    "city_image": "/images/floorplans/detroit.svg",
+    "context": "Detroit one-bedroom apartments in converted multi-family buildings sometimes route laundry hookups through kitchen walls to connect to existing plumbing stacks. This places the washer and dryer physically in the kitchen footprint, combining laundry humidity and appliance noise with food storage and preparation. The arrangement also introduces lint, vibration, and potential water leak risk directly into the room where food is handled."
   },
   {
     "id": "GTA-068",
@@ -2056,7 +2123,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Detroit 2 bedroom apartment, studio with kitchen island between bed and living area, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-detroit-kitchen-is-room-divider-only.png",
-    "city_image": "/images/floorplans/detroit.svg"
+    "city_image": "/images/floorplans/detroit.svg",
+    "context": "Detroit two-bedroom apartments in open-plan loft conversions sometimes use a kitchen island or counter as the only physical division between the sleeping area and the living space. While open kitchens can work well in larger homes, using a counter as the sole room divider provides no sound separation, no visual privacy, and no meaningful boundary between eating, sleeping, and living zones."
   },
   {
     "id": "GTA-069",
@@ -2086,7 +2154,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Philadelphia 3 bedroom apartment, tiny bathroom with door swing hitting fixture clearance, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-philadelphia-bathroom-too-tight-clearance.png",
-    "city_image": "/images/floorplans/philadelphia.svg"
+    "city_image": "/images/floorplans/philadelphia.svg",
+    "context": "Philadelphia three-bedroom apartments in narrow rowhouse buildings sometimes have bathrooms with insufficient clearance for normal fixture use. Building codes specify minimum clearances, typically 15 inches from the toilet centerline to any side obstruction and 21 inches of clearance in front of each fixture. When a bathroom falls below these minimums, the door may swing into the toilet or the sink may be unreachable while the door is open."
   },
   {
     "id": "GTA-070",
@@ -2116,7 +2185,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Philadelphia loft studio apartment, bed rectangle intruding into bedroom door path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-philadelphia-bedroom-egress-blocked-by-furniture.png",
-    "city_image": "/images/floorplans/philadelphia.svg"
+    "city_image": "/images/floorplans/philadelphia.svg",
+    "context": "Philadelphia loft studio conversions sometimes produce sleeping areas where the only logical placement for a bed positions the bed frame directly in front of the bedroom door, obstructing the exit path. Building and fire codes require egress paths to remain clear, and blocking a bedroom door with furniture is both a safety violation and a daily inconvenience. This conflict reveals a sleeping space that was planned without verifying that normal furniture could coexist with safe exit access."
   },
   {
     "id": "GTA-071",
@@ -2146,7 +2216,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Pittsburgh studio apartment, toilet shower room separated from sink across hall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-pittsburgh-bathroom-split-fixtures.png",
-    "city_image": "/images/floorplans/pittsburgh.svg"
+    "city_image": "/images/floorplans/pittsburgh.svg",
+    "context": "Pittsburgh studio apartments in converted row buildings sometimes have bathroom facilities split across two locations, a toilet and shower in one room and a sink in a separate hallway or kitchen area, due to the cost and complexity of rerouting plumbing during conversion. This arrangement creates daily hygiene inconveniences, reduces privacy, and typically signals that the bathroom was added to the unit as an afterthought rather than designed as part of the original layout."
   },
   {
     "id": "GTA-072",
@@ -2176,7 +2247,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Pittsburgh 1 bedroom apartment, sofa footprint across balcony door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-pittsburgh-sofa-blocks-balcony.png",
-    "city_image": "/images/floorplans/pittsburgh.svg"
+    "city_image": "/images/floorplans/pittsburgh.svg",
+    "context": "Pittsburgh one-bedroom apartments sometimes have living room layouts where the wall most suitable for a sofa is the same wall where the balcony door is located. When a standard sofa is placed against this wall, it blocks or significantly narrows access to the balcony. Renters discover after moving in that they must either forgo normal sofa placement or accept restricted balcony access."
   },
   {
     "id": "GTA-073",
@@ -2206,7 +2278,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Baltimore 2 bedroom apartment, dining room with cased opening labeled bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-baltimore-dining-room-labeled-bedroom.png",
-    "city_image": "/images/floorplans/baltimore.svg"
+    "city_image": "/images/floorplans/baltimore.svg",
+    "context": "Baltimore two-bedroom apartments in rowhouse conversions sometimes include a dining room with a wide cased opening rather than a full door that has been relabeled as a bedroom to justify the rent price. These rooms typically lack privacy from the adjacent living area, have no closet, and were clearly designed for group dining rather than sleeping. The open entry and proportions intended for a table and chairs create a poor sleeping room."
   },
   {
     "id": "GTA-074",
@@ -2236,7 +2309,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Baltimore 3 bedroom apartment, bedroom windows facing parking lot label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-baltimore-bedrooms-face-parking-lot.png",
-    "city_image": "/images/floorplans/baltimore.svg"
+    "city_image": "/images/floorplans/baltimore.svg",
+    "context": "Baltimore three-bedroom apartments where all bedroom windows face a parking lot expose occupants to headlights sweeping across bedroom walls, engine noise from early morning arrivals, car alarm sounds, and the ambient activity of a commercial parking area. Sleep quality in these rooms is directly affected by parking lot activity throughout the night. Always look out bedroom windows during a daytime tour and ask about the parking lot operating hours."
   },
   {
     "id": "GTA-075",
@@ -2266,7 +2340,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Charlotte loft studio apartment, all doors opening into living room with diagonal traffic path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-charlotte-living-room-cut-through.png",
-    "city_image": "/images/floorplans/charlotte.svg"
+    "city_image": "/images/floorplans/charlotte.svg",
+    "context": "Charlotte loft studios where the living room serves as the hub connecting all other rooms, with bedroom, bathroom, and kitchen doors all opening into the central living area, turn that space into a circulation corridor rather than a relaxation zone. Furniture must be arranged to accommodate foot traffic through the room rather than simply for comfort. The living room becomes a thoroughfare that is always in use but rarely restful."
   },
   {
     "id": "GTA-076",
@@ -2296,7 +2371,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Charlotte studio apartment, single closet rectangle inside bathroom with no other closets, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-charlotte-only-closet-in-bathroom.png",
-    "city_image": "/images/floorplans/charlotte.svg"
+    "city_image": "/images/floorplans/charlotte.svg",
+    "context": "Charlotte studio apartments with the unit only closet located inside the bathroom create a daily routine conflict between storage access and bathroom privacy. Retrieving clothing, towels, or household supplies requires entering the bathroom, which limits the bathroom ability to function as a private or occupied space. Bathroom humidity also affects stored clothing and linens over time, causing mustiness and fabric damage."
   },
   {
     "id": "GTA-077",
@@ -2326,7 +2402,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Raleigh 1 bedroom apartment, long narrow floor plan with windows only at front and rear, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-raleigh-shotgun-no-cross-breeze.png",
-    "city_image": "/images/floorplans/raleigh.svg"
+    "city_image": "/images/floorplans/raleigh.svg",
+    "context": "Raleigh one-bedroom apartments in narrow shotgun-plan buildings have windows only at the front facade and rear wall, with no openings on the long side walls. Air movement through the unit requires alignment of the front and back openings, but the middle rooms, typically the kitchen or living area, sit between these two openings with no independent ventilation. In warm months, these middle rooms can remain stagnant and hot even when front and rear windows are open."
   },
   {
     "id": "GTA-078",
@@ -2356,7 +2433,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Raleigh 2 bedroom apartment, two bedroom doors opening straight into living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-raleigh-living-room-between-bedrooms-no-buffer.png",
-    "city_image": "/images/floorplans/raleigh.svg"
+    "city_image": "/images/floorplans/raleigh.svg",
+    "context": "Raleigh two-bedroom apartments where both bedroom doors open directly into the shared living room place all activity in the living space immediately adjacent to both sleeping rooms. Normal evening activity such as television, conversation, or guests is clearly audible from both bedrooms simultaneously. Roommates with different schedules will find that one person living room activity regularly affects the other sleep."
   },
   {
     "id": "GTA-079",
@@ -2386,7 +2464,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Tampa 3 bedroom apartment, bedroom door located only inside bathroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-tampa-sleeping-room-through-bath.png",
-    "city_image": "/images/floorplans/tampa.svg"
+    "city_image": "/images/floorplans/tampa.svg",
+    "context": "Tampa three-bedroom apartment conversions sometimes produce layouts where a sleeping room can only be accessed by passing through the bathroom. This arrangement violates the basic principle of bedroom privacy and may indicate an unpermitted or improvised conversion of an original floor plan. The occupant of this room has no ability to sleep privately while guests use the bathroom, and bathroom occupancy becomes a gatekeeping mechanism for bedroom access."
   },
   {
     "id": "GTA-080",
@@ -2416,7 +2495,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Tampa loft studio apartment, bedroom door located beside stove and kitchen counter, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-tampa-bedroom-door-facing-kitchen.png",
-    "city_image": "/images/floorplans/tampa.svg"
+    "city_image": "/images/floorplans/tampa.svg",
+    "context": "Tampa loft studio apartments where the bedroom door opens directly onto the kitchen counter and stove area expose the sleeping space to cooking smells, grease particles, and kitchen noise throughout the day. The proximity means food odors enter the bedroom immediately when cooking begins, and kitchen cleanup noise including running water and clattering dishes is at its loudest directly outside the bedroom door."
   },
   {
     "id": "GTA-081",
@@ -2446,7 +2526,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Orlando studio apartment, large kitchen with island beside very small bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-orlando-kitchen-too-large-bedroom-too-small.png",
-    "city_image": "/images/floorplans/orlando.svg"
+    "city_image": "/images/floorplans/orlando.svg",
+    "context": "Orlando studio apartments with oversized kitchen areas relative to the sleeping space reflect a design priority that sounds appealing in marketing but produces a unit where the bedroom cannot be furnished normally. A sleeping area that cannot accommodate a queen bed with nightstands on both sides forces renters to choose between furniture arrangement and adequate kitchen space, rather than having both."
   },
   {
     "id": "GTA-082",
@@ -2476,7 +2557,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Orlando 1 bedroom apartment, corner apartment with windows on two exposed hot walls, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-orlando-corner-unit-no-cross-shade.png",
-    "city_image": "/images/floorplans/orlando.svg"
+    "city_image": "/images/floorplans/orlando.svg",
+    "context": "Orlando corner apartment units have windows on two exterior walls, which is typically marketed as a premium feature for natural light. However, corner units with windows on two sun-exposed sides receive solar heat gain from multiple directions simultaneously. Without exterior overhangs, deep window setbacks, or shading elements, these units can require more cooling than comparable single-exposure apartments during Florida long sunny season."
   },
   {
     "id": "GTA-083",
@@ -2506,7 +2588,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Las Vegas 2 bedroom apartment, HVAC closet beside balcony door narrowing route, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-las-vegas-hvac-blocks-balcony-door.png",
-    "city_image": "/images/floorplans/las-vegas.svg"
+    "city_image": "/images/floorplans/las-vegas.svg",
+    "context": "Las Vegas two-bedroom apartments in high-rise construction sometimes locate HVAC mechanical closets adjacent to balcony doors, reducing the clearance of the opening or creating an obstacle in the path to outdoor space. A balcony is one of the most valued amenities in a Las Vegas apartment, providing outdoor access and views. When a mechanical closet narrows or partially blocks the balcony door, the practical usability of that amenity is reduced every time someone accesses it."
   },
   {
     "id": "GTA-084",
@@ -2536,7 +2619,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Las Vegas 3 bedroom apartment, bed placed along wall with window well symbol at head, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-las-vegas-bedroom-window-well-at-bed.png",
-    "city_image": "/images/floorplans/las-vegas.svg"
+    "city_image": "/images/floorplans/las-vegas.svg",
+    "context": "Las Vegas three-bedroom apartments in garden-level or partially below-grade buildings sometimes have bedrooms where window wells provide the only natural light. Positioning the bed against this wall places the occupant head next to a concrete enclosure rather than open space. Window wells in Las Vegas also collect desert debris and require periodic cleaning to remain functional."
   },
   {
     "id": "GTA-085",
@@ -2566,7 +2650,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Salt Lake City loft studio apartment, bathroom sink/vanity drawn in kitchen footprint, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-salt-lake-city-bathroom-vanity-in-kitchen.png",
-    "city_image": "/images/floorplans/salt-lake-city.svg"
+    "city_image": "/images/floorplans/salt-lake-city.svg",
+    "context": "Salt Lake City loft studio conversions with limited plumbing flexibility sometimes place a bathroom sink or vanity in the kitchen footprint to share the existing water supply lines. This arrangement mixes personal hygiene activity with food preparation in the same physical space. It also reduces kitchen counter area and creates a layout that feels improvised rather than intentional."
   },
   {
     "id": "GTA-086",
@@ -2596,7 +2681,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Salt Lake City studio apartment, bed rectangle immediately adjacent to front door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-salt-lake-city-bed-next-to-front-door.png",
-    "city_image": "/images/floorplans/salt-lake-city.svg"
+    "city_image": "/images/floorplans/salt-lake-city.svg",
+    "context": "Salt Lake City studio apartments where the only viable bed placement is immediately adjacent to the front door have no zone of privacy for the sleeping area. Anyone entering the apartment including roommates, maintenance workers, or guests steps directly into the space where the occupant sleeps. Even with normal courtesy, the proximity between public entry and private sleep creates daily discomfort that cannot be resolved through furniture rearrangement."
   },
   {
     "id": "GTA-087",
@@ -2626,7 +2712,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Kansas City 1 bedroom apartment, narrow hallway neck before bedroom door, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-kansas-city-bedroom-door-narrow-hall.png",
-    "city_image": "/images/floorplans/kansas-city.svg"
+    "city_image": "/images/floorplans/kansas-city.svg",
+    "context": "Kansas City one-bedroom apartments in older urban buildings sometimes have narrow hallway sections immediately before the bedroom door, pinch points created when plumbing chases, stairwells, or structural elements reduced the corridor width. These narrow passages make moving furniture in and out of the bedroom very difficult and can be a daily problem for anyone using mobility aids or carrying large objects through the apartment."
   },
   {
     "id": "GTA-088",
@@ -2656,7 +2743,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Kansas City 2 bedroom apartment, bathroom door swing overlapping stair landing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-kansas-city-bath-door-hits-stair.png",
-    "city_image": "/images/floorplans/kansas-city.svg"
+    "city_image": "/images/floorplans/kansas-city.svg",
+    "context": "Kansas City two-bedroom apartments in multi-story converted buildings sometimes have bathroom doors that open toward a stair landing rather than into an open hallway. When the door swing overlaps with stair traffic, using the bathroom creates a collision risk with anyone moving up or down the stairs simultaneously. This conflict is not visible in listing photos and only becomes apparent through careful floor plan review."
   },
   {
     "id": "GTA-089",
@@ -2686,7 +2774,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, St. Louis 3 bedroom apartment, bedroom door route cutting through walk-in closet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-st-louis-bedroom-door-through-closet.png",
-    "city_image": "/images/floorplans/st-louis.svg"
+    "city_image": "/images/floorplans/st-louis.svg",
+    "context": "St. Louis three-bedroom apartments in historic multi-family buildings sometimes have bedrooms where the primary entry route passes through or directly alongside a walk-in closet, making the closet a mandatory circulation path rather than a dedicated storage zone. The closet cannot be organized or used normally because it must always accommodate foot traffic, and the bedroom feels less private as a result."
   },
   {
     "id": "GTA-090",
@@ -2716,7 +2805,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, St. Louis loft studio apartment, desk footprint overlapping bedroom door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-st-louis-desk-blocks-bedroom-door.png",
-    "city_image": "/images/floorplans/st-louis.svg"
+    "city_image": "/images/floorplans/st-louis.svg",
+    "context": "St. Louis loft studio apartments designed for remote work sometimes place the only logical desk location directly in the swing path of the bedroom door. Sitting at the desk and opening the bedroom door create a daily conflict where one activity physically prevents the other. Renters who work from home will find that this constraint disrupts their workflow every time someone needs to enter or exit the sleeping area."
   },
   {
     "id": "GTA-091",
@@ -2746,7 +2836,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Cincinnati studio apartment, low loft platform built over kitchen footprint, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-cincinnati-loft-platform-over-kitchen.png",
-    "city_image": "/images/floorplans/cincinnati.svg"
+    "city_image": "/images/floorplans/cincinnati.svg",
+    "context": "Cincinnati studio apartments with improvised sleeping lofts built over kitchen areas combine two of the most problematic features of compact urban living. Cooking heat and humidity rise directly into the sleeping platform. The loft typically has minimal headroom. And the kitchen below is visually exposed to anyone on the sleeping level, eliminating any sense of separation between cooking and sleeping zones."
   },
   {
     "id": "GTA-092",
@@ -2776,7 +2867,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Cincinnati 1 bedroom apartment, living room interior with windows only in bedroom/service side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-cincinnati-living-room-no-street-facing-window.png",
-    "city_image": "/images/floorplans/cincinnati.svg"
+    "city_image": "/images/floorplans/cincinnati.svg",
+    "context": "Cincinnati one-bedroom apartments in converted rowhouses sometimes orient the bedroom toward the street while the living room faces an interior courtyard or alley. This gives the best natural light to the room that is occupied fewer waking hours, leaving the living area where most daily activity occurs with secondary or service-side exposure. Renters spend more of their waking time in the living room and benefit more from good light there than in the bedroom."
   },
   {
     "id": "GTA-093",
@@ -2806,7 +2898,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Cleveland 2 bedroom apartment, bathroom at rear beyond living kitchen and bedroom in single chain, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-cleveland-bathroom-at-far-end-no-hall.png",
-    "city_image": "/images/floorplans/cleveland.svg"
+    "city_image": "/images/floorplans/cleveland.svg",
+    "context": "Cleveland two-bedroom apartments in railroad-plan buildings sometimes place the only bathroom at the far end of the unit, reachable only by walking through the living area, kitchen, and both bedrooms in sequence. This routing eliminates privacy for every bathroom visit, requires disturbing any sleeping occupant to access the bathroom at night, and makes the apartment functionally difficult to share between unrelated occupants."
   },
   {
     "id": "GTA-094",
@@ -2836,7 +2929,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Cleveland 3 bedroom apartment, closet placed immediately behind bedroom door with overlapping swings, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-cleveland-storage-behind-swinging-door.png",
-    "city_image": "/images/floorplans/cleveland.svg"
+    "city_image": "/images/floorplans/cleveland.svg",
+    "context": "Cleveland three-bedroom apartments sometimes have bedroom closets positioned immediately behind the bedroom door, so that opening the door and opening the closet create conflicting swings. Using the closet requires first closing the bedroom door, then opening the closet, then closing it before reopening the door to exit. This daily inconvenience compounds over time and makes the storage technically accessible but practically annoying."
   },
   {
     "id": "GTA-095",
@@ -2866,7 +2960,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Columbus loft studio apartment, loft studio with kitchen below sleeping loft and no vent, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-columbus-kitchen-under-loft-no-air.png",
-    "city_image": "/images/floorplans/columbus.svg"
+    "city_image": "/images/floorplans/columbus.svg",
+    "context": "Columbus loft studio apartments where a sleeping platform sits directly over the kitchen have limited options for removing cooking heat and odors. Heat rises naturally into the sleeping loft, and without a range hood venting to the exterior, cooking smells concentrate in the highest part of the unit, exactly where the bed is located. After cooking any meal, the sleeping area retains heat and food odors longer than the main floor below."
   },
   {
     "id": "GTA-096",
@@ -2896,7 +2991,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Columbus studio apartment, mechanical closet drawn inside bedroom with bed nearby, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-columbus-mechanical-closet-inside-bedroom.png",
-    "city_image": "/images/floorplans/columbus.svg"
+    "city_image": "/images/floorplans/columbus.svg",
+    "context": "Columbus studio apartments in converted office or commercial buildings sometimes retain mechanical closets housing HVAC units, water heaters, or building control equipment inside the bedroom footprint because relocating building systems is cost-prohibitive. These closets generate heat, mechanical cycling noise, and occasional maintenance interruptions throughout the day and night. The bedroom wall where the mechanical closet is located cannot be used for a bed or any heat-sensitive furniture."
   },
   {
     "id": "GTA-097",
@@ -2926,7 +3022,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Indianapolis 1 bedroom apartment, bedroom shown with wide opening but no door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-indianapolis-bedroom-without-door.png",
-    "city_image": "/images/floorplans/indianapolis.svg"
+    "city_image": "/images/floorplans/indianapolis.svg",
+    "context": "Indianapolis one-bedroom apartments in loft-style or open-plan conversions sometimes have sleeping areas defined by partial walls or wide openings rather than a full door. Without a door, the bedroom has no acoustic separation from the rest of the apartment, no ability to block light from common areas during sleep, and no visual privacy if anyone else is in the unit. The room functions more like an alcove than a true bedroom."
   },
   {
     "id": "GTA-098",
@@ -2956,7 +3053,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Indianapolis 2 bedroom apartment, only bathroom door inside primary bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-indianapolis-shared-bath-through-primary.png",
-    "city_image": "/images/floorplans/indianapolis.svg"
+    "city_image": "/images/floorplans/indianapolis.svg",
+    "context": "Indianapolis two-bedroom apartments where the only bathroom is accessible only through the primary bedroom make shared living functionally difficult. The occupant of the primary bedroom controls access to the bathroom for all other occupants and guests. Any bathroom visit by a roommate or guest requires walking through the primary bedroom, eliminating any practical separation between the private sleeping space and shared bathroom access."
   },
   {
     "id": "GTA-099",
@@ -2986,7 +3084,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Memphis 3 bedroom apartment, narrow living room with circulation path where sofa would sit, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-memphis-living-room-cannot-fit-sofa.png",
-    "city_image": "/images/floorplans/memphis.svg"
+    "city_image": "/images/floorplans/memphis.svg",
+    "context": "Memphis three-bedroom apartments with narrow living rooms sometimes have dimensions that prevent a standard sofa from being placed facing the television wall without blocking the primary circulation path. A three-bedroom unit is most commonly rented by multiple occupants who need a functional shared living space. A living room that cannot accommodate normal furniture arrangement defeats the purpose of the common area."
   },
   {
     "id": "GTA-100",
@@ -3016,7 +3115,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Memphis loft studio apartment, top floor plan with roof exposure label over bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-memphis-top-floor-flat-roof.png",
-    "city_image": "/images/floorplans/memphis.svg"
+    "city_image": "/images/floorplans/memphis.svg",
+    "context": "Memphis loft studio apartments on top floors beneath flat roofs are directly exposed to solar heat gain through the roof membrane during summer months. Flat roofs absorb and retain heat throughout the day, releasing it into the unit below during the evening hours. In Memphis humid subtropical climate with extended summer heat, a top-floor unit under a flat roof can have significantly higher cooling requirements and less comfortable nighttime temperatures than apartments on lower floors."
   },
   {
     "id": "GTA-101",
@@ -3046,7 +3146,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Louisville studio apartment, vertical plumbing chase cutting into kitchen counter run, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-louisville-plumbing-chase-splits-kitchen.png",
-    "city_image": "/images/floorplans/louisville.svg"
+    "city_image": "/images/floorplans/louisville.svg",
+    "context": "Louisville studio apartments where a vertical plumbing chase, a structural cavity that houses building-wide pipes, passes through the kitchen area create a permanent obstruction in the counter run. Plumbing chases serve the floors above and below the unit and cannot be moved. When one bisects the kitchen, it reduces continuous counter space and may limit appliance placement options for the lifetime of the tenancy."
   },
   {
     "id": "GTA-102",
@@ -3076,7 +3177,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Louisville 1 bedroom apartment, below grade apartment with one stair/door exit and rooms beyond, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-louisville-entire-unit-basement-single-exit.png",
-    "city_image": "/images/floorplans/louisville.svg"
+    "city_image": "/images/floorplans/louisville.svg",
+    "context": "Louisville one-bedroom basement apartments with a single stair exit present both a daily convenience issue and a safety concern. Building codes in most jurisdictions require multi-room basement units to have at least one emergency egress window in sleeping rooms in addition to the main stair exit. A single exit path also means that any blockage such as fire, structural failure, or obstruction leaves occupants with no alternative escape route."
   },
   {
     "id": "GTA-103",
@@ -3106,7 +3208,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Richmond 2 bedroom apartment, bedroom sharing wall with trash room label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-richmond-trash-room-next-to-bedroom.png",
-    "city_image": "/images/floorplans/richmond.svg"
+    "city_image": "/images/floorplans/richmond.svg",
+    "context": "Richmond two-bedroom apartments in multi-story buildings sometimes have a building trash or recycling room immediately adjacent to one of the bedrooms due to the building service core layout. Trash rooms generate odors from decomposing organic material, attract pests, and receive late-night activity when other residents dispose of waste. The bedroom wall shared with a trash room is also potentially shared with waste odors and activity noise."
   },
   {
     "id": "GTA-104",
@@ -3136,7 +3239,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Richmond 3 bedroom apartment, single open room with bed and sofa side by side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-richmond-living-and-bedroom-no-boundary.png",
-    "city_image": "/images/floorplans/richmond.svg"
+    "city_image": "/images/floorplans/richmond.svg",
+    "context": "Richmond three-bedroom apartments in open-plan loft conversions sometimes have a bedroom and living area occupying one undivided room with no wall, partition, or meaningful separation between the sleeping and social zones. For a single occupant, this arrangement may feel spacious. For multiple occupants, it eliminates any ability to sleep while another person watches television, hosts guests, or simply goes about their daily routine."
   },
   {
     "id": "GTA-105",
@@ -3166,7 +3270,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Sacramento loft studio apartment, main floor without bath and stairs to only bathroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-sacramento-stairs-to-only-bath.png",
-    "city_image": "/images/floorplans/sacramento.svg"
+    "city_image": "/images/floorplans/sacramento.svg",
+    "context": "Sacramento loft studio apartments with a split-level layout sometimes place the only bathroom on a different level from the main living area, accessible only by stairs. This arrangement makes nighttime bathroom trips a physical exercise, creates a barrier for any occupant with a mobility limitation, and makes guests less comfortable because they must navigate the stairs to access basic facilities."
   },
   {
     "id": "GTA-106",
@@ -3196,7 +3301,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Sacramento studio apartment, kitchen counters narrowing corridor to front door, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-sacramento-kitchen-exit-narrows-to-one-path.png",
-    "city_image": "/images/floorplans/sacramento.svg"
+    "city_image": "/images/floorplans/sacramento.svg",
+    "context": "Sacramento studio apartments where kitchen counters or appliances project into the corridor between the main living area and the front door create a single narrow path that serves as both the kitchen work zone and the apartment only exit route. Building fire codes require that egress paths remain clear and unobstructed. When kitchen activity blocks this path, both everyday convenience and emergency safety are compromised."
   },
   {
     "id": "GTA-107",
@@ -3226,7 +3332,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, San Diego 1 bedroom apartment, oven and dishwasher placed opposite with overlapping open-door clearances, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-san-diego-dishwasher-blocks-oven.png",
-    "city_image": "/images/floorplans/san-diego.svg"
+    "city_image": "/images/floorplans/san-diego.svg",
+    "context": "San Diego one-bedroom apartments with small galley kitchens sometimes have dishwashers and ovens positioned directly across from each other with insufficient clearance between them. When both appliance doors are open simultaneously, a common occurrence during meal cleanup, the clearance between them may be too narrow to stand in comfortably or safely. Renters should open every appliance door during a kitchen tour to verify that the space remains usable when appliances are in normal operating positions."
   },
   {
     "id": "GTA-108",
@@ -3256,7 +3363,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, San Diego 2 bedroom apartment, dining table footprint interrupting kitchen triangle, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-san-diego-dining-table-blocks-kitchen.png",
-    "city_image": "/images/floorplans/san-diego.svg"
+    "city_image": "/images/floorplans/san-diego.svg",
+    "context": "San Diego two-bedroom apartments with combined kitchen-dining areas sometimes have room proportions that require the dining table to be positioned in the kitchen primary workflow path. Placing a table between the refrigerator and the cooking zone means that every cooking task requiring refrigerator access requires navigating around seated diners or moving the table. This arrangement makes cooking and eating feel like competing activities rather than complementary ones."
   },
   {
     "id": "GTA-109",
@@ -3286,7 +3394,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Oakland 3 bedroom apartment, sunroom enclosure relabeled bedroom at edge of plan, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-oakland-sunroom-converted-bedroom.png",
-    "city_image": "/images/floorplans/oakland.svg"
+    "city_image": "/images/floorplans/oakland.svg",
+    "context": "Oakland three-bedroom apartments in older bungalows and craftsman homes sometimes include a sunroom conversion, an enclosed porch or glass-walled addition originally designed as a transitional outdoor space, that has been relabeled as a bedroom. Sunrooms are typically less well-insulated than the main structure, have thinner walls, and may not have the same heating and cooling infrastructure as interior rooms. They can be significantly colder in winter and hotter in summer than the rest of the apartment."
   },
   {
     "id": "GTA-110",
@@ -3316,7 +3425,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Oakland loft studio apartment, all windows along wall labeled loading dock, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-oakland-windows-face-loading-dock.png",
-    "city_image": "/images/floorplans/oakland.svg"
+    "city_image": "/images/floorplans/oakland.svg",
+    "context": "Oakland loft studios in converted industrial buildings sometimes face active commercial loading docks that serve adjacent warehouses or retail distribution facilities. Loading dock activity typically begins early in the morning with truck arrivals, continues through the day with forklift and delivery traffic, and may extend into the evening. Windows facing a loading dock also face diesel exhaust, backup alarms, and the general noise of commercial freight operations."
   },
   {
     "id": "GTA-111",
@@ -3346,7 +3456,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Jersey City studio apartment, front door opens into bedroom then living room beyond, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-jersey-city-bedroom-as-entry-hall.png",
-    "city_image": "/images/floorplans/jersey-city.svg"
+    "city_image": "/images/floorplans/jersey-city.svg",
+    "context": "Jersey City studio apartments in converted row buildings sometimes have the sleeping area positioned between the front door and the main living space. This layout means every entry into the apartment begins in the bedroom, and any guest or visitor first impression of the unit is the occupant personal sleeping space. The bedroom cannot function as a private retreat because it serves simultaneously as the apartment public entry point."
   },
   {
     "id": "GTA-112",
@@ -3376,7 +3487,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Jersey City 1 bedroom apartment, compact apartment with kitchen and bath but no storage closets, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-jersey-city-no-pantry-no-linen-closet.png",
-    "city_image": "/images/floorplans/jersey-city.svg"
+    "city_image": "/images/floorplans/jersey-city.svg",
+    "context": "Jersey City one-bedroom apartments in compact urban buildings sometimes provide only a single bedroom closet for all household storage. Without a pantry for dry goods and a linen closet for towels, bedding, and cleaning supplies, renters must store these items in the bedroom closet, kitchen cabinets, or visible living areas. The absence of dedicated storage for household basics creates ongoing organizational challenges."
   },
   {
     "id": "GTA-113",
@@ -3406,7 +3518,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Hoboken 2 bedroom apartment, interior laundry closet with no exterior vent path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-hoboken-laundry-closet-no-vent.png",
-    "city_image": "/images/floorplans/hoboken.svg"
+    "city_image": "/images/floorplans/hoboken.svg",
+    "context": "Hoboken two-bedroom apartments sometimes include laundry closets that were retrofitted into the unit without a connection to an exterior ventilation path. Electric dryers require 240-volt power but no exhaust duct, while gas dryers and most vented electric dryers require a duct to the exterior. An unvented laundry closet limits dryer options and allows moisture and heat to build up inside the closet and migrate into adjacent rooms during every dryer cycle."
   },
   {
     "id": "GTA-114",
@@ -3436,7 +3549,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Hoboken 3 bedroom apartment, bedroom sharing wall with elevator shaft label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-hoboken-elevator-wall-bedroom.png",
-    "city_image": "/images/floorplans/hoboken.svg"
+    "city_image": "/images/floorplans/hoboken.svg",
+    "context": "Hoboken three-bedroom apartments in pre-war elevator buildings sometimes have bedrooms positioned against the elevator shaft wall. Elevator systems generate motor noise during operation, cable sounds during travel, and mechanical clicking during the frequent starts and stops of a busy residential building. Light sleepers occupying a bedroom against an elevator shaft report that the noise pattern is particularly difficult to adapt to because it occurs unpredictably at all hours."
   },
   {
     "id": "GTA-115",
@@ -3466,7 +3580,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Astoria loft studio apartment, bedroom window opening to tiny exterior gap against building wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-astoria-window-blocked-by-building-wall.png",
-    "city_image": "/images/floorplans/astoria.svg"
+    "city_image": "/images/floorplans/astoria.svg",
+    "context": "Astoria loft studio apartments in dense Queens blocks sometimes have bedroom windows that open into a narrow gap between buildings, a space measured in inches rather than feet, rather than open air or a usable light well. A window opening to a wall surface several inches away technically provides some air exchange but delivers no meaningful daylight, no view, and essentially no ventilation benefit. These windows may not meet the minimum daylight and ventilation requirements for a habitable room."
   },
   {
     "id": "GTA-116",
@@ -3496,7 +3611,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Astoria studio apartment, balcony door located only in bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/studio-astoria-balcony-through-bedroom.png",
-    "city_image": "/images/floorplans/astoria.svg"
+    "city_image": "/images/floorplans/astoria.svg",
+    "context": "Astoria studio apartments in converted residential buildings sometimes place the unit only outdoor access, a balcony or terrace, with its door opening through the sleeping area rather than the living area. Outdoor space is typically the most socially shared part of an apartment, but routing balcony access through the bedroom means that any guest or visitor who wants to use the outdoor space must pass through the private sleeping zone."
   },
   {
     "id": "GTA-117",
@@ -3526,7 +3642,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Harlem 1 bedroom apartment, large primary suite dominating plan with small kitchen living area, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/1-bedroom-harlem-primary-suite-swallowing-unit.png",
-    "city_image": "/images/floorplans/harlem.svg"
+    "city_image": "/images/floorplans/harlem.svg",
+    "context": "Harlem one-bedroom apartments in pre-war buildings sometimes have a bedroom that occupies a disproportionately large share of the total floor area, leaving the combined kitchen and living space too compact to function effectively. These plans reflect older building configurations designed for single occupancy where the primary use case was a private bedroom suite rather than a balanced layout for shared living or entertaining."
   },
   {
     "id": "GTA-118",
@@ -3556,7 +3673,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Harlem 2 bedroom apartment, single exposure apartment with all windows on west/southwest side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/2-bedroom-harlem-windows-on-noisy-hot-wall.png",
-    "city_image": "/images/floorplans/harlem.svg"
+    "city_image": "/images/floorplans/harlem.svg",
+    "context": "Harlem two-bedroom apartments with single west or southwest exposure have all natural light and ventilation concentrated on the side of the building that receives the most afternoon sun and, in upper Manhattan, often the most street noise from nearby traffic corridors. There is no quieter or cooler side of the apartment to retreat to, as all rooms share the same challenging exposure simultaneously."
   },
   {
     "id": "GTA-119",
@@ -3586,7 +3704,8 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Bronx 3 bedroom apartment, breaker panel symbol centered on bed placement wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/3-bedroom-bronx-breaker-panel-over-bed.png",
-    "city_image": "/images/floorplans/bronx.svg"
+    "city_image": "/images/floorplans/bronx.svg",
+    "context": "Bronx three-bedroom apartments in multi-family buildings sometimes have electrical service panels located on bedroom walls due to the building wiring infrastructure layout. Electrical codes require a minimum 30-inch clear working space in front of all panels. This clearance zone prevents the bed from being pushed against the panel wall and effectively removes the most common bed placement in the room. The panel also requires periodic access for breaker resets and inspections."
   },
   {
     "id": "GTA-120",
@@ -3616,6 +3735,7 @@
     },
     "midjourney_prompt": "top-down architectural floor plan, Bronx loft studio apartment, bedroom window well facing retaining wall label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
     "image": "/images/floorplans/loft-studio-bronx-below-grade-bedroom-no-view.png",
-    "city_image": "/images/floorplans/bronx.svg"
+    "city_image": "/images/floorplans/bronx.svg",
+    "context": "Bronx loft studio apartments with sleeping areas positioned at or below grade level sometimes have windows that face a retaining wall, foundation wall, or concrete barrier at close range. A window can technically exist while providing almost no daylight, no view of the sky or outdoors, and minimal airflow due to the obstruction immediately outside. These windows may satisfy code minimums while failing to deliver the light and ventilation that renters reasonably expect from a listed window."
   }
 ]
