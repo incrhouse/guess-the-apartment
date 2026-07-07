@@ -95,9 +95,6 @@ export default function GameClient({ entry, nextSlug }: Props) {
                 Next Property
               </a>
             )}
-            <div className="border border-dashed border-muted h-24 flex items-center justify-center">
-              <span className="font-mono text-xs text-muted uppercase tracking-widest">Ad</span>
-            </div>
           </div>
         </div>
       </main>
