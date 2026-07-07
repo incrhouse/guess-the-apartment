@@ -2535,7 +2535,7 @@
       "description": "Spot the hidden flaw in this Las Vegas 3 Bedroom: the bedroom's only window well is directly at the head of the bed."
     },
     "midjourney_prompt": "top-down architectural floor plan, Las Vegas 3 bedroom apartment, bed placed along wall with window well symbol at head, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-las-vegas-bedroom-window-well-at-bed.svg",
+    "image": "/images/floorplans/3-bedroom-las-vegas-bedroom-window-well-at-bed.png",
     "city_image": "/images/floorplans/las-vegas.svg"
   },
   {
@@ -2565,7 +2565,7 @@
       "description": "Spot the hidden flaw in this Salt Lake City Loft Studio: the bathroom vanity is located in the kitchen instead of inside the bathroom."
     },
     "midjourney_prompt": "top-down architectural floor plan, Salt Lake City loft studio apartment, bathroom sink/vanity drawn in kitchen footprint, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-salt-lake-city-bathroom-vanity-in-kitchen.svg",
+    "image": "/images/floorplans/loft-studio-salt-lake-city-bathroom-vanity-in-kitchen.png",
     "city_image": "/images/floorplans/salt-lake-city.svg"
   },
   {
@@ -2595,7 +2595,7 @@
       "description": "Spot the hidden flaw in this Salt Lake City Studio: the sleeping zone is placed directly beside the front door."
     },
     "midjourney_prompt": "top-down architectural floor plan, Salt Lake City studio apartment, bed rectangle immediately adjacent to front door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-salt-lake-city-bed-next-to-front-door.svg",
+    "image": "/images/floorplans/studio-salt-lake-city-bed-next-to-front-door.png",
     "city_image": "/images/floorplans/salt-lake-city.svg"
   },
   {
@@ -2625,7 +2625,7 @@
       "description": "Spot the hidden flaw in this Kansas City 1 Bedroom: the hallway pinch point before the bedroom is too narrow for comfortable access."
     },
     "midjourney_prompt": "top-down architectural floor plan, Kansas City 1 bedroom apartment, narrow hallway neck before bedroom door, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-kansas-city-bedroom-door-narrow-hall.svg",
+    "image": "/images/floorplans/1-bedroom-kansas-city-bedroom-door-narrow-hall.png",
     "city_image": "/images/floorplans/kansas-city.svg"
   },
   {
@@ -2655,7 +2655,7 @@
       "description": "Spot the hidden flaw in this Kansas City 2 Bedroom: the bathroom door opens directly onto a stair landing."
     },
     "midjourney_prompt": "top-down architectural floor plan, Kansas City 2 bedroom apartment, bathroom door swing overlapping stair landing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-kansas-city-bath-door-hits-stair.svg",
+    "image": "/images/floorplans/2-bedroom-kansas-city-bath-door-hits-stair.png",
     "city_image": "/images/floorplans/kansas-city.svg"
   },
   {
@@ -2685,7 +2685,7 @@
       "description": "Spot the hidden flaw in this St. Louis 3 Bedroom: the bedroom entry path passes through the closet area."
     },
     "midjourney_prompt": "top-down architectural floor plan, St. Louis 3 bedroom apartment, bedroom door route cutting through walk-in closet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-st-louis-bedroom-door-through-closet.svg",
+    "image": "/images/floorplans/3-bedroom-st-louis-bedroom-door-through-closet.png",
     "city_image": "/images/floorplans/st-louis.svg"
   },
   {
@@ -2715,7 +2715,7 @@
       "description": "Spot the hidden flaw in this St. Louis Loft Studio: the only workable desk location interferes with the bedroom door swing."
     },
     "midjourney_prompt": "top-down architectural floor plan, St. Louis loft studio apartment, desk footprint overlapping bedroom door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-st-louis-desk-blocks-bedroom-door.svg",
+    "image": "/images/floorplans/loft-studio-st-louis-desk-blocks-bedroom-door.png",
     "city_image": "/images/floorplans/st-louis.svg"
   },
   {
@@ -2745,7 +2745,7 @@
       "description": "Spot the hidden flaw in this Cincinnati Studio: a low sleeping platform has been added above the kitchen as a bedroom."
     },
     "midjourney_prompt": "top-down architectural floor plan, Cincinnati studio apartment, low loft platform built over kitchen footprint, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-cincinnati-loft-platform-over-kitchen.svg",
+    "image": "/images/floorplans/studio-cincinnati-loft-platform-over-kitchen.png",
     "city_image": "/images/floorplans/cincinnati.svg"
   },
   {
@@ -2775,7 +2775,7 @@
       "description": "Spot the hidden flaw in this Cincinnati 1 Bedroom: the living room has no street-facing window while secondary rooms get the exposure."
     },
     "midjourney_prompt": "top-down architectural floor plan, Cincinnati 1 bedroom apartment, living room interior with windows only in bedroom/service side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-cincinnati-living-room-no-street-facing-window.svg",
+    "image": "/images/floorplans/1-bedroom-cincinnati-living-room-no-street-facing-window.png",
     "city_image": "/images/floorplans/cincinnati.svg"
   },
   {
@@ -2805,7 +2805,7 @@
       "description": "Spot the hidden flaw in this Cleveland 2 Bedroom: the bathroom is placed at the far end, requiring a walk through every main room to reach it."
     },
     "midjourney_prompt": "top-down architectural floor plan, Cleveland 2 bedroom apartment, bathroom at rear beyond living kitchen and bedroom in single chain, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-cleveland-bathroom-at-far-end-no-hall.svg",
+    "image": "/images/floorplans/2-bedroom-cleveland-bathroom-at-far-end-no-hall.png",
     "city_image": "/images/floorplans/cleveland.svg"
   },
   {
