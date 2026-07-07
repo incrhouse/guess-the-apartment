@@ -2235,7 +2235,7 @@
       "description": "Spot the hidden flaw in this Baltimore 3 Bedroom: both bedroom windows face the parking lot and car headlights."
     },
     "midjourney_prompt": "top-down architectural floor plan, Baltimore 3 bedroom apartment, bedroom windows facing parking lot label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-baltimore-bedrooms-face-parking-lot.svg",
+    "image": "/images/floorplans/3-bedroom-baltimore-bedrooms-face-parking-lot.png",
     "city_image": "/images/floorplans/baltimore.svg"
   },
   {
@@ -2265,7 +2265,7 @@
       "description": "Spot the hidden flaw in this Charlotte Loft Studio: the living room has to be crossed diagonally to reach every other room."
     },
     "midjourney_prompt": "top-down architectural floor plan, Charlotte loft studio apartment, all doors opening into living room with diagonal traffic path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-charlotte-living-room-cut-through.svg",
+    "image": "/images/floorplans/loft-studio-charlotte-living-room-cut-through.png",
     "city_image": "/images/floorplans/charlotte.svg"
   },
   {
@@ -2295,7 +2295,7 @@
       "description": "Spot the hidden flaw in this Charlotte Studio: the only storage closet is located inside the bathroom."
     },
     "midjourney_prompt": "top-down architectural floor plan, Charlotte studio apartment, single closet rectangle inside bathroom with no other closets, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-charlotte-only-closet-in-bathroom.svg",
+    "image": "/images/floorplans/studio-charlotte-only-closet-in-bathroom.png",
     "city_image": "/images/floorplans/charlotte.svg"
   },
   {
@@ -2325,7 +2325,7 @@
       "description": "Spot the hidden flaw in this Raleigh 1 Bedroom: windows exist only at the front and back, leaving the middle rooms with no cross breeze."
     },
     "midjourney_prompt": "top-down architectural floor plan, Raleigh 1 bedroom apartment, long narrow floor plan with windows only at front and rear, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-raleigh-shotgun-no-cross-breeze.svg",
+    "image": "/images/floorplans/1-bedroom-raleigh-shotgun-no-cross-breeze.png",
     "city_image": "/images/floorplans/raleigh.svg"
   },
   {
@@ -2355,7 +2355,7 @@
       "description": "Spot the hidden flaw in this Raleigh 2 Bedroom: both bedroom doors open directly into the living room with no hall buffer."
     },
     "midjourney_prompt": "top-down architectural floor plan, Raleigh 2 bedroom apartment, two bedroom doors opening straight into living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-raleigh-living-room-between-bedrooms-no-buffer.svg",
+    "image": "/images/floorplans/2-bedroom-raleigh-living-room-between-bedrooms-no-buffer.png",
     "city_image": "/images/floorplans/raleigh.svg"
   },
   {
@@ -2385,7 +2385,7 @@
       "description": "Spot the hidden flaw in this Tampa 3 Bedroom: the only route to the bedroom passes through the bathroom."
     },
     "midjourney_prompt": "top-down architectural floor plan, Tampa 3 bedroom apartment, bedroom door located only inside bathroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-tampa-sleeping-room-through-bath.svg",
+    "image": "/images/floorplans/3-bedroom-tampa-sleeping-room-through-bath.png",
     "city_image": "/images/floorplans/tampa.svg"
   },
   {
@@ -2415,7 +2415,7 @@
       "description": "Spot the hidden flaw in this Tampa Loft Studio: the bedroom door opens directly into the kitchen prep area."
     },
     "midjourney_prompt": "top-down architectural floor plan, Tampa loft studio apartment, bedroom door located beside stove and kitchen counter, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-tampa-bedroom-door-facing-kitchen.svg",
+    "image": "/images/floorplans/loft-studio-tampa-bedroom-door-facing-kitchen.png",
     "city_image": "/images/floorplans/tampa.svg"
   },
   {
@@ -2445,7 +2445,7 @@
       "description": "Spot the hidden flaw in this Orlando Studio: the kitchen is much larger than the bedroom, leaving poor sleeping-room clearance."
     },
     "midjourney_prompt": "top-down architectural floor plan, Orlando studio apartment, large kitchen with island beside very small bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-orlando-kitchen-too-large-bedroom-too-small.svg",
+    "image": "/images/floorplans/studio-orlando-kitchen-too-large-bedroom-too-small.png",
     "city_image": "/images/floorplans/orlando.svg"
   },
   {
@@ -2475,7 +2475,7 @@
       "description": "Spot the hidden flaw in this Orlando 1 Bedroom: the living and bedroom windows wrap two sun-exposed walls with no shade."
     },
     "midjourney_prompt": "top-down architectural floor plan, Orlando 1 bedroom apartment, corner apartment with windows on two exposed hot walls, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-orlando-corner-unit-no-cross-shade.svg",
+    "image": "/images/floorplans/1-bedroom-orlando-corner-unit-no-cross-shade.png",
     "city_image": "/images/floorplans/orlando.svg"
   },
   {
@@ -2505,7 +2505,7 @@
       "description": "Spot the hidden flaw in this Las Vegas 2 Bedroom: the hvac closet and equipment pinch the path to the balcony door."
     },
     "midjourney_prompt": "top-down architectural floor plan, Las Vegas 2 bedroom apartment, HVAC closet beside balcony door narrowing route, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-las-vegas-hvac-blocks-balcony-door.svg",
+    "image": "/images/floorplans/2-bedroom-las-vegas-hvac-blocks-balcony-door.png",
     "city_image": "/images/floorplans/las-vegas.svg"
   },
   {
