@@ -1335,7 +1335,7 @@
       "description": "Spot the hidden flaw in this Boston 3 Bedroom: the bathroom door and toilet line up directly with the front door."
     },
     "midjourney_prompt": "top-down architectural floor plan, Boston 3 bedroom apartment, front door sight line directly into bathroom toilet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-boston-bathroom-visible-from-entry.svg",
+    "image": "/images/floorplans/3-bedroom-boston-bathroom-visible-from-entry.png",
     "city_image": "/images/floorplans/boston.svg"
   },
   {
@@ -1365,7 +1365,7 @@
       "description": "Spot the hidden flaw in this Seattle Loft Studio: the bathroom footprint is larger than the usable living room."
     },
     "midjourney_prompt": "top-down architectural floor plan, Seattle loft studio apartment, large bathroom dominating floor plan with tiny living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-seattle-bathroom-bigger-than-living.svg",
+    "image": "/images/floorplans/loft-studio-seattle-bathroom-bigger-than-living.png",
     "city_image": "/images/floorplans/seattle.svg"
   },
   {
@@ -1395,7 +1395,7 @@
       "description": "Spot the hidden flaw in this Seattle Studio: the main living wall is all south-facing glass with no exterior shade."
     },
     "midjourney_prompt": "top-down architectural floor plan, Seattle studio apartment, large south facing window wall with no overhang, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-seattle-south-glass-no-overhang.svg",
+    "image": "/images/floorplans/studio-seattle-south-glass-no-overhang.png",
     "city_image": "/images/floorplans/seattle.svg"
   },
   {
@@ -1425,7 +1425,7 @@
       "description": "Spot the hidden flaw in this Denver 1 Bedroom: the electrical panel is inside the only closet, limiting storage and access."
     },
     "midjourney_prompt": "top-down architectural floor plan, Denver 1 bedroom apartment, electrical panel shown inside only closet, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-denver-electrical-panel-in-closet.svg",
+    "image": "/images/floorplans/1-bedroom-denver-electrical-panel-in-closet.png",
     "city_image": "/images/floorplans/denver.svg"
   },
   {
@@ -1455,7 +1455,7 @@
       "description": "Spot the hidden flaw in this Denver 2 Bedroom: the main living room is partially below grade, limiting light and outlook."
     },
     "midjourney_prompt": "top-down architectural floor plan, Denver 2 bedroom apartment, living room below grade line with small high windows, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-denver-living-room-half-underground.svg",
+    "image": "/images/floorplans/2-bedroom-denver-living-room-half-underground.png",
     "city_image": "/images/floorplans/denver.svg"
   },
   {
@@ -1485,7 +1485,7 @@
       "description": "Spot the hidden flaw in this Atlanta 3 Bedroom: the toilet is placed directly behind the kitchen stove wall with no buffer."
     },
     "midjourney_prompt": "top-down architectural floor plan, Atlanta 3 bedroom apartment, toilet and stove back to back on thin shared wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-atlanta-toilet-beside-stove-wall.svg",
+    "image": "/images/floorplans/3-bedroom-atlanta-toilet-beside-stove-wall.png",
     "city_image": "/images/floorplans/atlanta.svg"
   },
   {
@@ -1515,7 +1515,7 @@
       "description": "Spot the hidden flaw in this Atlanta Loft Studio: the only desk location is in the pathway between the entry and bed."
     },
     "midjourney_prompt": "top-down architectural floor plan, Atlanta loft studio apartment, desk rectangle in direct path from entry to bed, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-atlanta-work-zone-in-sleep-path.svg",
+    "image": "/images/floorplans/loft-studio-atlanta-work-zone-in-sleep-path.png",
     "city_image": "/images/floorplans/atlanta.svg"
   },
   {
@@ -1545,7 +1545,7 @@
       "description": "Spot the hidden flaw in this Washington DC Studio: the bedroom is reached only by a narrow spiral staircase."
     },
     "midjourney_prompt": "top-down architectural floor plan, Washington DC studio apartment, bedroom level accessed by tight spiral stair symbol, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-washington-dc-spiral-stair-only-bedroom.svg",
+    "image": "/images/floorplans/studio-washington-dc-spiral-stair-only-bedroom.png",
     "city_image": "/images/floorplans/washington-dc.svg"
   },
   {
@@ -1575,7 +1575,7 @@
       "description": "Spot the hidden flaw in this Washington DC 1 Bedroom: the stove sits directly beside the front door swing."
     },
     "midjourney_prompt": "top-down architectural floor plan, Washington DC 1 bedroom apartment, front door swing overlapping kitchen stove zone, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-washington-dc-stove-beside-front-door.svg",
+    "image": "/images/floorplans/1-bedroom-washington-dc-stove-beside-front-door.png",
     "city_image": "/images/floorplans/washington-dc.svg"
   },
   {
@@ -1605,7 +1605,7 @@
       "description": "Spot the hidden flaw in this Nashville 2 Bedroom: the refrigerator is across the living room from the rest of the kitchen."
     },
     "midjourney_prompt": "top-down architectural floor plan, Nashville 2 bedroom apartment, refrigerator drawn across living area from stove and sink, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-nashville-fridge-across-living-room.svg",
+    "image": "/images/floorplans/2-bedroom-nashville-fridge-across-living-room.png",
     "city_image": "/images/floorplans/nashville.svg"
   },
   {
