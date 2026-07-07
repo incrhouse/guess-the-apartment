@@ -705,7 +705,7 @@
       "description": "Spot the hidden flaw in this New York City 2 Bedroom: the kitchen has no exterior wall, window, or visible exhaust route."
     },
     "midjourney_prompt": "top-down architectural floor plan, New York City 2 bedroom apartment, interior kitchen surrounded by rooms with no exterior wall or window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-new-york-city-interior-kitchen-no-vent.svg",
+    "image": "/images/floorplans/2-bedroom-new-york-city-interior-kitchen-no-vent.png",
     "city_image": "/images/floorplans/new-york-city.svg"
   },
   {
@@ -735,7 +735,7 @@
       "description": "Spot the hidden flaw in this Chicago 3 Bedroom: the bedrooms share one direct wall with no closet, hallway, or bathroom between them."
     },
     "midjourney_prompt": "top-down architectural floor plan, Chicago 3 bedroom apartment, two bedrooms touching along a long shared wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-chicago-bedrooms-share-direct-wall.svg",
+    "image": "/images/floorplans/3-bedroom-chicago-bedrooms-share-direct-wall.png",
     "city_image": "/images/floorplans/chicago.svg"
   },
   {
@@ -765,7 +765,7 @@
       "description": "Spot the hidden flaw in this Chicago Loft Studio: the second bedroom has no exterior window, so it may not legally qualify as a bedroom."
     },
     "midjourney_prompt": "top-down architectural floor plan, Chicago loft studio apartment, second bedroom fully interior with no window gap, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-chicago-second-bedroom-no-window.svg",
+    "image": "/images/floorplans/loft-studio-chicago-second-bedroom-no-window.png",
     "city_image": "/images/floorplans/chicago.svg"
   },
   {
@@ -795,7 +795,7 @@
       "description": "Spot the hidden flaw in this Chicago Studio: the front door opens directly into the bedroom instead of a living or entry area."
     },
     "midjourney_prompt": "top-down architectural floor plan, Chicago studio apartment, front door located on bedroom exterior wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-chicago-front-door-into-bedroom.svg",
+    "image": "/images/floorplans/studio-chicago-front-door-into-bedroom.png",
     "city_image": "/images/floorplans/chicago.svg"
   },
   {
@@ -825,7 +825,7 @@
       "description": "Spot the hidden flaw in this Los Angeles 1 Bedroom: the walk-in closet is visibly larger than the bedroom it serves."
     },
     "midjourney_prompt": "top-down architectural floor plan, Los Angeles 1 bedroom apartment, oversized walk-in closet next to undersized bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-los-angeles-bedroom-smaller-than-closet.svg",
+    "image": "/images/floorplans/1-bedroom-los-angeles-bedroom-smaller-than-closet.png",
     "city_image": "/images/floorplans/los-angeles.svg"
   },
   {
@@ -855,7 +855,7 @@
       "description": "Spot the hidden flaw in this Los Angeles 2 Bedroom: all primary windows face west with no overhang or shade structure."
     },
     "midjourney_prompt": "top-down architectural floor plan, Los Angeles 2 bedroom apartment, all windows on west wall with compass rose showing W, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-los-angeles-west-windows-no-shade.svg",
+    "image": "/images/floorplans/2-bedroom-los-angeles-west-windows-no-shade.png",
     "city_image": "/images/floorplans/los-angeles.svg"
   },
   {
@@ -885,7 +885,7 @@
       "description": "Spot the hidden flaw in this Los Angeles 3 Bedroom: the radiator is positioned directly in front of the only practical outlet wall."
     },
     "midjourney_prompt": "top-down architectural floor plan, Los Angeles 3 bedroom apartment, cast iron radiator drawn along wall with outlet symbols behind it, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-los-angeles-radiator-blocks-outlet-wall.svg",
+    "image": "/images/floorplans/3-bedroom-los-angeles-radiator-blocks-outlet-wall.png",
     "city_image": "/images/floorplans/los-angeles.svg"
   },
   {
@@ -915,7 +915,7 @@
       "description": "Spot the hidden flaw in this San Francisco Loft Studio: one bedroom is below grade with only a small window well for light."
     },
     "midjourney_prompt": "top-down architectural floor plan, San Francisco loft studio apartment, bedroom labeled below grade with dashed grade line through wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-san-francisco-bedroom-below-grade-window-well.svg",
+    "image": "/images/floorplans/loft-studio-san-francisco-bedroom-below-grade-window-well.png",
     "city_image": "/images/floorplans/san-francisco.svg"
   },
   {
@@ -945,7 +945,7 @@
       "description": "Spot the hidden flaw in this San Francisco Studio: the bathroom door opens directly into the kitchen food-prep area."
     },
     "midjourney_prompt": "top-down architectural floor plan, San Francisco studio apartment, bathroom door swinging directly into kitchen, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-san-francisco-bathroom-door-into-kitchen.svg",
+    "image": "/images/floorplans/studio-san-francisco-bathroom-door-into-kitchen.png",
     "city_image": "/images/floorplans/san-francisco.svg"
   },
   {
@@ -975,7 +975,7 @@
       "description": "Spot the hidden flaw in this San Francisco 1 Bedroom: the front door opens with a straight sight line to the bed."
     },
     "midjourney_prompt": "top-down architectural floor plan, San Francisco 1 bedroom apartment, front door aligned directly with bed with no partition, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-san-francisco-front-door-sightline-to-bed.svg",
+    "image": "/images/floorplans/1-bedroom-san-francisco-front-door-sightline-to-bed.png",
     "city_image": "/images/floorplans/san-francisco.svg"
   },
   {
