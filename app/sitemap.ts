@@ -1,9 +1,10 @@
 import { MetadataRoute } from 'next'
-import entries from '@/data/entries.json'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const entryUrls = entries.map((entry: { slug: string }) => ({
-    url: `https://guesstheapartment.com/play/${entry.slug}`,
+  const slugs = require('../data/entries.json').map((e: { slug: string }) => e.slug)
+
+  const entryUrls = slugs.map((slug: string) => ({
+    url: `https://guesstheapartment.com/play/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.8,
