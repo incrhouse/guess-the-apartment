@@ -98,7 +98,7 @@ export default function HomePage() {
       <footer className="px-6 py-8">
         <div className="max-w-6xl mx-auto">
           <p className="font-mono text-xs text-muted">
-            {new Date().getFullYear()} Guess The Apartment
+            {new Date().getFullYear()} Guess The Apartment &mdash; Created by Mr. Bumbi Unicorn
           </p>
         </div>
       </footer>
