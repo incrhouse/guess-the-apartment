@@ -3165,7 +3165,7 @@
       "description": "Spot the hidden flaw in this Sacramento Loft Studio: the only bathroom is on a different level with stair-only access."
     },
     "midjourney_prompt": "top-down architectural floor plan, Sacramento loft studio apartment, main floor without bath and stairs to only bathroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-sacramento-stairs-to-only-bath.svg",
+    "image": "/images/floorplans/loft-studio-sacramento-stairs-to-only-bath.png",
     "city_image": "/images/floorplans/sacramento.svg"
   },
   {
@@ -3195,7 +3195,7 @@
       "description": "Spot the hidden flaw in this Sacramento Studio: the kitchen work zone narrows the only path to the front door."
     },
     "midjourney_prompt": "top-down architectural floor plan, Sacramento studio apartment, kitchen counters narrowing corridor to front door, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-sacramento-kitchen-exit-narrows-to-one-path.svg",
+    "image": "/images/floorplans/studio-sacramento-kitchen-exit-narrows-to-one-path.png",
     "city_image": "/images/floorplans/sacramento.svg"
   },
   {
@@ -3225,7 +3225,7 @@
       "description": "Spot the hidden flaw in this San Diego 1 Bedroom: the dishwasher and oven doors cannot open at the same time."
     },
     "midjourney_prompt": "top-down architectural floor plan, San Diego 1 bedroom apartment, oven and dishwasher placed opposite with overlapping open-door clearances, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-san-diego-dishwasher-blocks-oven.svg",
+    "image": "/images/floorplans/1-bedroom-san-diego-dishwasher-blocks-oven.png",
     "city_image": "/images/floorplans/san-diego.svg"
   },
   {
@@ -3255,7 +3255,7 @@
       "description": "Spot the hidden flaw in this San Diego 2 Bedroom: a small dining table blocks the route between the sink, stove, and refrigerator."
     },
     "midjourney_prompt": "top-down architectural floor plan, San Diego 2 bedroom apartment, dining table footprint interrupting kitchen triangle, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-san-diego-dining-table-blocks-kitchen.svg",
+    "image": "/images/floorplans/2-bedroom-san-diego-dining-table-blocks-kitchen.png",
     "city_image": "/images/floorplans/san-diego.svg"
   },
   {
@@ -3285,7 +3285,7 @@
       "description": "Spot the hidden flaw in this Oakland 3 Bedroom: the enclosed sunroom is labeled as a bedroom despite poor privacy and heat control."
     },
     "midjourney_prompt": "top-down architectural floor plan, Oakland 3 bedroom apartment, sunroom enclosure relabeled bedroom at edge of plan, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-oakland-sunroom-converted-bedroom.svg",
+    "image": "/images/floorplans/3-bedroom-oakland-sunroom-converted-bedroom.png",
     "city_image": "/images/floorplans/oakland.svg"
   },
   {
@@ -3315,7 +3315,7 @@
       "description": "Spot the hidden flaw in this Oakland Loft Studio: the only windows face a commercial loading dock."
     },
     "midjourney_prompt": "top-down architectural floor plan, Oakland loft studio apartment, all windows along wall labeled loading dock, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-oakland-windows-face-loading-dock.svg",
+    "image": "/images/floorplans/loft-studio-oakland-windows-face-loading-dock.png",
     "city_image": "/images/floorplans/oakland.svg"
   },
   {
@@ -3345,7 +3345,7 @@
       "description": "Spot the hidden flaw in this Jersey City Studio: the entry path forces people through the bedroom before reaching the living room."
     },
     "midjourney_prompt": "top-down architectural floor plan, Jersey City studio apartment, front door opens into bedroom then living room beyond, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-jersey-city-bedroom-as-entry-hall.svg",
+    "image": "/images/floorplans/studio-jersey-city-bedroom-as-entry-hall.png",
     "city_image": "/images/floorplans/jersey-city.svg"
   },
   {
@@ -3375,7 +3375,7 @@
       "description": "Spot the hidden flaw in this Jersey City 1 Bedroom: there is no pantry, linen closet, or general storage anywhere in the unit."
     },
     "midjourney_prompt": "top-down architectural floor plan, Jersey City 1 bedroom apartment, compact apartment with kitchen and bath but no storage closets, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-jersey-city-no-pantry-no-linen-closet.svg",
+    "image": "/images/floorplans/1-bedroom-jersey-city-no-pantry-no-linen-closet.png",
     "city_image": "/images/floorplans/jersey-city.svg"
   },
   {
@@ -3405,7 +3405,7 @@
       "description": "Spot the hidden flaw in this Hoboken 2 Bedroom: the laundry closet is sealed inside the unit with no vent or exterior wall."
     },
     "midjourney_prompt": "top-down architectural floor plan, Hoboken 2 bedroom apartment, interior laundry closet with no exterior vent path, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-hoboken-laundry-closet-no-vent.svg",
+    "image": "/images/floorplans/2-bedroom-hoboken-laundry-closet-no-vent.png",
     "city_image": "/images/floorplans/hoboken.svg"
   },
   {
@@ -3435,7 +3435,7 @@
       "description": "Spot the hidden flaw in this Hoboken 3 Bedroom: the bedroom wall sits directly against the elevator shaft."
     },
     "midjourney_prompt": "top-down architectural floor plan, Hoboken 3 bedroom apartment, bedroom sharing wall with elevator shaft label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-hoboken-elevator-wall-bedroom.svg",
+    "image": "/images/floorplans/3-bedroom-hoboken-elevator-wall-bedroom.png",
     "city_image": "/images/floorplans/hoboken.svg"
   },
   {
