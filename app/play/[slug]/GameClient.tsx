@@ -99,7 +99,7 @@ export default function GameClient({ entry, nextSlug }: Props) {
         </div>
       </main>
       <footer className="border-t-2 border-ink mt-16 px-6 py-8">
-        <p className="font-mono text-xs text-muted">{new Date().getFullYear()} Guess The Apartment</p>
+        <p className="font-mono text-xs text-muted">{new Date().getFullYear()} Guess The Apartment &mdash; Created by Mr. Bumbi Unicorn</p>
       </footer>
     </div>
   )
