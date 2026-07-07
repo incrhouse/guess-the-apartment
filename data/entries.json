@@ -2835,7 +2835,7 @@
       "description": "Spot the hidden flaw in this Cleveland 3 Bedroom: the main closet is trapped behind another swinging door."
     },
     "midjourney_prompt": "top-down architectural floor plan, Cleveland 3 bedroom apartment, closet placed immediately behind bedroom door with overlapping swings, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-cleveland-storage-behind-swinging-door.svg",
+    "image": "/images/floorplans/3-bedroom-cleveland-storage-behind-swinging-door.png",
     "city_image": "/images/floorplans/cleveland.svg"
   },
   {
@@ -2865,7 +2865,7 @@
       "description": "Spot the hidden flaw in this Columbus Loft Studio: the kitchen is tucked under the loft level with no ventilation outlet."
     },
     "midjourney_prompt": "top-down architectural floor plan, Columbus loft studio apartment, loft studio with kitchen below sleeping loft and no vent, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-columbus-kitchen-under-loft-no-air.svg",
+    "image": "/images/floorplans/loft-studio-columbus-kitchen-under-loft-no-air.png",
     "city_image": "/images/floorplans/columbus.svg"
   },
   {
@@ -2895,7 +2895,7 @@
       "description": "Spot the hidden flaw in this Columbus Studio: the hvac or mechanical closet is located inside the bedroom footprint."
     },
     "midjourney_prompt": "top-down architectural floor plan, Columbus studio apartment, mechanical closet drawn inside bedroom with bed nearby, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-columbus-mechanical-closet-inside-bedroom.svg",
+    "image": "/images/floorplans/studio-columbus-mechanical-closet-inside-bedroom.png",
     "city_image": "/images/floorplans/columbus.svg"
   },
   {
@@ -2925,7 +2925,7 @@
       "description": "Spot the hidden flaw in this Indianapolis 1 Bedroom: the bedroom opening has no door, only a wide cased opening."
     },
     "midjourney_prompt": "top-down architectural floor plan, Indianapolis 1 bedroom apartment, bedroom shown with wide opening but no door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-indianapolis-bedroom-without-door.svg",
+    "image": "/images/floorplans/1-bedroom-indianapolis-bedroom-without-door.png",
     "city_image": "/images/floorplans/indianapolis.svg"
   },
   {
@@ -2985,7 +2985,7 @@
       "description": "Spot the hidden flaw in this Memphis 3 Bedroom: the living room is so narrow that a standard sofa would block circulation."
     },
     "midjourney_prompt": "top-down architectural floor plan, Memphis 3 bedroom apartment, narrow living room with circulation path where sofa would sit, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-memphis-living-room-cannot-fit-sofa.svg",
+    "image": "/images/floorplans/3-bedroom-memphis-living-room-cannot-fit-sofa.png",
     "city_image": "/images/floorplans/memphis.svg"
   },
   {
@@ -3015,7 +3015,7 @@
       "description": "Spot the hidden flaw in this Memphis Loft Studio: the bedroom sits directly under a flat roof with no attic or buffer zone shown."
     },
     "midjourney_prompt": "top-down architectural floor plan, Memphis loft studio apartment, top floor plan with roof exposure label over bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-memphis-top-floor-flat-roof.svg",
+    "image": "/images/floorplans/loft-studio-memphis-top-floor-flat-roof.png",
     "city_image": "/images/floorplans/memphis.svg"
   },
   {
@@ -3045,7 +3045,7 @@
       "description": "Spot the hidden flaw in this Louisville Studio: a plumbing chase interrupts the only continuous kitchen counter wall."
     },
     "midjourney_prompt": "top-down architectural floor plan, Louisville studio apartment, vertical plumbing chase cutting into kitchen counter run, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-louisville-plumbing-chase-splits-kitchen.svg",
+    "image": "/images/floorplans/studio-louisville-plumbing-chase-splits-kitchen.png",
     "city_image": "/images/floorplans/louisville.svg"
   },
   {
@@ -3075,7 +3075,7 @@
       "description": "Spot the hidden flaw in this Louisville 1 Bedroom: the below-grade unit shows only one clear exit path."
     },
     "midjourney_prompt": "top-down architectural floor plan, Louisville 1 bedroom apartment, below grade apartment with one stair/door exit and rooms beyond, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-louisville-entire-unit-basement-single-exit.svg",
+    "image": "/images/floorplans/1-bedroom-louisville-entire-unit-basement-single-exit.png",
     "city_image": "/images/floorplans/louisville.svg"
   },
   {
@@ -3105,7 +3105,7 @@
       "description": "Spot the hidden flaw in this Richmond 2 Bedroom: the bedroom wall is directly against the building trash room."
     },
     "midjourney_prompt": "top-down architectural floor plan, Richmond 2 bedroom apartment, bedroom sharing wall with trash room label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-richmond-trash-room-next-to-bedroom.svg",
+    "image": "/images/floorplans/2-bedroom-richmond-trash-room-next-to-bedroom.png",
     "city_image": "/images/floorplans/richmond.svg"
   },
   {
@@ -3135,7 +3135,7 @@
       "description": "Spot the hidden flaw in this Richmond 3 Bedroom: there is no visual or physical separation between the living area and sleeping area."
     },
     "midjourney_prompt": "top-down architectural floor plan, Richmond 3 bedroom apartment, single open room with bed and sofa side by side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-richmond-living-and-bedroom-no-boundary.svg",
+    "image": "/images/floorplans/3-bedroom-richmond-living-and-bedroom-no-boundary.png",
     "city_image": "/images/floorplans/richmond.svg"
   },
   {
