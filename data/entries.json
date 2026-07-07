@@ -3465,7 +3465,7 @@
       "description": "Spot the hidden flaw in this Astoria Loft Studio: the only bedroom window opens directly into a blank wall or tiny light gap."
     },
     "midjourney_prompt": "top-down architectural floor plan, Astoria loft studio apartment, bedroom window opening to tiny exterior gap against building wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-astoria-window-blocked-by-building-wall.svg",
+    "image": "/images/floorplans/loft-studio-astoria-window-blocked-by-building-wall.png",
     "city_image": "/images/floorplans/astoria.svg"
   },
   {
@@ -3495,7 +3495,7 @@
       "description": "Spot the hidden flaw in this Astoria Studio: the only balcony access is through the bedroom."
     },
     "midjourney_prompt": "top-down architectural floor plan, Astoria studio apartment, balcony door located only in bedroom, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-astoria-balcony-through-bedroom.svg",
+    "image": "/images/floorplans/studio-astoria-balcony-through-bedroom.png",
     "city_image": "/images/floorplans/astoria.svg"
   },
   {
@@ -3525,7 +3525,7 @@
       "description": "Spot the hidden flaw in this Harlem 1 Bedroom: the primary suite consumes most of the apartment while common space is squeezed."
     },
     "midjourney_prompt": "top-down architectural floor plan, Harlem 1 bedroom apartment, large primary suite dominating plan with small kitchen living area, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-harlem-primary-suite-swallowing-unit.svg",
+    "image": "/images/floorplans/1-bedroom-harlem-primary-suite-swallowing-unit.png",
     "city_image": "/images/floorplans/harlem.svg"
   },
   {
@@ -3555,7 +3555,7 @@
       "description": "Spot the hidden flaw in this Harlem 2 Bedroom: every window is placed on the same hot exposed wall, concentrating heat in all rooms."
     },
     "midjourney_prompt": "top-down architectural floor plan, Harlem 2 bedroom apartment, single exposure apartment with all windows on west/southwest side, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-harlem-windows-on-noisy-hot-wall.svg",
+    "image": "/images/floorplans/2-bedroom-harlem-windows-on-noisy-hot-wall.png",
     "city_image": "/images/floorplans/harlem.svg"
   },
   {
@@ -3585,7 +3585,7 @@
       "description": "Spot the hidden flaw in this Bronx 3 Bedroom: the breaker panel sits on the only wall long enough for the bed."
     },
     "midjourney_prompt": "top-down architectural floor plan, Bronx 3 bedroom apartment, breaker panel symbol centered on bed placement wall, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-bronx-breaker-panel-over-bed.svg",
+    "image": "/images/floorplans/3-bedroom-bronx-breaker-panel-over-bed.png",
     "city_image": "/images/floorplans/bronx.svg"
   },
   {
@@ -3615,7 +3615,7 @@
       "description": "Spot the hidden flaw in this Bronx Loft Studio: the below-grade bedroom window faces a retaining wall instead of open air."
     },
     "midjourney_prompt": "top-down architectural floor plan, Bronx loft studio apartment, bedroom window well facing retaining wall label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-bronx-below-grade-bedroom-no-view.svg",
+    "image": "/images/floorplans/loft-studio-bronx-below-grade-bedroom-no-view.png",
     "city_image": "/images/floorplans/bronx.svg"
   }
 ]
