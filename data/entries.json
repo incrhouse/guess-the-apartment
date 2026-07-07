@@ -1635,7 +1635,7 @@
       "description": "Spot the hidden flaw in this Nashville 3 Bedroom: the only practical bed placement blocks the closet doors."
     },
     "midjourney_prompt": "top-down architectural floor plan, Nashville 3 bedroom apartment, queen bed rectangle overlapping closet door swing, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-nashville-bed-blocks-closet.svg",
+    "image": "/images/floorplans/3-bedroom-nashville-bed-blocks-closet.png",
     "city_image": "/images/floorplans/nashville.svg"
   },
   {
@@ -1665,7 +1665,7 @@
       "description": "Spot the hidden flaw in this Portland Loft Studio: the so-called bedroom has two doors, no closet, and no logical private wall."
     },
     "midjourney_prompt": "top-down architectural floor plan, Portland loft studio apartment, small bedroom carved from common area with two doors, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-portland-bedroom-with-two-doors-no-closet.svg",
+    "image": "/images/floorplans/loft-studio-portland-bedroom-with-two-doors-no-closet.png",
     "city_image": "/images/floorplans/portland.svg"
   },
   {
@@ -1695,7 +1695,7 @@
       "description": "Spot the hidden flaw in this Portland Studio: the only windows face a neighboring brick wall just a few feet away."
     },
     "midjourney_prompt": "top-down architectural floor plan, Portland studio apartment, windows opening to narrow gap with brick wall label, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-portland-only-windows-face-brick-wall.svg",
+    "image": "/images/floorplans/studio-portland-only-windows-face-brick-wall.png",
     "city_image": "/images/floorplans/portland.svg"
   },
   {
@@ -1725,7 +1725,7 @@
       "description": "Spot the hidden flaw in this Phoenix 1 Bedroom: the kitchen is only accessible by walking through the bedroom."
     },
     "midjourney_prompt": "top-down architectural floor plan, Phoenix 1 bedroom apartment, kitchen tucked beyond bedroom with no hallway connection, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-phoenix-bedroom-only-path-to-kitchen.svg",
+    "image": "/images/floorplans/1-bedroom-phoenix-bedroom-only-path-to-kitchen.png",
     "city_image": "/images/floorplans/phoenix.svg"
   },
   {
@@ -1755,7 +1755,7 @@
       "description": "Spot the hidden flaw in this Phoenix 2 Bedroom: the bedroom has no built-in storage, so any wardrobe would block the bed clearance."
     },
     "midjourney_prompt": "top-down architectural floor plan, Phoenix 2 bedroom apartment, small bedroom with bed clearance and no closet forcing wardrobe into pathway, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-phoenix-tiny-bedroom-lost-to-wardrobes.svg",
+    "image": "/images/floorplans/2-bedroom-phoenix-tiny-bedroom-lost-to-wardrobes.png",
     "city_image": "/images/floorplans/phoenix.svg"
   },
   {
@@ -1785,7 +1785,7 @@
       "description": "Spot the hidden flaw in this Minneapolis 3 Bedroom: the bathroom has no window or exhaust fan shown on the plan."
     },
     "midjourney_prompt": "top-down architectural floor plan, Minneapolis 3 bedroom apartment, interior bathroom with no fan symbol and no window, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/3-bedroom-minneapolis-bathroom-no-fan.svg",
+    "image": "/images/floorplans/3-bedroom-minneapolis-bathroom-no-fan.png",
     "city_image": "/images/floorplans/minneapolis.svg"
   },
   {
@@ -1815,7 +1815,7 @@
       "description": "Spot the hidden flaw in this Minneapolis Loft Studio: the bed is placed against the same wall as the toilet and shower plumbing."
     },
     "midjourney_prompt": "top-down architectural floor plan, Minneapolis loft studio apartment, bed headboard on wall shared with toilet and shower, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/loft-studio-minneapolis-bathroom-plumbing-at-headboard.svg",
+    "image": "/images/floorplans/loft-studio-minneapolis-bathroom-plumbing-at-headboard.png",
     "city_image": "/images/floorplans/minneapolis.svg"
   },
   {
@@ -1845,7 +1845,7 @@
       "description": "Spot the hidden flaw in this New Orleans Studio: the room labeled bedroom is closer to a closet than a habitable sleeping room."
     },
     "midjourney_prompt": "top-down architectural floor plan, New Orleans studio apartment, very small interior room labeled bedroom with minimal clearances, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/studio-new-orleans-closet-labeled-bedroom.svg",
+    "image": "/images/floorplans/studio-new-orleans-closet-labeled-bedroom.png",
     "city_image": "/images/floorplans/new-orleans.svg"
   },
   {
@@ -1875,7 +1875,7 @@
       "description": "Spot the hidden flaw in this New Orleans 1 Bedroom: the guest path from the entry crosses the bedroom zone before reaching the living area."
     },
     "midjourney_prompt": "top-down architectural floor plan, New Orleans 1 bedroom apartment, entry route crossing bedroom area to living room, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/1-bedroom-new-orleans-guest-path-through-bedroom.svg",
+    "image": "/images/floorplans/1-bedroom-new-orleans-guest-path-through-bedroom.png",
     "city_image": "/images/floorplans/new-orleans.svg"
   },
   {
@@ -1905,7 +1905,7 @@
       "description": "Spot the hidden flaw in this Houston 2 Bedroom: a long oversized hallway consumes the space that should have gone to rooms."
     },
     "midjourney_prompt": "top-down architectural floor plan, Houston 2 bedroom apartment, wide long hallway taking major footprint between rooms, clean minimal line drawing, white background, black walls, labeled rooms, architectural blueprint style",
-    "image": "/images/floorplans/2-bedroom-houston-hallway-wastes-square-footage.svg",
+    "image": "/images/floorplans/2-bedroom-houston-hallway-wastes-square-footage.png",
     "city_image": "/images/floorplans/houston.svg"
   },
   {
